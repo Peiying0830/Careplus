@@ -1,10 +1,4 @@
 <?php
-
-/* ============================================
-   RAILWAY 部署配置文件
-   该文件会自动读取 Railway 设置的环境变量
-   ============================================ */
-
 /* Session Settings */
 if (session_status() === PHP_SESSION_NONE) {
     session_start([
@@ -27,7 +21,7 @@ define('SITE_NAME', 'CarePlus - Smart Clinic Management Portal');
 define('DB_HOST', getenv('MYSQLHOST') ?: 'localhost');
 define('DB_USER', getenv('MYSQLUSER') ?: 'root');
 define('DB_PASS', getenv('MYSQLPASSWORD') ?: '');
-define('DB_NAME', getenv('MYSQLDATABASE') ?: 'clinic_management');
+define('DB_NAME', getenv('MYSQLDATABASE') ?: 'railway'); 
 define('DB_PORT', getenv('MYSQLPORT') ?: '3306');
 
 /* File Upload Config */

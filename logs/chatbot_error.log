@@ -1,0 +1,35 @@
+[27-Dec-2025 03:23:39 Asia/Kuala_Lumpur] Chatbot error: API error (HTTP 400)
+[27-Dec-2025 03:23:44 Asia/Kuala_Lumpur] Chatbot error: API error (HTTP 400)
+[27-Dec-2025 03:29:21 Asia/Kuala_Lumpur] Chatbot error: API error (HTTP 400)
+[27-Dec-2025 03:30:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_RETURNABLE" in C:\xampp\htdocs\CarePlus\chatbot_api.php:235
+Stack trace:
+#0 C:\xampp\htdocs\CarePlus\chatbot_api.php(421): ChatbotScopeController->callGeminiAPI('You are a frien...')
+#1 C:\xampp\htdocs\CarePlus\chatbot_api.php(493): ChatbotScopeController->processMessage('hi', 'qb64oen30pqv5hn...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 235
+[27-Dec-2025 03:31:02 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Undefined constant "CURLOPT_RETURNABLE" in C:\xampp\htdocs\CarePlus\chatbot_api.php:235
+Stack trace:
+#0 C:\xampp\htdocs\CarePlus\chatbot_api.php(421): ChatbotScopeController->callGeminiAPI('You are a frien...')
+#1 C:\xampp\htdocs\CarePlus\chatbot_api.php(493): ChatbotScopeController->processMessage('fever', 'qb64oen30pqv5hn...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 235
+[27-Dec-2025 03:39:25 Asia/Kuala_Lumpur] Chatbot error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[27-Dec-2025 03:41:01 Asia/Kuala_Lumpur] Chatbot error: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[26-Dec-2025 21:04:49 Europe/Berlin] PHP Fatal error:  Cannot redeclare logDebug() (previously declared in C:\xampp\htdocs\CarePlus\chatbot_api.php:13) in C:\xampp\htdocs\CarePlus\chatbot_controller.php on line 7
+[26-Dec-2025 21:05:11 Europe/Berlin] PHP Fatal error:  Cannot redeclare logDebug() (previously declared in C:\xampp\htdocs\CarePlus\chatbot_api.php:13) in C:\xampp\htdocs\CarePlus\chatbot_controller.php on line 7
+[11-Jan-2026 02:21:18 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:29:01 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:30:42 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:35:38 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:39:12 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:46:03 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:46:08 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 02:57:26 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:06:48 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:07:28 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:08:49 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:09:19 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:12:46 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:13:29 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:13:38 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82
+[11-Jan-2026 03:18:47 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "is_restricted" in C:\xampp\htdocs\CarePlus\chatbot_api.php on line 82

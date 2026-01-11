@@ -1,0 +1,3148 @@
+[2025-12-26 20:23:39] === Chatbot API Called ===
+[2025-12-26 20:23:39] Raw input length: 76
+[2025-12-26 20:23:39] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:23:39] Database connected
+[2025-12-27 03:23:39] Controller initialized
+[2025-12-27 03:23:39] Processing message: hi
+[2025-12-27 03:23:39] Checking restrictions for: hi
+[2025-12-27 03:23:39] Found 9 restrictions
+[2025-12-27 03:23:39] No restrictions matched
+[2025-12-27 03:23:39] Finding scope for message, logged_in: no
+[2025-12-27 03:23:39] Found 19 scopes
+[2025-12-27 03:23:39] Matched scope: Greetings (matches: 1)
+[2025-12-27 03:23:39] Building prompt...
+[2025-12-27 03:23:39] Prompt built, length: 863
+[2025-12-27 03:23:39] Calling Gemini API...
+[2025-12-27 03:23:39] API Response Code: 400
+[2025-12-27 03:23:39] API Error: API error (HTTP 400)
+[2025-12-27 03:23:39] Response: 1
+[2025-12-27 03:23:39] ERROR: API error (HTTP 400)
+[2025-12-26 20:23:44] === Chatbot API Called ===
+[2025-12-26 20:23:44] Raw input length: 78
+[2025-12-26 20:23:44] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:23:44] Database connected
+[2025-12-27 03:23:44] Controller initialized
+[2025-12-27 03:23:44] Processing message: halo
+[2025-12-27 03:23:44] Checking restrictions for: halo
+[2025-12-27 03:23:44] Found 9 restrictions
+[2025-12-27 03:23:44] No restrictions matched
+[2025-12-27 03:23:44] Finding scope for message, logged_in: no
+[2025-12-27 03:23:44] Found 19 scopes
+[2025-12-27 03:23:44] No scope matched
+[2025-12-27 03:23:44] Building prompt...
+[2025-12-27 03:23:44] Prompt built, length: 555
+[2025-12-27 03:23:44] Calling Gemini API...
+[2025-12-27 03:23:44] API Response Code: 400
+[2025-12-27 03:23:44] API Error: API error (HTTP 400)
+[2025-12-27 03:23:44] Response: 1
+[2025-12-27 03:23:44] ERROR: API error (HTTP 400)
+[2025-12-26 20:29:20] === Chatbot API Called ===
+[2025-12-26 20:29:20] Raw input length: 76
+[2025-12-26 20:29:20] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:29:20] Database connected
+[2025-12-27 03:29:20] Controller initialized
+[2025-12-27 03:29:20] Processing message: hi
+[2025-12-27 03:29:20] Checking restrictions for: hi
+[2025-12-27 03:29:20] Found 9 restrictions
+[2025-12-27 03:29:20] No restrictions matched
+[2025-12-27 03:29:20] Finding scope for message, logged_in: no
+[2025-12-27 03:29:20] Found 19 scopes
+[2025-12-27 03:29:20] Matched scope: Greetings (matches: 1)
+[2025-12-27 03:29:20] Building prompt...
+[2025-12-27 03:29:20] Prompt built, length: 863
+[2025-12-27 03:29:20] Calling Gemini API...
+[2025-12-27 03:29:21] API Response Code: 400
+[2025-12-27 03:29:21] API Error: API error (HTTP 400)
+[2025-12-27 03:29:21] Response: 1
+[2025-12-27 03:29:21] ERROR: API error (HTTP 400)
+[2025-12-26 20:30:56] === Chatbot API Called ===
+[2025-12-26 20:30:56] Raw input length: 76
+[2025-12-26 20:30:56] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:30:56] Database connected
+[2025-12-27 03:30:56] Controller initialized
+[2025-12-27 03:30:56] Processing message: hi
+[2025-12-27 03:30:56] Checking restrictions for: hi
+[2025-12-27 03:30:56] Found 9 restrictions
+[2025-12-27 03:30:56] No restrictions matched
+[2025-12-27 03:30:56] Finding scope for message, logged_in: no
+[2025-12-27 03:30:56] Found 19 scopes
+[2025-12-27 03:30:56] Matched scope: Greetings (matches: 1)
+[2025-12-27 03:30:56] Building prompt...
+[2025-12-27 03:30:56] Prompt built, length: 863
+[2025-12-27 03:30:56] Calling Gemini API...
+[2025-12-26 20:31:02] === Chatbot API Called ===
+[2025-12-26 20:31:02] Raw input length: 79
+[2025-12-26 20:31:02] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:31:02] Database connected
+[2025-12-27 03:31:02] Controller initialized
+[2025-12-27 03:31:02] Processing message: fever
+[2025-12-27 03:31:02] Checking restrictions for: fever
+[2025-12-27 03:31:02] Found 9 restrictions
+[2025-12-27 03:31:02] No restrictions matched
+[2025-12-27 03:31:02] Finding scope for message, logged_in: no
+[2025-12-27 03:31:02] Found 19 scopes
+[2025-12-27 03:31:02] No scope matched
+[2025-12-27 03:31:02] Building prompt...
+[2025-12-27 03:31:02] Prompt built, length: 556
+[2025-12-27 03:31:02] Calling Gemini API...
+[2025-12-26 20:39:25] === Chatbot API Called ===
+[2025-12-26 20:39:25] Raw input length: 76
+[2025-12-26 20:39:25] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:39:25] Database connected
+[2025-12-27 03:39:25] Controller initialized
+[2025-12-27 03:39:25] Processing message: hi
+[2025-12-27 03:39:25] Checking restrictions for: hi
+[2025-12-27 03:39:25] Found 9 restrictions
+[2025-12-27 03:39:25] No restrictions matched
+[2025-12-27 03:39:25] Finding scope for message, logged_in: no
+[2025-12-27 03:39:25] Found 19 scopes
+[2025-12-27 03:39:25] Matched scope: Greetings (matches: 1)
+[2025-12-27 03:39:25] Building prompt...
+[2025-12-27 03:39:25] Prompt built, length: 863
+[2025-12-27 03:39:25] Calling Gemini API...
+[2025-12-27 03:39:25] API Response Code: 404
+[2025-12-27 03:39:25] API Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-27 03:39:25] Response: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-12-27 03:39:25] ERROR: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-26 20:41:01] === Chatbot API Called ===
+[2025-12-26 20:41:01] Raw input length: 76
+[2025-12-26 20:41:01] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:41:01] Database connected
+[2025-12-27 03:41:01] Controller initialized
+[2025-12-27 03:41:01] Processing message: hi
+[2025-12-27 03:41:01] Checking restrictions for: hi
+[2025-12-27 03:41:01] Found 9 restrictions
+[2025-12-27 03:41:01] No restrictions matched
+[2025-12-27 03:41:01] Finding scope for message, logged_in: no
+[2025-12-27 03:41:01] Found 19 scopes
+[2025-12-27 03:41:01] Matched scope: Greetings (matches: 1)
+[2025-12-27 03:41:01] Building prompt...
+[2025-12-27 03:41:01] Prompt built, length: 863
+[2025-12-27 03:41:01] Calling Gemini API...
+[2025-12-27 03:41:01] API Response Code: 404
+[2025-12-27 03:41:01] API Error: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-27 03:41:01] Response: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-12-27 03:41:01] ERROR: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-26 20:47:19] === Chatbot API Called ===
+[2025-12-26 20:47:19] Raw input length: 76
+[2025-12-26 20:47:19] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:47:19] Database connected
+[2025-12-27 03:47:19] Controller initialized
+[2025-12-27 03:47:19] Processing message: hi
+[2025-12-27 03:47:19] Checking restrictions for: hi
+[2025-12-27 03:47:19] Found 9 restrictions
+[2025-12-27 03:47:19] No restrictions matched
+[2025-12-27 03:47:19] Finding scope for message, logged_in: no
+[2025-12-27 03:47:19] Found 19 scopes
+[2025-12-27 03:47:19] Matched scope: Greetings (matches: 1)
+[2025-12-27 03:47:19] Using database template, length: 193
+[2025-12-27 03:47:19] Saved to database, log_id: 1
+[2025-12-27 03:47:19] Returning successful response
+[2025-12-27 03:47:19] Result prepared, sending response
+[2025-12-27 03:47:19] Response sent successfully
+[2025-12-26 20:47:37] === Chatbot API Called ===
+[2025-12-26 20:47:37] Raw input length: 98
+[2025-12-26 20:47:37] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:47:37] Database connected
+[2025-12-27 03:47:37] Controller initialized
+[2025-12-27 03:47:37] Processing message: clinic service and hours
+[2025-12-27 03:47:37] Checking restrictions for: clinic service and hours
+[2025-12-27 03:47:37] Found 9 restrictions
+[2025-12-27 03:47:37] No restrictions matched
+[2025-12-27 03:47:37] Finding scope for message, logged_in: no
+[2025-12-27 03:47:37] Found 19 scopes
+[2025-12-27 03:47:37] No scope matched
+[2025-12-27 03:47:37] Using default fallback response
+[2025-12-27 03:47:37] Saved to database, log_id: 2
+[2025-12-27 03:47:37] Returning successful response
+[2025-12-27 03:47:37] Result prepared, sending response
+[2025-12-27 03:47:37] Response sent successfully
+[2025-12-26 20:48:33] === Chatbot API Called ===
+[2025-12-26 20:48:33] Raw input length: 97
+[2025-12-26 20:48:33] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 03:48:33] Database connected
+[2025-12-27 03:48:33] Controller initialized
+[2025-12-27 03:48:33] Processing message: general health question
+[2025-12-27 03:48:33] Checking restrictions for: general health question
+[2025-12-27 03:48:33] Found 9 restrictions
+[2025-12-27 03:48:33] No restrictions matched
+[2025-12-27 03:48:33] Finding scope for message, logged_in: no
+[2025-12-27 03:48:33] Found 19 scopes
+[2025-12-27 03:48:33] No scope matched
+[2025-12-27 03:48:33] Using default fallback response
+[2025-12-27 03:48:33] Saved to database, log_id: 3
+[2025-12-27 03:48:33] Returning successful response
+[2025-12-27 03:48:33] Result prepared, sending response
+[2025-12-27 03:48:33] Response sent successfully
+[2025-12-26 20:53:51] === Chatbot API Called ===
+[2025-12-26 20:56:28] === Chatbot API Called ===
+[2025-12-26 20:56:58] === Chatbot API Called ===
+[2025-12-26 21:04:49] === Chatbot API Called ===
+[2025-12-26 21:04:49] Raw input length: 76
+[2025-12-26 21:04:49] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-26 21:05:11] === Chatbot API Called ===
+[2025-12-26 21:05:11] Raw input length: 76
+[2025-12-26 21:05:11] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-26 21:15:45] === Chatbot API Called ===
+[2025-12-26 21:15:45] Raw input length: 76
+[2025-12-26 21:15:45] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 04:15:45] Database connected
+[2025-12-27 04:15:45] Controller initialized
+[2025-12-27 04:15:45] Processing message: HI
+[2025-12-27 04:15:45] Checking restrictions for: HI
+[2025-12-27 04:15:45] Found 9 restrictions
+[2025-12-27 04:15:45] No restrictions matched
+[2025-12-27 04:15:45] Finding scope for message, logged_in: no
+[2025-12-27 04:15:45] Found 19 scopes
+[2025-12-27 04:15:45] Matched scope: Greetings (matches: 1)
+[2025-12-27 04:15:45] Using database template, length: 193
+[2025-12-27 04:15:45] Saved to database, log_id: 4
+[2025-12-27 04:15:45] Returning successful response
+[2025-12-27 04:15:45] Result prepared, sending response
+[2025-12-27 04:15:45] Response sent successfully
+[2025-12-26 21:15:53] === Chatbot API Called ===
+[2025-12-26 21:15:53] Raw input length: 75
+[2025-12-26 21:15:53] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 04:15:53] Database connected
+[2025-12-27 04:15:53] Controller initialized
+[2025-12-27 04:15:53] Processing message: 1
+[2025-12-27 04:15:53] Checking restrictions for: 1
+[2025-12-27 04:15:53] Found 9 restrictions
+[2025-12-27 04:15:53] No restrictions matched
+[2025-12-27 04:15:53] Finding scope for message, logged_in: no
+[2025-12-27 04:15:53] Found 19 scopes
+[2025-12-27 04:15:53] No scope matched
+[2025-12-27 04:15:53] Menu selection handled: 1
+[2025-12-27 04:15:53] Saved to database, log_id: 5
+[2025-12-27 04:15:53] Returning successful response
+[2025-12-27 04:15:53] Result prepared, sending response
+[2025-12-27 04:15:53] Response sent successfully
+[2025-12-26 21:16:09] === Chatbot API Called ===
+[2025-12-26 21:16:09] Raw input length: 75
+[2025-12-26 21:16:09] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 04:16:09] Database connected
+[2025-12-27 04:16:09] Controller initialized
+[2025-12-27 04:16:09] Processing message: 3
+[2025-12-27 04:16:09] Checking restrictions for: 3
+[2025-12-27 04:16:09] Found 9 restrictions
+[2025-12-27 04:16:09] No restrictions matched
+[2025-12-27 04:16:09] Finding scope for message, logged_in: no
+[2025-12-27 04:16:09] Found 19 scopes
+[2025-12-27 04:16:09] No scope matched
+[2025-12-27 04:16:09] Menu selection handled: 3
+[2025-12-27 04:16:09] Saved to database, log_id: 6
+[2025-12-27 04:16:09] Returning successful response
+[2025-12-27 04:16:09] Result prepared, sending response
+[2025-12-27 04:16:09] Response sent successfully
+[2025-12-26 21:16:13] === Chatbot API Called ===
+[2025-12-26 21:16:13] Raw input length: 75
+[2025-12-26 21:16:13] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 04:16:13] Database connected
+[2025-12-27 04:16:13] Controller initialized
+[2025-12-27 04:16:13] Processing message: 1
+[2025-12-27 04:16:13] Checking restrictions for: 1
+[2025-12-27 04:16:13] Found 9 restrictions
+[2025-12-27 04:16:13] No restrictions matched
+[2025-12-27 04:16:13] Finding scope for message, logged_in: no
+[2025-12-27 04:16:13] Found 19 scopes
+[2025-12-27 04:16:13] No scope matched
+[2025-12-27 04:16:13] Menu selection handled: 1
+[2025-12-27 04:16:13] Saved to database, log_id: 7
+[2025-12-27 04:16:13] Returning successful response
+[2025-12-27 04:16:13] Result prepared, sending response
+[2025-12-27 04:16:13] Response sent successfully
+[2025-12-26 21:21:21] === Chatbot API Called ===
+[2025-12-26 21:21:21] Raw input length: 76
+[2025-12-26 21:21:21] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 04:21:21] Database connected
+[2025-12-27 04:21:21] Controller initialized
+[2025-12-27 04:21:21] Processing message: hi
+[2025-12-27 04:21:21] Checking restrictions for: hi
+[2025-12-27 04:21:21] Found 9 restrictions
+[2025-12-27 04:21:21] No restrictions matched
+[2025-12-27 04:21:21] Finding scope for message, logged_in: no
+[2025-12-27 04:21:21] Found 19 scopes
+[2025-12-27 04:21:21] Matched scope: Greetings (matches: 1)
+[2025-12-27 04:21:21] Using database template, length: 193
+[2025-12-27 04:21:21] Saved to database, log_id: 8
+[2025-12-27 04:21:21] Returning successful response
+[2025-12-27 04:21:21] Result prepared, sending response
+[2025-12-27 04:21:21] Response sent successfully
+[2025-12-26 21:21:50] === Chatbot API Called ===
+[2025-12-26 21:21:50] Raw input length: 76
+[2025-12-26 21:21:50] Session: qb64oen30pqv5hnatl7k3asfcq, Patient: guest
+[2025-12-27 04:21:50] Database connected
+[2025-12-27 04:21:50] Controller initialized
+[2025-12-27 04:21:50] Processing message: hi
+[2025-12-27 04:21:50] Checking restrictions for: hi
+[2025-12-27 04:21:50] Found 9 restrictions
+[2025-12-27 04:21:50] No restrictions matched
+[2025-12-27 04:21:50] Finding scope for message, logged_in: no
+[2025-12-27 04:21:50] Found 19 scopes
+[2025-12-27 04:21:50] Matched scope: Greetings (matches: 1)
+[2025-12-27 04:21:50] Using database template, length: 193
+[2025-12-27 04:21:50] Saved to database, log_id: 9
+[2025-12-27 04:21:50] Returning successful response
+[2025-12-27 04:21:50] Result prepared, sending response
+[2025-12-27 04:21:50] Response sent successfully
+[2025-12-27 10:16:31] === Chatbot API Called ===
+[2025-12-27 10:16:31] Raw input length: 76
+[2025-12-27 10:16:31] Session: 684juvrb0n4a6nuttm4irn10h9, Patient: guest
+[2025-12-27 17:16:31] Database connected
+[2025-12-27 17:16:31] Controller initialized
+[2025-12-27 17:16:31] Processing message: hi
+[2025-12-27 17:16:31] Checking restrictions for: hi
+[2025-12-27 17:16:31] Found 9 restrictions
+[2025-12-27 17:16:31] No restrictions matched
+[2025-12-27 17:16:31] Finding scope for message, logged_in: no
+[2025-12-27 17:16:31] Found 19 scopes
+[2025-12-27 17:16:31] Matched scope: Greetings (matches: 1)
+[2025-12-27 17:16:31] Using database template, length: 193
+[2025-12-27 17:16:31] Saved to database, log_id: 10
+[2025-12-27 17:16:31] Returning successful response
+[2025-12-27 17:16:31] Result prepared, sending response
+[2025-12-27 17:16:31] Response sent successfully
+[2025-12-27 10:16:49] === Chatbot API Called ===
+[2025-12-27 10:16:49] Raw input length: 93
+[2025-12-27 10:16:49] Session: 684juvrb0n4a6nuttm4irn10h9, Patient: guest
+[2025-12-27 17:16:49] Database connected
+[2025-12-27 17:16:49] Controller initialized
+[2025-12-27 17:16:49] Processing message: general information
+[2025-12-27 17:16:49] Checking restrictions for: general information
+[2025-12-27 17:16:49] Found 9 restrictions
+[2025-12-27 17:16:49] No restrictions matched
+[2025-12-27 17:16:49] Finding scope for message, logged_in: no
+[2025-12-27 17:16:49] Found 19 scopes
+[2025-12-27 17:16:49] No scope matched
+[2025-12-27 17:16:49] Showing interactive menu
+[2025-12-27 17:16:49] Saved to database, log_id: 11
+[2025-12-27 17:16:49] Returning successful response
+[2025-12-27 17:16:49] Result prepared, sending response
+[2025-12-27 17:16:49] Response sent successfully
+[2025-12-27 10:16:56] === Chatbot API Called ===
+[2025-12-27 10:16:56] Raw input length: 75
+[2025-12-27 10:16:56] Session: 684juvrb0n4a6nuttm4irn10h9, Patient: guest
+[2025-12-27 17:16:56] Database connected
+[2025-12-27 17:16:56] Controller initialized
+[2025-12-27 17:16:56] Processing message: 1
+[2025-12-27 17:16:56] Checking restrictions for: 1
+[2025-12-27 17:16:56] Found 9 restrictions
+[2025-12-27 17:16:56] No restrictions matched
+[2025-12-27 17:16:56] Finding scope for message, logged_in: no
+[2025-12-27 17:16:56] Found 19 scopes
+[2025-12-27 17:16:56] No scope matched
+[2025-12-27 17:16:56] Menu selection handled: 1
+[2025-12-27 17:16:56] Saved to database, log_id: 12
+[2025-12-27 17:16:56] Returning successful response
+[2025-12-27 17:16:56] Result prepared, sending response
+[2025-12-27 17:16:56] Response sent successfully
+[2025-12-27 10:20:47] === Chatbot API Called ===
+[2025-12-27 10:20:47] Raw input length: 76
+[2025-12-27 10:20:47] Session: 684juvrb0n4a6nuttm4irn10h9, Patient: guest
+[2025-12-27 17:20:47] Database connected
+[2025-12-27 17:20:47] Controller initialized
+[2025-12-27 17:20:47] Processing message: hi
+[2025-12-27 17:20:47] Checking restrictions for: hi
+[2025-12-27 17:20:47] Found 9 restrictions
+[2025-12-27 17:20:47] No restrictions matched
+[2025-12-27 17:20:47] Finding scope for message, logged_in: no
+[2025-12-27 17:20:47] Found 19 scopes
+[2025-12-27 17:20:47] Matched scope: Greetings (matches: 1)
+[2025-12-27 17:20:47] Using database template, length: 193
+[2025-12-27 17:20:47] Saved to database, log_id: 13
+[2025-12-27 17:20:47] Returning successful response
+[2025-12-27 17:20:47] Result prepared, sending response
+[2025-12-27 17:20:47] Response sent successfully
+[2025-12-27 10:37:40] === Chatbot API Called ===
+[2025-12-27 10:37:40] Raw input length: 76
+[2025-12-27 10:37:40] Session: 3ogmnhj3jbjkj8ip1gd6u2vh3k, Patient: guest
+[2025-12-27 17:37:40] Database connected
+[2025-12-27 17:37:40] Controller initialized
+[2025-12-27 17:37:40] Processing message: hi
+[2025-12-27 17:37:40] Checking restrictions for: hi
+[2025-12-27 17:37:40] Found 12 restrictions
+[2025-12-27 17:37:40] No restrictions matched
+[2025-12-27 17:37:40] Finding scope for message, logged_in: no
+[2025-12-27 17:37:40] Found 19 scopes
+[2025-12-27 17:37:40] Matched scope: Greetings (matches: 1)
+[2025-12-27 17:37:40] Using database template, length: 191
+[2025-12-27 17:37:40] Saved to database, log_id: 14
+[2025-12-27 17:37:40] Returning successful response
+[2025-12-27 17:37:40] Result prepared, sending response
+[2025-12-27 17:37:40] Response sent successfully
+[2025-12-27 11:43:55] === Chatbot API Called ===
+[2025-12-27 11:43:55] Raw input length: 76
+[2025-12-27 11:43:55] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:43:55] Database connected
+[2025-12-27 18:43:55] Controller initialized
+[2025-12-27 18:43:55] Processing message: hi
+[2025-12-27 18:43:55] Checking restrictions for: hi
+[2025-12-27 18:43:55] Found 12 restrictions
+[2025-12-27 18:43:55] No restrictions matched
+[2025-12-27 18:43:55] Finding scope for message, logged_in: no
+[2025-12-27 18:43:55] Found 19 scopes
+[2025-12-27 18:43:55] Matched scope: Greetings (matches: 1)
+[2025-12-27 18:43:55] Using database template, length: 374
+[2025-12-27 18:43:55] Saved to database, log_id: 15
+[2025-12-27 18:43:55] Returning successful response
+[2025-12-27 18:43:55] Result prepared, sending response
+[2025-12-27 18:43:55] Response sent successfully
+[2025-12-27 11:45:48] === Chatbot API Called ===
+[2025-12-27 11:45:48] Raw input length: 76
+[2025-12-27 11:45:48] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:45:48] Database connected
+[2025-12-27 18:45:48] Controller initialized
+[2025-12-27 18:45:48] Processing message: hi
+[2025-12-27 18:45:48] Checking restrictions for: hi
+[2025-12-27 18:45:48] Found 12 restrictions
+[2025-12-27 18:45:48] No restrictions matched
+[2025-12-27 18:45:48] Finding scope for message, logged_in: no
+[2025-12-27 18:45:48] Found 19 scopes
+[2025-12-27 18:45:48] Matched scope: Greetings (matches: 1)
+[2025-12-27 18:45:48] Using database template, length: 369
+[2025-12-27 18:45:48] Saved to database, log_id: 16
+[2025-12-27 18:45:48] Returning successful response
+[2025-12-27 18:45:48] Result prepared, sending response
+[2025-12-27 18:45:48] Response sent successfully
+[2025-12-27 11:46:01] === Chatbot API Called ===
+[2025-12-27 11:46:01] Raw input length: 85
+[2025-12-27 11:46:01] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:46:01] Database connected
+[2025-12-27 18:46:01] Controller initialized
+[2025-12-27 18:46:01] Processing message: appointment
+[2025-12-27 18:46:01] Checking restrictions for: appointment
+[2025-12-27 18:46:01] Found 12 restrictions
+[2025-12-27 18:46:01] No restrictions matched
+[2025-12-27 18:46:01] Finding scope for message, logged_in: no
+[2025-12-27 18:46:01] Found 19 scopes
+[2025-12-27 18:46:01] No scope matched
+[2025-12-27 18:46:01] Showing interactive menu
+[2025-12-27 18:46:01] Saved to database, log_id: 17
+[2025-12-27 18:46:01] Returning successful response
+[2025-12-27 18:46:01] Result prepared, sending response
+[2025-12-27 18:46:01] Response sent successfully
+[2025-12-27 11:46:10] === Chatbot API Called ===
+[2025-12-27 11:46:10] Raw input length: 75
+[2025-12-27 11:46:10] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:46:10] Database connected
+[2025-12-27 18:46:10] Controller initialized
+[2025-12-27 18:46:10] Processing message: 9
+[2025-12-27 18:46:10] Checking restrictions for: 9
+[2025-12-27 18:46:10] Found 12 restrictions
+[2025-12-27 18:46:10] No restrictions matched
+[2025-12-27 18:46:10] Finding scope for message, logged_in: no
+[2025-12-27 18:46:10] Found 19 scopes
+[2025-12-27 18:46:10] No scope matched
+[2025-12-27 18:46:10] Menu selection handled: 9
+[2025-12-27 18:46:10] Saved to database, log_id: 18
+[2025-12-27 18:46:10] Returning successful response
+[2025-12-27 18:46:10] Result prepared, sending response
+[2025-12-27 18:46:10] Response sent successfully
+[2025-12-27 11:47:04] === Chatbot API Called ===
+[2025-12-27 11:47:04] Raw input length: 76
+[2025-12-27 11:47:04] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:47:04] Database connected
+[2025-12-27 18:47:04] Controller initialized
+[2025-12-27 18:47:04] Processing message: hi
+[2025-12-27 18:47:04] Checking restrictions for: hi
+[2025-12-27 18:47:04] Found 12 restrictions
+[2025-12-27 18:47:04] No restrictions matched
+[2025-12-27 18:47:04] Finding scope for message, logged_in: no
+[2025-12-27 18:47:04] Found 19 scopes
+[2025-12-27 18:47:04] Matched scope: Greetings (matches: 1)
+[2025-12-27 18:47:04] Using database template, length: 369
+[2025-12-27 18:47:04] Saved to database, log_id: 19
+[2025-12-27 18:47:04] Returning successful response
+[2025-12-27 18:47:04] Result prepared, sending response
+[2025-12-27 18:47:04] Response sent successfully
+[2025-12-27 11:47:09] === Chatbot API Called ===
+[2025-12-27 11:47:09] Raw input length: 86
+[2025-12-27 11:47:09] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:47:09] Database connected
+[2025-12-27 18:47:09] Controller initialized
+[2025-12-27 18:47:09] Processing message: appointments
+[2025-12-27 18:47:09] Checking restrictions for: appointments
+[2025-12-27 18:47:09] Found 12 restrictions
+[2025-12-27 18:47:09] No restrictions matched
+[2025-12-27 18:47:09] Finding scope for message, logged_in: no
+[2025-12-27 18:47:09] Found 19 scopes
+[2025-12-27 18:47:09] No scope matched
+[2025-12-27 18:47:09] Showing interactive menu
+[2025-12-27 18:47:09] Saved to database, log_id: 20
+[2025-12-27 18:47:09] Returning successful response
+[2025-12-27 18:47:09] Result prepared, sending response
+[2025-12-27 18:47:09] Response sent successfully
+[2025-12-27 11:47:12] === Chatbot API Called ===
+[2025-12-27 11:47:12] Raw input length: 75
+[2025-12-27 11:47:12] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:47:12] Database connected
+[2025-12-27 18:47:12] Controller initialized
+[2025-12-27 18:47:12] Processing message: 1
+[2025-12-27 18:47:12] Checking restrictions for: 1
+[2025-12-27 18:47:12] Found 12 restrictions
+[2025-12-27 18:47:12] No restrictions matched
+[2025-12-27 18:47:12] Finding scope for message, logged_in: no
+[2025-12-27 18:47:12] Found 19 scopes
+[2025-12-27 18:47:12] No scope matched
+[2025-12-27 18:47:12] Menu selection handled: 1
+[2025-12-27 18:47:12] Saved to database, log_id: 21
+[2025-12-27 18:47:12] Returning successful response
+[2025-12-27 18:47:12] Result prepared, sending response
+[2025-12-27 18:47:12] Response sent successfully
+[2025-12-27 11:48:55] === Chatbot API Called ===
+[2025-12-27 11:48:55] Raw input length: 76
+[2025-12-27 11:48:55] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:48:55] Database connected
+[2025-12-27 18:48:55] Controller initialized
+[2025-12-27 18:48:55] Processing message: hi
+[2025-12-27 18:48:55] Checking restrictions for: hi
+[2025-12-27 18:48:55] Found 12 restrictions
+[2025-12-27 18:48:55] No restrictions matched
+[2025-12-27 18:48:55] Finding scope for message, logged_in: no
+[2025-12-27 18:48:55] Found 19 scopes
+[2025-12-27 18:48:55] Matched scope: Greetings (matches: 1)
+[2025-12-27 18:48:55] Using database template, length: 369
+[2025-12-27 18:48:55] Saved to database, log_id: 22
+[2025-12-27 18:48:55] Returning successful response
+[2025-12-27 18:48:55] Result prepared, sending response
+[2025-12-27 18:48:55] Response sent successfully
+[2025-12-27 11:49:00] === Chatbot API Called ===
+[2025-12-27 11:49:00] Raw input length: 86
+[2025-12-27 11:49:00] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:49:00] Database connected
+[2025-12-27 18:49:00] Controller initialized
+[2025-12-27 18:49:00] Processing message: appointments
+[2025-12-27 18:49:00] Checking restrictions for: appointments
+[2025-12-27 18:49:00] Found 12 restrictions
+[2025-12-27 18:49:00] No restrictions matched
+[2025-12-27 18:49:00] Finding scope for message, logged_in: no
+[2025-12-27 18:49:00] Found 19 scopes
+[2025-12-27 18:49:00] No scope matched
+[2025-12-27 18:49:00] Showing interactive menu
+[2025-12-27 18:49:00] Saved to database, log_id: 23
+[2025-12-27 18:49:00] Returning successful response
+[2025-12-27 18:49:00] Result prepared, sending response
+[2025-12-27 18:49:00] Response sent successfully
+[2025-12-27 11:49:01] === Chatbot API Called ===
+[2025-12-27 11:49:01] Raw input length: 75
+[2025-12-27 11:49:01] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 18:49:01] Database connected
+[2025-12-27 18:49:01] Controller initialized
+[2025-12-27 18:49:01] Processing message: 1
+[2025-12-27 18:49:01] Checking restrictions for: 1
+[2025-12-27 18:49:01] Found 12 restrictions
+[2025-12-27 18:49:01] No restrictions matched
+[2025-12-27 18:49:01] Finding scope for message, logged_in: no
+[2025-12-27 18:49:01] Found 19 scopes
+[2025-12-27 18:49:01] No scope matched
+[2025-12-27 18:49:01] Menu selection handled: 1
+[2025-12-27 18:49:01] Saved to database, log_id: 24
+[2025-12-27 18:49:01] Returning successful response
+[2025-12-27 18:49:01] Result prepared, sending response
+[2025-12-27 18:49:01] Response sent successfully
+[2025-12-27 12:01:04] === Chatbot API Called ===
+[2025-12-27 12:01:04] Raw input length: 76
+[2025-12-27 12:01:04] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:01:04] Database connected
+[2025-12-27 19:01:04] Controller initialized
+[2025-12-27 19:01:04] Processing message: hi
+[2025-12-27 19:01:04] Checking restrictions for: hi
+[2025-12-27 19:01:04] Found 12 restrictions
+[2025-12-27 19:01:04] No restrictions matched
+[2025-12-27 19:01:04] Finding scope for message, logged_in: no
+[2025-12-27 19:01:04] Found 19 scopes
+[2025-12-27 19:01:04] Matched scope: Greetings (matches: 1)
+[2025-12-27 19:01:04] Using database template, length: 369
+[2025-12-27 19:01:04] Saved to database, log_id: 25
+[2025-12-27 19:01:04] Returning successful response
+[2025-12-27 19:01:04] Result prepared, sending response
+[2025-12-27 19:01:04] Response sent successfully
+[2025-12-27 12:01:08] === Chatbot API Called ===
+[2025-12-27 12:01:08] Raw input length: 85
+[2025-12-27 12:01:08] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:01:08] Database connected
+[2025-12-27 19:01:08] Controller initialized
+[2025-12-27 19:01:08] Processing message: appointment
+[2025-12-27 19:01:08] Checking restrictions for: appointment
+[2025-12-27 19:01:08] Found 12 restrictions
+[2025-12-27 19:01:08] No restrictions matched
+[2025-12-27 19:01:08] Finding scope for message, logged_in: no
+[2025-12-27 19:01:08] Found 19 scopes
+[2025-12-27 19:01:08] No scope matched
+[2025-12-27 19:01:08] Showing interactive menu
+[2025-12-27 19:01:08] Saved to database, log_id: 26
+[2025-12-27 19:01:08] Returning successful response
+[2025-12-27 19:01:08] Result prepared, sending response
+[2025-12-27 19:01:08] Response sent successfully
+[2025-12-27 12:01:10] === Chatbot API Called ===
+[2025-12-27 12:01:10] Raw input length: 75
+[2025-12-27 12:01:10] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:01:10] Database connected
+[2025-12-27 19:01:10] Controller initialized
+[2025-12-27 19:01:10] Processing message: q
+[2025-12-27 19:01:10] Checking restrictions for: q
+[2025-12-27 19:01:10] Found 12 restrictions
+[2025-12-27 19:01:10] No restrictions matched
+[2025-12-27 19:01:10] Finding scope for message, logged_in: no
+[2025-12-27 19:01:10] Found 19 scopes
+[2025-12-27 19:01:10] No scope matched
+[2025-12-27 19:01:10] Showing interactive menu
+[2025-12-27 19:01:10] Saved to database, log_id: 27
+[2025-12-27 19:01:10] Returning successful response
+[2025-12-27 19:01:10] Result prepared, sending response
+[2025-12-27 19:01:10] Response sent successfully
+[2025-12-27 12:01:13] === Chatbot API Called ===
+[2025-12-27 12:01:13] Raw input length: 75
+[2025-12-27 12:01:13] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:01:13] Database connected
+[2025-12-27 19:01:13] Controller initialized
+[2025-12-27 19:01:13] Processing message: 1
+[2025-12-27 19:01:13] Checking restrictions for: 1
+[2025-12-27 19:01:13] Found 12 restrictions
+[2025-12-27 19:01:13] No restrictions matched
+[2025-12-27 19:01:13] Finding scope for message, logged_in: no
+[2025-12-27 19:01:13] Found 19 scopes
+[2025-12-27 19:01:13] No scope matched
+[2025-12-27 19:01:13] Menu selection handled: 1
+[2025-12-27 19:01:13] Saved to database, log_id: 28
+[2025-12-27 19:01:13] Returning successful response
+[2025-12-27 19:01:13] Result prepared, sending response
+[2025-12-27 19:01:13] Response sent successfully
+[2025-12-27 12:02:59] === Chatbot API Called ===
+[2025-12-27 12:02:59] Raw input length: 76
+[2025-12-27 12:02:59] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:02:59] Database connected
+[2025-12-27 19:02:59] Controller initialized
+[2025-12-27 19:02:59] Processing message: hi
+[2025-12-27 19:02:59] Checking restrictions for: hi
+[2025-12-27 19:02:59] Found 12 restrictions
+[2025-12-27 19:02:59] No restrictions matched
+[2025-12-27 19:02:59] Finding scope for message, logged_in: no
+[2025-12-27 19:02:59] Found 19 scopes
+[2025-12-27 19:02:59] Matched scope: Greetings (matches: 1)
+[2025-12-27 19:02:59] Using database template, length: 369
+[2025-12-27 19:02:59] Saved to database, log_id: 29
+[2025-12-27 19:02:59] Returning successful response
+[2025-12-27 19:02:59] Result prepared, sending response
+[2025-12-27 19:02:59] Response sent successfully
+[2025-12-27 12:03:05] === Chatbot API Called ===
+[2025-12-27 12:03:05] Raw input length: 85
+[2025-12-27 12:03:05] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:03:05] Database connected
+[2025-12-27 19:03:05] Controller initialized
+[2025-12-27 19:03:05] Processing message: appointment
+[2025-12-27 19:03:05] Checking restrictions for: appointment
+[2025-12-27 19:03:05] Found 12 restrictions
+[2025-12-27 19:03:05] No restrictions matched
+[2025-12-27 19:03:05] Finding scope for message, logged_in: no
+[2025-12-27 19:03:05] Found 19 scopes
+[2025-12-27 19:03:05] No scope matched
+[2025-12-27 19:03:05] Showing interactive menu
+[2025-12-27 19:03:05] Saved to database, log_id: 30
+[2025-12-27 19:03:05] Returning successful response
+[2025-12-27 19:03:05] Result prepared, sending response
+[2025-12-27 19:03:05] Response sent successfully
+[2025-12-27 12:03:07] === Chatbot API Called ===
+[2025-12-27 12:03:07] Raw input length: 75
+[2025-12-27 12:03:07] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:03:07] Database connected
+[2025-12-27 19:03:07] Controller initialized
+[2025-12-27 19:03:07] Processing message: 1
+[2025-12-27 19:03:07] Checking restrictions for: 1
+[2025-12-27 19:03:07] Found 12 restrictions
+[2025-12-27 19:03:07] No restrictions matched
+[2025-12-27 19:03:07] Finding scope for message, logged_in: no
+[2025-12-27 19:03:07] Found 19 scopes
+[2025-12-27 19:03:07] No scope matched
+[2025-12-27 19:03:07] Menu selection handled: 1
+[2025-12-27 19:03:07] Saved to database, log_id: 31
+[2025-12-27 19:03:07] Returning successful response
+[2025-12-27 19:03:07] Result prepared, sending response
+[2025-12-27 19:03:07] Response sent successfully
+[2025-12-27 12:12:06] === Chatbot API Called ===
+[2025-12-27 12:12:06] Raw input length: 76
+[2025-12-27 12:12:06] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:12:06] Database connected
+[2025-12-27 19:12:06] Controller initialized
+[2025-12-27 19:12:06] Processing message: hi
+[2025-12-27 19:12:06] Checking restrictions for: hi
+[2025-12-27 19:12:06] Found 12 restrictions
+[2025-12-27 19:12:06] No restrictions matched
+[2025-12-27 19:12:06] Finding scope for message, logged_in: no
+[2025-12-27 19:12:06] Found 19 scopes
+[2025-12-27 19:12:06] Matched scope: Greetings (matches: 1)
+[2025-12-27 19:12:06] Using database template, length: 369
+[2025-12-27 19:12:07] Saved to database, log_id: 32
+[2025-12-27 19:12:07] Returning successful response
+[2025-12-27 19:12:07] Result prepared, sending response
+[2025-12-27 19:12:07] Response sent successfully
+[2025-12-27 12:12:13] === Chatbot API Called ===
+[2025-12-27 12:12:13] Raw input length: 86
+[2025-12-27 12:12:13] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:12:13] Database connected
+[2025-12-27 19:12:13] Controller initialized
+[2025-12-27 19:12:13] Processing message: Appointments
+[2025-12-27 19:12:13] Checking restrictions for: Appointments
+[2025-12-27 19:12:13] Found 12 restrictions
+[2025-12-27 19:12:13] No restrictions matched
+[2025-12-27 19:12:13] Finding scope for message, logged_in: no
+[2025-12-27 19:12:14] Found 19 scopes
+[2025-12-27 19:12:14] No scope matched
+[2025-12-27 19:12:14] Showing interactive menu
+[2025-12-27 19:12:14] Saved to database, log_id: 33
+[2025-12-27 19:12:14] Returning successful response
+[2025-12-27 19:12:14] Result prepared, sending response
+[2025-12-27 19:12:14] Response sent successfully
+[2025-12-27 12:12:15] === Chatbot API Called ===
+[2025-12-27 12:12:15] Raw input length: 75
+[2025-12-27 12:12:15] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:12:15] Database connected
+[2025-12-27 19:12:15] Controller initialized
+[2025-12-27 19:12:15] Processing message: 1
+[2025-12-27 19:12:15] Checking restrictions for: 1
+[2025-12-27 19:12:15] Found 12 restrictions
+[2025-12-27 19:12:15] No restrictions matched
+[2025-12-27 19:12:15] Finding scope for message, logged_in: no
+[2025-12-27 19:12:15] Found 19 scopes
+[2025-12-27 19:12:15] No scope matched
+[2025-12-27 19:12:15] Menu selection handled: 1
+[2025-12-27 19:12:15] Saved to database, log_id: 34
+[2025-12-27 19:12:15] Returning successful response
+[2025-12-27 19:12:15] Result prepared, sending response
+[2025-12-27 19:12:15] Response sent successfully
+[2025-12-27 12:12:17] === Chatbot API Called ===
+[2025-12-27 12:12:17] Raw input length: 75
+[2025-12-27 12:12:17] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:12:17] Database connected
+[2025-12-27 19:12:17] Controller initialized
+[2025-12-27 19:12:17] Processing message: 1
+[2025-12-27 19:12:17] Checking restrictions for: 1
+[2025-12-27 19:12:17] Found 12 restrictions
+[2025-12-27 19:12:17] No restrictions matched
+[2025-12-27 19:12:17] Finding scope for message, logged_in: no
+[2025-12-27 19:12:17] Found 19 scopes
+[2025-12-27 19:12:17] No scope matched
+[2025-12-27 19:12:17] Menu selection handled: 1
+[2025-12-27 19:12:18] Saved to database, log_id: 35
+[2025-12-27 19:12:18] Returning successful response
+[2025-12-27 19:12:18] Result prepared, sending response
+[2025-12-27 19:12:18] Response sent successfully
+[2025-12-27 12:12:24] === Chatbot API Called ===
+[2025-12-27 12:12:24] Raw input length: 75
+[2025-12-27 12:12:24] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:12:24] Database connected
+[2025-12-27 19:12:24] Controller initialized
+[2025-12-27 19:12:24] Processing message: 4
+[2025-12-27 19:12:24] Checking restrictions for: 4
+[2025-12-27 19:12:24] Found 12 restrictions
+[2025-12-27 19:12:24] No restrictions matched
+[2025-12-27 19:12:24] Finding scope for message, logged_in: no
+[2025-12-27 19:12:24] Found 19 scopes
+[2025-12-27 19:12:24] No scope matched
+[2025-12-27 19:12:24] Menu selection handled: 4
+[2025-12-27 19:12:24] Saved to database, log_id: 36
+[2025-12-27 19:12:24] Returning successful response
+[2025-12-27 19:12:24] Result prepared, sending response
+[2025-12-27 19:12:24] Response sent successfully
+[2025-12-27 12:12:36] === Chatbot API Called ===
+[2025-12-27 12:12:36] Raw input length: 94
+[2025-12-27 12:12:36] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:12:36] Database connected
+[2025-12-27 19:12:36] Controller initialized
+[2025-12-27 19:12:36] Processing message: general consultation
+[2025-12-27 19:12:36] Checking restrictions for: general consultation
+[2025-12-27 19:12:36] Found 12 restrictions
+[2025-12-27 19:12:36] No restrictions matched
+[2025-12-27 19:12:36] Finding scope for message, logged_in: no
+[2025-12-27 19:12:36] Found 19 scopes
+[2025-12-27 19:12:36] No scope matched
+[2025-12-27 19:12:36] Showing interactive menu
+[2025-12-27 19:12:36] Saved to database, log_id: 37
+[2025-12-27 19:12:36] Returning successful response
+[2025-12-27 19:12:36] Result prepared, sending response
+[2025-12-27 19:12:36] Response sent successfully
+[2025-12-27 12:19:18] === Chatbot API Called ===
+[2025-12-27 12:19:18] Raw input length: 76
+[2025-12-27 12:19:18] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:18] Database connected
+[2025-12-27 19:19:18] Controller initialized
+[2025-12-27 19:19:18] Processing message: hi
+[2025-12-27 19:19:18] Checking restrictions for: hi
+[2025-12-27 19:19:18] Found 12 restrictions
+[2025-12-27 19:19:18] No restrictions matched
+[2025-12-27 19:19:18] Finding scope for message, logged_in: no
+[2025-12-27 19:19:18] Found 19 scopes
+[2025-12-27 19:19:18] Matched scope: Greetings (matches: 1)
+[2025-12-27 19:19:18] Using database template, length: 369
+[2025-12-27 19:19:18] Saved to database, log_id: 38
+[2025-12-27 19:19:18] Returning successful response
+[2025-12-27 19:19:18] Result prepared, sending response
+[2025-12-27 19:19:18] Response sent successfully
+[2025-12-27 12:19:23] === Chatbot API Called ===
+[2025-12-27 12:19:23] Raw input length: 86
+[2025-12-27 12:19:23] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:23] Database connected
+[2025-12-27 19:19:23] Controller initialized
+[2025-12-27 19:19:23] Processing message: appointments
+[2025-12-27 19:19:23] Checking restrictions for: appointments
+[2025-12-27 19:19:23] Found 12 restrictions
+[2025-12-27 19:19:23] No restrictions matched
+[2025-12-27 19:19:23] Finding scope for message, logged_in: no
+[2025-12-27 19:19:23] Found 19 scopes
+[2025-12-27 19:19:23] No scope matched
+[2025-12-27 19:19:23] Showing interactive menu
+[2025-12-27 19:19:23] Saved to database, log_id: 39
+[2025-12-27 19:19:23] Returning successful response
+[2025-12-27 19:19:23] Result prepared, sending response
+[2025-12-27 19:19:23] Response sent successfully
+[2025-12-27 12:19:24] === Chatbot API Called ===
+[2025-12-27 12:19:24] Raw input length: 75
+[2025-12-27 12:19:24] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:24] Database connected
+[2025-12-27 19:19:24] Controller initialized
+[2025-12-27 19:19:24] Processing message: 1
+[2025-12-27 19:19:24] Checking restrictions for: 1
+[2025-12-27 19:19:24] Found 12 restrictions
+[2025-12-27 19:19:24] No restrictions matched
+[2025-12-27 19:19:24] Finding scope for message, logged_in: no
+[2025-12-27 19:19:24] Found 19 scopes
+[2025-12-27 19:19:24] No scope matched
+[2025-12-27 19:19:24] Menu selection handled: 1
+[2025-12-27 19:19:24] Saved to database, log_id: 40
+[2025-12-27 19:19:24] Returning successful response
+[2025-12-27 19:19:24] Result prepared, sending response
+[2025-12-27 19:19:24] Response sent successfully
+[2025-12-27 12:19:35] === Chatbot API Called ===
+[2025-12-27 12:19:35] Raw input length: 76
+[2025-12-27 12:19:35] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:35] Database connected
+[2025-12-27 19:19:35] Controller initialized
+[2025-12-27 19:19:35] Processing message: hi
+[2025-12-27 19:19:35] Checking restrictions for: hi
+[2025-12-27 19:19:35] Found 12 restrictions
+[2025-12-27 19:19:35] No restrictions matched
+[2025-12-27 19:19:35] Finding scope for message, logged_in: no
+[2025-12-27 19:19:35] Found 19 scopes
+[2025-12-27 19:19:35] Matched scope: Greetings (matches: 1)
+[2025-12-27 19:19:35] Using database template, length: 369
+[2025-12-27 19:19:35] Saved to database, log_id: 41
+[2025-12-27 19:19:35] Returning successful response
+[2025-12-27 19:19:35] Result prepared, sending response
+[2025-12-27 19:19:35] Response sent successfully
+[2025-12-27 12:19:39] === Chatbot API Called ===
+[2025-12-27 12:19:39] Raw input length: 86
+[2025-12-27 12:19:39] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:39] Database connected
+[2025-12-27 19:19:39] Controller initialized
+[2025-12-27 19:19:39] Processing message: appointments
+[2025-12-27 19:19:39] Checking restrictions for: appointments
+[2025-12-27 19:19:39] Found 12 restrictions
+[2025-12-27 19:19:39] No restrictions matched
+[2025-12-27 19:19:39] Finding scope for message, logged_in: no
+[2025-12-27 19:19:39] Found 19 scopes
+[2025-12-27 19:19:39] No scope matched
+[2025-12-27 19:19:39] Showing interactive menu
+[2025-12-27 19:19:39] Saved to database, log_id: 42
+[2025-12-27 19:19:39] Returning successful response
+[2025-12-27 19:19:39] Result prepared, sending response
+[2025-12-27 19:19:39] Response sent successfully
+[2025-12-27 12:19:40] === Chatbot API Called ===
+[2025-12-27 12:19:40] Raw input length: 75
+[2025-12-27 12:19:40] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:40] Database connected
+[2025-12-27 19:19:40] Controller initialized
+[2025-12-27 19:19:40] Processing message: q
+[2025-12-27 19:19:40] Checking restrictions for: q
+[2025-12-27 19:19:40] Found 12 restrictions
+[2025-12-27 19:19:40] No restrictions matched
+[2025-12-27 19:19:40] Finding scope for message, logged_in: no
+[2025-12-27 19:19:40] Found 19 scopes
+[2025-12-27 19:19:40] No scope matched
+[2025-12-27 19:19:40] Showing interactive menu
+[2025-12-27 19:19:40] Saved to database, log_id: 43
+[2025-12-27 19:19:40] Returning successful response
+[2025-12-27 19:19:40] Result prepared, sending response
+[2025-12-27 19:19:40] Response sent successfully
+[2025-12-27 12:19:42] === Chatbot API Called ===
+[2025-12-27 12:19:42] Raw input length: 75
+[2025-12-27 12:19:42] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:19:42] Database connected
+[2025-12-27 19:19:42] Controller initialized
+[2025-12-27 19:19:42] Processing message: 1
+[2025-12-27 19:19:42] Checking restrictions for: 1
+[2025-12-27 19:19:42] Found 12 restrictions
+[2025-12-27 19:19:42] No restrictions matched
+[2025-12-27 19:19:42] Finding scope for message, logged_in: no
+[2025-12-27 19:19:42] Found 19 scopes
+[2025-12-27 19:19:42] No scope matched
+[2025-12-27 19:19:42] Menu selection handled: 1
+[2025-12-27 19:19:42] Saved to database, log_id: 44
+[2025-12-27 19:19:42] Returning successful response
+[2025-12-27 19:19:42] Result prepared, sending response
+[2025-12-27 19:19:42] Response sent successfully
+[2025-12-27 12:29:50] === Chatbot API Called ===
+[2025-12-27 12:29:50] Raw input length: 76
+[2025-12-27 12:29:50] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:29:50] Database connected
+[2025-12-27 19:29:50] Controller initialized
+[2025-12-27 19:29:50] Processing message: hi
+[2025-12-27 19:29:50] Checking restrictions for: hi
+[2025-12-27 19:29:50] Found 12 restrictions
+[2025-12-27 19:29:50] No restrictions matched
+[2025-12-27 19:29:50] Finding scope for message, logged_in: no
+[2025-12-27 19:29:50] Found 19 scopes
+[2025-12-27 19:29:50] Matched scope: Greetings (matches: 1)
+[2025-12-27 19:29:50] Using database template, length: 369
+[2025-12-27 19:29:50] Saved to database, log_id: 45
+[2025-12-27 19:29:50] Returning successful response
+[2025-12-27 19:29:50] Result prepared, sending response
+[2025-12-27 19:29:50] Response sent successfully
+[2025-12-27 12:29:54] === Chatbot API Called ===
+[2025-12-27 12:29:54] Raw input length: 86
+[2025-12-27 12:29:54] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:29:54] Database connected
+[2025-12-27 19:29:54] Controller initialized
+[2025-12-27 19:29:54] Processing message: appointments
+[2025-12-27 19:29:54] Checking restrictions for: appointments
+[2025-12-27 19:29:54] Found 12 restrictions
+[2025-12-27 19:29:54] No restrictions matched
+[2025-12-27 19:29:54] Finding scope for message, logged_in: no
+[2025-12-27 19:29:54] Found 19 scopes
+[2025-12-27 19:29:54] No scope matched
+[2025-12-27 19:29:54] Showing interactive menu
+[2025-12-27 19:29:54] Saved to database, log_id: 46
+[2025-12-27 19:29:54] Returning successful response
+[2025-12-27 19:29:54] Result prepared, sending response
+[2025-12-27 19:29:54] Response sent successfully
+[2025-12-27 12:29:55] === Chatbot API Called ===
+[2025-12-27 12:29:55] Raw input length: 75
+[2025-12-27 12:29:55] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:29:55] Database connected
+[2025-12-27 19:29:55] Controller initialized
+[2025-12-27 19:29:55] Processing message: 1
+[2025-12-27 19:29:55] Checking restrictions for: 1
+[2025-12-27 19:29:55] Found 12 restrictions
+[2025-12-27 19:29:55] No restrictions matched
+[2025-12-27 19:29:55] Finding scope for message, logged_in: no
+[2025-12-27 19:29:55] Found 19 scopes
+[2025-12-27 19:29:55] No scope matched
+[2025-12-27 19:29:55] Menu selection handled: 1
+[2025-12-27 19:29:55] Saved to database, log_id: 47
+[2025-12-27 19:29:55] Returning successful response
+[2025-12-27 19:29:55] Result prepared, sending response
+[2025-12-27 19:29:55] Response sent successfully
+[2025-12-27 12:29:59] === Chatbot API Called ===
+[2025-12-27 12:29:59] Raw input length: 75
+[2025-12-27 12:29:59] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:29:59] Database connected
+[2025-12-27 19:29:59] Controller initialized
+[2025-12-27 19:29:59] Processing message: 1
+[2025-12-27 19:29:59] Checking restrictions for: 1
+[2025-12-27 19:29:59] Found 12 restrictions
+[2025-12-27 19:29:59] No restrictions matched
+[2025-12-27 19:29:59] Finding scope for message, logged_in: no
+[2025-12-27 19:29:59] Found 19 scopes
+[2025-12-27 19:29:59] No scope matched
+[2025-12-27 19:29:59] Menu selection handled: 1
+[2025-12-27 19:29:59] Saved to database, log_id: 48
+[2025-12-27 19:29:59] Returning successful response
+[2025-12-27 19:29:59] Result prepared, sending response
+[2025-12-27 19:29:59] Response sent successfully
+[2025-12-27 12:30:03] === Chatbot API Called ===
+[2025-12-27 12:30:03] Raw input length: 75
+[2025-12-27 12:30:03] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:30:03] Database connected
+[2025-12-27 19:30:03] Controller initialized
+[2025-12-27 19:30:03] Processing message: 2
+[2025-12-27 19:30:03] Checking restrictions for: 2
+[2025-12-27 19:30:03] Found 12 restrictions
+[2025-12-27 19:30:03] No restrictions matched
+[2025-12-27 19:30:03] Finding scope for message, logged_in: no
+[2025-12-27 19:30:03] Found 19 scopes
+[2025-12-27 19:30:03] No scope matched
+[2025-12-27 19:30:03] Menu selection handled: 2
+[2025-12-27 19:30:03] Saved to database, log_id: 49
+[2025-12-27 19:30:03] Returning successful response
+[2025-12-27 19:30:03] Result prepared, sending response
+[2025-12-27 19:30:04] Response sent successfully
+[2025-12-27 12:30:17] === Chatbot API Called ===
+[2025-12-27 12:30:17] Raw input length: 82
+[2025-12-27 12:30:17] Session: h3mgv55mv5dtv2lk72gh5u6guv, Patient: guest
+[2025-12-27 19:30:17] Database connected
+[2025-12-27 19:30:17] Controller initialized
+[2025-12-27 19:30:17] Processing message: location
+[2025-12-27 19:30:17] Checking restrictions for: location
+[2025-12-27 19:30:17] Found 12 restrictions
+[2025-12-27 19:30:17] No restrictions matched
+[2025-12-27 19:30:17] Finding scope for message, logged_in: no
+[2025-12-27 19:30:17] Found 19 scopes
+[2025-12-27 19:30:17] Matched scope: Location & Directions (matches: 1)
+[2025-12-27 19:30:17] Using database template, length: 353
+[2025-12-27 19:30:17] Saved to database, log_id: 50
+[2025-12-27 19:30:17] Returning successful response
+[2025-12-27 19:30:17] Result prepared, sending response
+[2025-12-27 19:30:17] Response sent successfully
+[2025-12-27 14:28:31] === Chatbot API Called ===
+[2025-12-27 14:28:31] Raw input length: 77
+[2025-12-27 14:28:31] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 21:28:31] Database connected
+[2025-12-27 21:28:31] Controller initialized
+[2025-12-27 21:28:31] Processing message: hii
+[2025-12-27 21:28:31] Checking restrictions for: hii
+[2025-12-27 21:28:31] Found 12 restrictions
+[2025-12-27 21:28:31] No restrictions matched
+[2025-12-27 21:28:31] Finding scope for message, logged_in: no
+[2025-12-27 21:28:31] Found 19 scopes
+[2025-12-27 21:28:31] Matched scope: Greetings (matches: 1)
+[2025-12-27 21:28:31] Using database template, length: 369
+[2025-12-27 21:28:31] Saved to database, log_id: 51
+[2025-12-27 21:28:31] Returning successful response
+[2025-12-27 21:28:31] Result prepared, sending response
+[2025-12-27 21:28:31] Response sent successfully
+[2025-12-27 15:00:32] === Chatbot API Called ===
+[2025-12-27 15:00:32] Raw input length: 76
+[2025-12-27 15:00:32] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 22:00:32] Database connected
+[2025-12-27 22:00:32] Controller initialized
+[2025-12-27 22:00:32] Processing message: hi
+[2025-12-27 22:00:32] Checking restrictions for: hi
+[2025-12-27 22:00:32] Found 12 restrictions
+[2025-12-27 22:00:32] No restrictions matched
+[2025-12-27 22:00:32] Finding scope for message, logged_in: no
+[2025-12-27 22:00:32] Found 19 scopes
+[2025-12-27 22:00:32] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:00:32] Using database template, length: 369
+[2025-12-27 22:00:32] Saved to database, log_id: 52
+[2025-12-27 22:00:32] Returning successful response
+[2025-12-27 22:00:32] Result prepared, sending response
+[2025-12-27 22:00:32] Response sent successfully
+[2025-12-27 15:07:19] === Chatbot API Called ===
+[2025-12-27 15:07:19] Raw input length: 78
+[2025-12-27 15:07:19] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 22:07:19] Database connected
+[2025-12-27 22:07:19] Controller initialized
+[2025-12-27 22:07:19] Processing message: hihi
+[2025-12-27 22:07:19] Checking restrictions for: hihi
+[2025-12-27 22:07:19] Found 12 restrictions
+[2025-12-27 22:07:19] No restrictions matched
+[2025-12-27 22:07:19] Finding scope for message, logged_in: no
+[2025-12-27 22:07:19] Found 19 scopes
+[2025-12-27 22:07:19] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:07:19] Using database template, length: 369
+[2025-12-27 22:07:19] Saved to database, log_id: 53
+[2025-12-27 22:07:19] Returning successful response
+[2025-12-27 22:07:19] Result prepared, sending response
+[2025-12-27 22:07:19] Response sent successfully
+[2025-12-27 15:17:43] === Chatbot API Called ===
+[2025-12-27 15:17:43] Raw input length: 78
+[2025-12-27 15:17:43] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 22:17:43] Database connected
+[2025-12-27 22:17:43] Controller initialized
+[2025-12-27 22:17:43] Processing message: hihi
+[2025-12-27 22:17:43] Checking restrictions for: hihi
+[2025-12-27 22:17:43] Found 12 restrictions
+[2025-12-27 22:17:43] No restrictions matched
+[2025-12-27 22:17:43] Finding scope for message, logged_in: no
+[2025-12-27 22:17:43] Found 19 scopes
+[2025-12-27 22:17:43] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:17:43] Using database template, length: 369
+[2025-12-27 22:17:43] Saved to database, log_id: 54
+[2025-12-27 22:17:43] Returning successful response
+[2025-12-27 22:17:43] Result prepared, sending response
+[2025-12-27 22:17:43] Response sent successfully
+[2025-12-27 15:29:47] === Chatbot API Called ===
+[2025-12-27 15:29:47] Raw input length: 76
+[2025-12-27 15:29:47] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 22:29:47] Database connected
+[2025-12-27 22:29:47] Controller initialized
+[2025-12-27 22:29:47] Processing message: hi
+[2025-12-27 22:29:47] Checking restrictions for: hi
+[2025-12-27 22:29:47] Found 12 restrictions
+[2025-12-27 22:29:47] No restrictions matched
+[2025-12-27 22:29:47] Finding scope for message, logged_in: no
+[2025-12-27 22:29:47] Found 19 scopes
+[2025-12-27 22:29:47] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:29:47] Using database template, length: 369
+[2025-12-27 22:29:47] Saved to database, log_id: 55
+[2025-12-27 22:29:47] Returning successful response
+[2025-12-27 22:29:47] Result prepared, sending response
+[2025-12-27 22:29:47] Response sent successfully
+[2025-12-27 15:34:19] === Chatbot API Called ===
+[2025-12-27 15:34:19] Raw input length: 78
+[2025-12-27 15:34:19] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 22:34:19] Database connected
+[2025-12-27 22:34:19] Controller initialized
+[2025-12-27 22:34:19] Processing message: hihi
+[2025-12-27 22:34:19] Checking restrictions for: hihi
+[2025-12-27 22:34:19] Found 12 restrictions
+[2025-12-27 22:34:19] No restrictions matched
+[2025-12-27 22:34:19] Finding scope for message, logged_in: no
+[2025-12-27 22:34:19] Found 19 scopes
+[2025-12-27 22:34:19] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:34:19] Using database template, length: 369
+[2025-12-27 22:34:19] Saved to database, log_id: 56
+[2025-12-27 22:34:19] Returning successful response
+[2025-12-27 22:34:19] Result prepared, sending response
+[2025-12-27 22:34:19] Response sent successfully
+[2025-12-27 15:49:47] === Chatbot API Called ===
+[2025-12-27 15:49:47] Raw input length: 52
+[2025-12-27 15:49:47] Session: , Patient: guest
+[2025-12-27 22:49:47] Database connected
+[2025-12-27 22:49:47] Controller initialized
+[2025-12-27 22:49:47] Processing message: hihi
+[2025-12-27 22:49:47] Checking restrictions for: hihi
+[2025-12-27 22:49:47] Found 12 restrictions
+[2025-12-27 22:49:47] No restrictions matched
+[2025-12-27 22:49:47] Finding scope for message, logged_in: no
+[2025-12-27 22:49:47] Found 19 scopes
+[2025-12-27 22:49:47] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:49:47] Using database template, length: 369
+[2025-12-27 22:49:47] Saved to database, log_id: 57
+[2025-12-27 22:49:47] Returning successful response
+[2025-12-27 22:49:47] Result prepared, sending response
+[2025-12-27 22:49:47] Response sent successfully
+[2025-12-27 15:58:00] === Chatbot API Called ===
+[2025-12-27 15:58:00] Raw input length: 50
+[2025-12-27 15:58:00] Session: , Patient: guest
+[2025-12-27 22:58:00] Database connected
+[2025-12-27 22:58:00] Controller initialized
+[2025-12-27 22:58:00] Processing message: hi
+[2025-12-27 22:58:00] Checking restrictions for: hi
+[2025-12-27 22:58:00] Found 12 restrictions
+[2025-12-27 22:58:00] No restrictions matched
+[2025-12-27 22:58:00] Finding scope for message, logged_in: no
+[2025-12-27 22:58:00] Found 19 scopes
+[2025-12-27 22:58:00] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:58:00] Using database template, length: 369
+[2025-12-27 22:58:00] Saved to database, log_id: 58
+[2025-12-27 22:58:00] Returning successful response
+[2025-12-27 22:58:00] Result prepared, sending response
+[2025-12-27 22:58:00] Response sent successfully
+[2025-12-27 15:59:36] === Chatbot API Called ===
+[2025-12-27 15:59:36] Raw input length: 50
+[2025-12-27 15:59:36] Session: , Patient: guest
+[2025-12-27 22:59:36] Database connected
+[2025-12-27 22:59:36] Controller initialized
+[2025-12-27 22:59:36] Processing message: hi
+[2025-12-27 22:59:36] Checking restrictions for: hi
+[2025-12-27 22:59:36] Found 12 restrictions
+[2025-12-27 22:59:36] No restrictions matched
+[2025-12-27 22:59:36] Finding scope for message, logged_in: no
+[2025-12-27 22:59:36] Found 19 scopes
+[2025-12-27 22:59:36] Matched scope: Greetings (matches: 1)
+[2025-12-27 22:59:36] Using database template, length: 369
+[2025-12-27 22:59:36] Saved to database, log_id: 59
+[2025-12-27 22:59:36] Returning successful response
+[2025-12-27 22:59:36] Result prepared, sending response
+[2025-12-27 22:59:36] Response sent successfully
+[2025-12-27 16:00:00] === Chatbot API Called ===
+[2025-12-27 16:00:00] Raw input length: 59
+[2025-12-27 16:00:00] Session: , Patient: guest
+[2025-12-27 23:00:00] Database connected
+[2025-12-27 23:00:00] Controller initialized
+[2025-12-27 23:00:00] Processing message: appointment
+[2025-12-27 23:00:00] Checking restrictions for: appointment
+[2025-12-27 23:00:00] Found 12 restrictions
+[2025-12-27 23:00:00] No restrictions matched
+[2025-12-27 23:00:00] Finding scope for message, logged_in: no
+[2025-12-27 23:00:00] Found 19 scopes
+[2025-12-27 23:00:00] No scope matched
+[2025-12-27 23:00:00] Showing interactive menu
+[2025-12-27 23:00:01] Saved to database, log_id: 60
+[2025-12-27 23:00:01] Returning successful response
+[2025-12-27 23:00:01] Result prepared, sending response
+[2025-12-27 23:00:01] Response sent successfully
+[2025-12-27 16:00:46] === Chatbot API Called ===
+[2025-12-27 16:00:46] Raw input length: 76
+[2025-12-27 16:00:46] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:00:46] Database connected
+[2025-12-27 23:00:46] Controller initialized
+[2025-12-27 23:00:46] Processing message: hi
+[2025-12-27 23:00:46] Checking restrictions for: hi
+[2025-12-27 23:00:46] Found 12 restrictions
+[2025-12-27 23:00:46] No restrictions matched
+[2025-12-27 23:00:46] Finding scope for message, logged_in: no
+[2025-12-27 23:00:46] Found 19 scopes
+[2025-12-27 23:00:46] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:00:46] Using database template, length: 369
+[2025-12-27 23:00:46] Saved to database, log_id: 61
+[2025-12-27 23:00:46] Returning successful response
+[2025-12-27 23:00:46] Result prepared, sending response
+[2025-12-27 23:00:46] Response sent successfully
+[2025-12-27 16:01:19] === Chatbot API Called ===
+[2025-12-27 16:01:19] Raw input length: 76
+[2025-12-27 16:01:19] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:01:19] Database connected
+[2025-12-27 23:01:19] Controller initialized
+[2025-12-27 23:01:19] Processing message: hi
+[2025-12-27 23:01:19] Checking restrictions for: hi
+[2025-12-27 23:01:19] Found 12 restrictions
+[2025-12-27 23:01:19] No restrictions matched
+[2025-12-27 23:01:19] Finding scope for message, logged_in: no
+[2025-12-27 23:01:19] Found 19 scopes
+[2025-12-27 23:01:19] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:01:19] Using database template, length: 369
+[2025-12-27 23:01:19] Saved to database, log_id: 62
+[2025-12-27 23:01:19] Returning successful response
+[2025-12-27 23:01:19] Result prepared, sending response
+[2025-12-27 23:01:19] Response sent successfully
+[2025-12-27 16:01:52] === Chatbot API Called ===
+[2025-12-27 16:01:52] Raw input length: 76
+[2025-12-27 16:01:52] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:01:52] Database connected
+[2025-12-27 23:01:52] Controller initialized
+[2025-12-27 23:01:52] Processing message: hi
+[2025-12-27 23:01:52] Checking restrictions for: hi
+[2025-12-27 23:01:52] Found 12 restrictions
+[2025-12-27 23:01:52] No restrictions matched
+[2025-12-27 23:01:52] Finding scope for message, logged_in: no
+[2025-12-27 23:01:52] Found 19 scopes
+[2025-12-27 23:01:52] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:01:52] Using database template, length: 369
+[2025-12-27 23:01:52] Saved to database, log_id: 63
+[2025-12-27 23:01:52] Returning successful response
+[2025-12-27 23:01:52] Result prepared, sending response
+[2025-12-27 23:01:52] Response sent successfully
+[2025-12-27 16:09:45] === Chatbot API Called ===
+[2025-12-27 16:09:45] Raw input length: 50
+[2025-12-27 16:09:45] Session: , Patient: guest
+[2025-12-27 23:09:45] Database connected
+[2025-12-27 23:09:45] Controller initialized
+[2025-12-27 23:09:45] Processing message: hi
+[2025-12-27 23:09:45] Checking restrictions for: hi
+[2025-12-27 23:09:45] Found 12 restrictions
+[2025-12-27 23:09:45] No restrictions matched
+[2025-12-27 23:09:45] Finding scope for message, logged_in: no
+[2025-12-27 23:09:45] Found 19 scopes
+[2025-12-27 23:09:45] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:09:45] Using database template, length: 369
+[2025-12-27 23:09:45] Saved to database, log_id: 64
+[2025-12-27 23:09:45] Returning successful response
+[2025-12-27 23:09:45] Result prepared, sending response
+[2025-12-27 23:09:45] Response sent successfully
+[2025-12-27 16:13:09] === Chatbot API Called ===
+[2025-12-27 16:13:09] Raw input length: 50
+[2025-12-27 16:13:09] Session: , Patient: guest
+[2025-12-27 23:13:09] Database connected
+[2025-12-27 23:13:09] Controller initialized
+[2025-12-27 23:13:09] Processing message: hi
+[2025-12-27 23:13:09] Checking restrictions for: hi
+[2025-12-27 23:13:09] Found 12 restrictions
+[2025-12-27 23:13:09] No restrictions matched
+[2025-12-27 23:13:09] Finding scope for message, logged_in: no
+[2025-12-27 23:13:09] Found 19 scopes
+[2025-12-27 23:13:09] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:13:09] Using database template, length: 369
+[2025-12-27 23:13:09] Saved to database, log_id: 65
+[2025-12-27 23:13:09] Returning successful response
+[2025-12-27 23:13:09] Result prepared, sending response
+[2025-12-27 23:13:09] Response sent successfully
+[2025-12-27 16:14:06] === Chatbot API Called ===
+[2025-12-27 16:14:06] Raw input length: 76
+[2025-12-27 16:14:06] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:14:06] Database connected
+[2025-12-27 23:14:06] Controller initialized
+[2025-12-27 23:14:06] Processing message: hi
+[2025-12-27 23:14:06] Checking restrictions for: hi
+[2025-12-27 23:14:06] Found 12 restrictions
+[2025-12-27 23:14:06] No restrictions matched
+[2025-12-27 23:14:06] Finding scope for message, logged_in: no
+[2025-12-27 23:14:06] Found 19 scopes
+[2025-12-27 23:14:06] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:14:06] Using database template, length: 369
+[2025-12-27 23:14:06] Saved to database, log_id: 66
+[2025-12-27 23:14:06] Returning successful response
+[2025-12-27 23:14:06] Result prepared, sending response
+[2025-12-27 23:14:06] Response sent successfully
+[2025-12-27 16:17:10] === Chatbot API Called ===
+[2025-12-27 16:17:10] Raw input length: 76
+[2025-12-27 16:17:10] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:17:10] Database connected
+[2025-12-27 23:17:10] Controller initialized
+[2025-12-27 23:17:10] Processing message: hi
+[2025-12-27 23:17:10] Checking restrictions for: hi
+[2025-12-27 23:17:10] Found 12 restrictions
+[2025-12-27 23:17:10] No restrictions matched
+[2025-12-27 23:17:10] Finding scope for message, logged_in: no
+[2025-12-27 23:17:10] Found 19 scopes
+[2025-12-27 23:17:10] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:17:10] Using database template, length: 369
+[2025-12-27 23:17:10] Saved to database, log_id: 67
+[2025-12-27 23:17:10] Returning successful response
+[2025-12-27 23:17:10] Result prepared, sending response
+[2025-12-27 23:17:10] Response sent successfully
+[2025-12-27 16:18:04] === Chatbot API Called ===
+[2025-12-27 16:18:04] Raw input length: 76
+[2025-12-27 16:18:04] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:18:04] Database connected
+[2025-12-27 23:18:04] Controller initialized
+[2025-12-27 23:18:04] Processing message: hi
+[2025-12-27 23:18:04] Checking restrictions for: hi
+[2025-12-27 23:18:04] Found 12 restrictions
+[2025-12-27 23:18:04] No restrictions matched
+[2025-12-27 23:18:04] Finding scope for message, logged_in: no
+[2025-12-27 23:18:04] Found 19 scopes
+[2025-12-27 23:18:04] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:18:04] Using database template, length: 369
+[2025-12-27 23:18:04] Saved to database, log_id: 68
+[2025-12-27 23:18:04] Returning successful response
+[2025-12-27 23:18:04] Result prepared, sending response
+[2025-12-27 23:18:04] Response sent successfully
+[2025-12-27 16:20:05] === Chatbot API Called ===
+[2025-12-27 16:20:05] Raw input length: 50
+[2025-12-27 16:20:05] Session: , Patient: guest
+[2025-12-27 23:20:05] Database connected
+[2025-12-27 23:20:05] Controller initialized
+[2025-12-27 23:20:05] Processing message: hi
+[2025-12-27 23:20:05] Checking restrictions for: hi
+[2025-12-27 23:20:05] Found 12 restrictions
+[2025-12-27 23:20:05] No restrictions matched
+[2025-12-27 23:20:05] Finding scope for message, logged_in: no
+[2025-12-27 23:20:05] Found 19 scopes
+[2025-12-27 23:20:05] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:20:05] Using database template, length: 369
+[2025-12-27 23:20:05] Saved to database, log_id: 69
+[2025-12-27 23:20:05] Returning successful response
+[2025-12-27 23:20:05] Result prepared, sending response
+[2025-12-27 23:20:05] Response sent successfully
+[2025-12-27 16:24:09] === Chatbot API Called ===
+[2025-12-27 16:24:09] Raw input length: 50
+[2025-12-27 16:24:09] Session: , Patient: guest
+[2025-12-27 23:24:09] Database connected
+[2025-12-27 23:24:09] Controller initialized
+[2025-12-27 23:24:09] Processing message: hi
+[2025-12-27 23:24:09] Checking restrictions for: hi
+[2025-12-27 23:24:09] Found 12 restrictions
+[2025-12-27 23:24:09] No restrictions matched
+[2025-12-27 23:24:09] Finding scope for message, logged_in: no
+[2025-12-27 23:24:09] Found 19 scopes
+[2025-12-27 23:24:09] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:24:09] Using database template, length: 369
+[2025-12-27 23:24:09] Saved to database, log_id: 70
+[2025-12-27 23:24:09] Returning successful response
+[2025-12-27 23:24:09] Result prepared, sending response
+[2025-12-27 23:24:09] Response sent successfully
+[2025-12-27 16:33:18] === Chatbot API Called ===
+[2025-12-27 16:33:18] Raw input length: 50
+[2025-12-27 16:33:18] Session: , Patient: guest
+[2025-12-27 23:33:19] Database connected
+[2025-12-27 23:33:19] Controller initialized
+[2025-12-27 23:33:19] Processing message: hi
+[2025-12-27 23:33:19] Checking restrictions for: hi
+[2025-12-27 23:33:19] Found 12 restrictions
+[2025-12-27 23:33:19] No restrictions matched
+[2025-12-27 23:33:19] Finding scope for message, logged_in: no
+[2025-12-27 23:33:19] Found 19 scopes
+[2025-12-27 23:33:19] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:33:19] Using database template, length: 369
+[2025-12-27 23:33:19] Saved to database, log_id: 71
+[2025-12-27 23:33:19] Returning successful response
+[2025-12-27 23:33:19] Result prepared, sending response
+[2025-12-27 23:33:19] Response sent successfully
+[2025-12-27 16:33:31] === Chatbot API Called ===
+[2025-12-27 16:33:31] Raw input length: 76
+[2025-12-27 16:33:31] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:33:31] Database connected
+[2025-12-27 23:33:31] Controller initialized
+[2025-12-27 23:33:31] Processing message: hi
+[2025-12-27 23:33:31] Checking restrictions for: hi
+[2025-12-27 23:33:31] Found 12 restrictions
+[2025-12-27 23:33:31] No restrictions matched
+[2025-12-27 23:33:31] Finding scope for message, logged_in: no
+[2025-12-27 23:33:31] Found 19 scopes
+[2025-12-27 23:33:31] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:33:31] Using database template, length: 369
+[2025-12-27 23:33:31] Saved to database, log_id: 72
+[2025-12-27 23:33:31] Returning successful response
+[2025-12-27 23:33:31] Result prepared, sending response
+[2025-12-27 23:33:31] Response sent successfully
+[2025-12-27 16:33:46] === Chatbot API Called ===
+[2025-12-27 16:33:46] Raw input length: 76
+[2025-12-27 16:33:46] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:33:46] Database connected
+[2025-12-27 23:33:46] Controller initialized
+[2025-12-27 23:33:46] Processing message: hi
+[2025-12-27 23:33:46] Checking restrictions for: hi
+[2025-12-27 23:33:46] Found 12 restrictions
+[2025-12-27 23:33:46] No restrictions matched
+[2025-12-27 23:33:46] Finding scope for message, logged_in: no
+[2025-12-27 23:33:46] Found 19 scopes
+[2025-12-27 23:33:46] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:33:46] Using database template, length: 369
+[2025-12-27 23:33:46] Saved to database, log_id: 73
+[2025-12-27 23:33:46] Returning successful response
+[2025-12-27 23:33:46] Result prepared, sending response
+[2025-12-27 23:33:46] Response sent successfully
+[2025-12-27 16:33:59] === Chatbot API Called ===
+[2025-12-27 16:33:59] Raw input length: 76
+[2025-12-27 16:33:59] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:33:59] Database connected
+[2025-12-27 23:33:59] Controller initialized
+[2025-12-27 23:33:59] Processing message: hi
+[2025-12-27 23:33:59] Checking restrictions for: hi
+[2025-12-27 23:33:59] Found 12 restrictions
+[2025-12-27 23:33:59] No restrictions matched
+[2025-12-27 23:33:59] Finding scope for message, logged_in: no
+[2025-12-27 23:33:59] Found 19 scopes
+[2025-12-27 23:33:59] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:33:59] Using database template, length: 369
+[2025-12-27 23:33:59] Saved to database, log_id: 74
+[2025-12-27 23:33:59] Returning successful response
+[2025-12-27 23:33:59] Result prepared, sending response
+[2025-12-27 23:33:59] Response sent successfully
+[2025-12-27 16:37:14] === Chatbot API Called ===
+[2025-12-27 16:37:14] Raw input length: 76
+[2025-12-27 16:37:14] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:37:14] Database connected
+[2025-12-27 23:37:14] Controller initialized
+[2025-12-27 23:37:14] Processing message: hi
+[2025-12-27 23:37:14] Checking restrictions for: hi
+[2025-12-27 23:37:14] Found 12 restrictions
+[2025-12-27 23:37:14] No restrictions matched
+[2025-12-27 23:37:14] Finding scope for message, logged_in: no
+[2025-12-27 23:37:14] Found 19 scopes
+[2025-12-27 23:37:14] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:37:14] Using database template, length: 369
+[2025-12-27 23:37:14] Saved to database, log_id: 75
+[2025-12-27 23:37:14] Returning successful response
+[2025-12-27 23:37:14] Result prepared, sending response
+[2025-12-27 23:37:14] Response sent successfully
+[2025-12-27 16:37:25] === Chatbot API Called ===
+[2025-12-27 16:37:25] Raw input length: 76
+[2025-12-27 16:37:25] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:37:25] Database connected
+[2025-12-27 23:37:25] Controller initialized
+[2025-12-27 23:37:25] Processing message: hi
+[2025-12-27 23:37:25] Checking restrictions for: hi
+[2025-12-27 23:37:25] Found 12 restrictions
+[2025-12-27 23:37:25] No restrictions matched
+[2025-12-27 23:37:25] Finding scope for message, logged_in: no
+[2025-12-27 23:37:25] Found 19 scopes
+[2025-12-27 23:37:25] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:37:25] Using database template, length: 369
+[2025-12-27 23:37:25] Saved to database, log_id: 76
+[2025-12-27 23:37:25] Returning successful response
+[2025-12-27 23:37:25] Result prepared, sending response
+[2025-12-27 23:37:25] Response sent successfully
+[2025-12-27 16:41:06] === Chatbot API Called ===
+[2025-12-27 16:41:06] Raw input length: 76
+[2025-12-27 16:41:06] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:41:06] Database connected
+[2025-12-27 23:41:06] Controller initialized
+[2025-12-27 23:41:06] Processing message: hi
+[2025-12-27 23:41:06] Checking restrictions for: hi
+[2025-12-27 23:41:06] Found 12 restrictions
+[2025-12-27 23:41:06] No restrictions matched
+[2025-12-27 23:41:06] Finding scope for message, logged_in: no
+[2025-12-27 23:41:06] Found 19 scopes
+[2025-12-27 23:41:06] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:41:06] Using database template, length: 369
+[2025-12-27 23:41:06] Saved to database, log_id: 77
+[2025-12-27 23:41:06] Returning successful response
+[2025-12-27 23:41:06] Result prepared, sending response
+[2025-12-27 23:41:06] Response sent successfully
+[2025-12-27 16:41:30] === Chatbot API Called ===
+[2025-12-27 16:41:30] Raw input length: 76
+[2025-12-27 16:41:30] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:41:30] Database connected
+[2025-12-27 23:41:30] Controller initialized
+[2025-12-27 23:41:30] Processing message: hi
+[2025-12-27 23:41:30] Checking restrictions for: hi
+[2025-12-27 23:41:30] Found 12 restrictions
+[2025-12-27 23:41:30] No restrictions matched
+[2025-12-27 23:41:30] Finding scope for message, logged_in: no
+[2025-12-27 23:41:30] Found 19 scopes
+[2025-12-27 23:41:30] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:41:30] Using database template, length: 369
+[2025-12-27 23:41:30] Saved to database, log_id: 78
+[2025-12-27 23:41:30] Returning successful response
+[2025-12-27 23:41:30] Result prepared, sending response
+[2025-12-27 23:41:30] Response sent successfully
+[2025-12-27 16:41:43] === Chatbot API Called ===
+[2025-12-27 16:41:43] Raw input length: 76
+[2025-12-27 16:41:43] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:41:43] Database connected
+[2025-12-27 23:41:43] Controller initialized
+[2025-12-27 23:41:43] Processing message: hi
+[2025-12-27 23:41:43] Checking restrictions for: hi
+[2025-12-27 23:41:43] Found 12 restrictions
+[2025-12-27 23:41:43] No restrictions matched
+[2025-12-27 23:41:43] Finding scope for message, logged_in: no
+[2025-12-27 23:41:43] Found 19 scopes
+[2025-12-27 23:41:43] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:41:43] Using database template, length: 369
+[2025-12-27 23:41:43] Saved to database, log_id: 79
+[2025-12-27 23:41:43] Returning successful response
+[2025-12-27 23:41:43] Result prepared, sending response
+[2025-12-27 23:41:43] Response sent successfully
+[2025-12-27 16:42:12] === Chatbot API Called ===
+[2025-12-27 16:42:12] Raw input length: 76
+[2025-12-27 16:42:12] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:42:12] Database connected
+[2025-12-27 23:42:12] Controller initialized
+[2025-12-27 23:42:12] Processing message: hi
+[2025-12-27 23:42:12] Checking restrictions for: hi
+[2025-12-27 23:42:12] Found 12 restrictions
+[2025-12-27 23:42:12] No restrictions matched
+[2025-12-27 23:42:12] Finding scope for message, logged_in: no
+[2025-12-27 23:42:12] Found 19 scopes
+[2025-12-27 23:42:12] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:42:12] Using database template, length: 369
+[2025-12-27 23:42:12] Saved to database, log_id: 80
+[2025-12-27 23:42:12] Returning successful response
+[2025-12-27 23:42:12] Result prepared, sending response
+[2025-12-27 23:42:12] Response sent successfully
+[2025-12-27 16:42:40] === Chatbot API Called ===
+[2025-12-27 16:42:40] Raw input length: 76
+[2025-12-27 16:42:40] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:42:40] Database connected
+[2025-12-27 23:42:40] Controller initialized
+[2025-12-27 23:42:40] Processing message: hi
+[2025-12-27 23:42:40] Checking restrictions for: hi
+[2025-12-27 23:42:40] Found 12 restrictions
+[2025-12-27 23:42:40] No restrictions matched
+[2025-12-27 23:42:40] Finding scope for message, logged_in: no
+[2025-12-27 23:42:40] Found 19 scopes
+[2025-12-27 23:42:40] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:42:40] Using database template, length: 369
+[2025-12-27 23:42:40] Saved to database, log_id: 81
+[2025-12-27 23:42:40] Returning successful response
+[2025-12-27 23:42:40] Result prepared, sending response
+[2025-12-27 23:42:40] Response sent successfully
+[2025-12-27 16:44:28] === Chatbot API Called ===
+[2025-12-27 16:44:28] Raw input length: 76
+[2025-12-27 16:44:28] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:44:28] Database connected
+[2025-12-27 23:44:28] Controller initialized
+[2025-12-27 23:44:28] Processing message: hi
+[2025-12-27 23:44:28] Checking restrictions for: hi
+[2025-12-27 23:44:28] Found 12 restrictions
+[2025-12-27 23:44:28] No restrictions matched
+[2025-12-27 23:44:28] Finding scope for message, logged_in: no
+[2025-12-27 23:44:28] Found 19 scopes
+[2025-12-27 23:44:28] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:44:28] Using database template, length: 369
+[2025-12-27 23:44:28] Saved to database, log_id: 82
+[2025-12-27 23:44:28] Returning successful response
+[2025-12-27 23:44:28] Result prepared, sending response
+[2025-12-27 23:44:28] Response sent successfully
+[2025-12-27 16:46:38] === Chatbot API Called ===
+[2025-12-27 16:46:38] Raw input length: 78
+[2025-12-27 16:46:38] Session: 8aj0dllq6r23dshk4nsq9h5ig6, Patient: guest
+[2025-12-27 23:46:38] Database connected
+[2025-12-27 23:46:38] Controller initialized
+[2025-12-27 23:46:38] Processing message: hihi
+[2025-12-27 23:46:38] Checking restrictions for: hihi
+[2025-12-27 23:46:38] Found 12 restrictions
+[2025-12-27 23:46:38] No restrictions matched
+[2025-12-27 23:46:38] Finding scope for message, logged_in: no
+[2025-12-27 23:46:38] Found 19 scopes
+[2025-12-27 23:46:38] Matched scope: Greetings (matches: 1)
+[2025-12-27 23:46:38] Using database template, length: 369
+[2025-12-27 23:46:38] Saved to database, log_id: 83
+[2025-12-27 23:46:38] Returning successful response
+[2025-12-27 23:46:38] Result prepared, sending response
+[2025-12-27 23:46:38] Response sent successfully
+[2025-12-28 10:39:42] === Chatbot API Called ===
+[2025-12-28 10:39:42] Raw input length: 76
+[2025-12-28 10:39:42] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:39:42] Database connected
+[2025-12-28 17:39:42] Controller initialized
+[2025-12-28 17:39:42] Processing message: hi
+[2025-12-28 17:39:42] Checking restrictions for: hi
+[2025-12-28 17:39:42] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:39:42] No restrictions matched
+[2025-12-28 17:39:42] Finding scope for message, logged_in: no
+[2025-12-28 17:39:42] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:39:42] Showing interactive menu
+[2025-12-28 17:39:42] Saved to database, log_id: 84
+[2025-12-28 17:39:42] Returning successful response
+[2025-12-28 17:39:42] Result prepared, sending response
+[2025-12-28 17:39:42] Response sent successfully
+[2025-12-28 10:39:50] === Chatbot API Called ===
+[2025-12-28 10:39:50] Raw input length: 75
+[2025-12-28 10:39:50] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:39:50] Database connected
+[2025-12-28 17:39:50] Controller initialized
+[2025-12-28 17:39:50] Processing message: 2
+[2025-12-28 17:39:50] Checking restrictions for: 2
+[2025-12-28 17:39:50] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:39:50] No restrictions matched
+[2025-12-28 17:39:50] Finding scope for message, logged_in: no
+[2025-12-28 17:39:50] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:39:50] Menu selection handled: 2
+[2025-12-28 17:39:50] Saved to database, log_id: 85
+[2025-12-28 17:39:50] Returning successful response
+[2025-12-28 17:39:50] Result prepared, sending response
+[2025-12-28 17:39:50] Response sent successfully
+[2025-12-28 10:39:59] === Chatbot API Called ===
+[2025-12-28 10:39:59] Raw input length: 75
+[2025-12-28 10:39:59] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:39:59] Database connected
+[2025-12-28 17:39:59] Controller initialized
+[2025-12-28 17:39:59] Processing message: 3
+[2025-12-28 17:39:59] Checking restrictions for: 3
+[2025-12-28 17:39:59] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:39:59] No restrictions matched
+[2025-12-28 17:39:59] Finding scope for message, logged_in: no
+[2025-12-28 17:39:59] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:39:59] Menu selection handled: 3
+[2025-12-28 17:39:59] Saved to database, log_id: 86
+[2025-12-28 17:39:59] Returning successful response
+[2025-12-28 17:39:59] Result prepared, sending response
+[2025-12-28 17:39:59] Response sent successfully
+[2025-12-28 10:40:01] === Chatbot API Called ===
+[2025-12-28 10:40:01] Raw input length: 75
+[2025-12-28 10:40:01] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:01] Database connected
+[2025-12-28 17:40:01] Controller initialized
+[2025-12-28 17:40:01] Processing message: 1
+[2025-12-28 17:40:01] Checking restrictions for: 1
+[2025-12-28 17:40:01] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:01] No restrictions matched
+[2025-12-28 17:40:01] Finding scope for message, logged_in: no
+[2025-12-28 17:40:01] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:01] Menu selection handled: 1
+[2025-12-28 17:40:01] Saved to database, log_id: 87
+[2025-12-28 17:40:01] Returning successful response
+[2025-12-28 17:40:01] Result prepared, sending response
+[2025-12-28 17:40:01] Response sent successfully
+[2025-12-28 10:40:05] === Chatbot API Called ===
+[2025-12-28 10:40:05] Raw input length: 75
+[2025-12-28 10:40:05] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:05] Database connected
+[2025-12-28 17:40:05] Controller initialized
+[2025-12-28 17:40:05] Processing message: 2
+[2025-12-28 17:40:05] Checking restrictions for: 2
+[2025-12-28 17:40:05] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:05] No restrictions matched
+[2025-12-28 17:40:05] Finding scope for message, logged_in: no
+[2025-12-28 17:40:05] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:05] Menu selection handled: 2
+[2025-12-28 17:40:05] Saved to database, log_id: 88
+[2025-12-28 17:40:05] Returning successful response
+[2025-12-28 17:40:05] Result prepared, sending response
+[2025-12-28 17:40:05] Response sent successfully
+[2025-12-28 10:40:07] === Chatbot API Called ===
+[2025-12-28 10:40:07] Raw input length: 75
+[2025-12-28 10:40:07] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:07] Database connected
+[2025-12-28 17:40:07] Controller initialized
+[2025-12-28 17:40:07] Processing message: 3
+[2025-12-28 17:40:07] Checking restrictions for: 3
+[2025-12-28 17:40:07] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:07] No restrictions matched
+[2025-12-28 17:40:07] Finding scope for message, logged_in: no
+[2025-12-28 17:40:07] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:07] Menu selection handled: 3
+[2025-12-28 17:40:07] Saved to database, log_id: 89
+[2025-12-28 17:40:07] Returning successful response
+[2025-12-28 17:40:07] Result prepared, sending response
+[2025-12-28 17:40:07] Response sent successfully
+[2025-12-28 10:40:08] === Chatbot API Called ===
+[2025-12-28 10:40:08] Raw input length: 75
+[2025-12-28 10:40:08] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:08] Database connected
+[2025-12-28 17:40:08] Controller initialized
+[2025-12-28 17:40:08] Processing message: 4
+[2025-12-28 17:40:08] Checking restrictions for: 4
+[2025-12-28 17:40:08] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:08] No restrictions matched
+[2025-12-28 17:40:08] Finding scope for message, logged_in: no
+[2025-12-28 17:40:08] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:08] Menu selection handled: 4
+[2025-12-28 17:40:08] Saved to database, log_id: 90
+[2025-12-28 17:40:08] Returning successful response
+[2025-12-28 17:40:08] Result prepared, sending response
+[2025-12-28 17:40:08] Response sent successfully
+[2025-12-28 10:40:10] === Chatbot API Called ===
+[2025-12-28 10:40:10] Raw input length: 75
+[2025-12-28 10:40:10] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:10] Database connected
+[2025-12-28 17:40:10] Controller initialized
+[2025-12-28 17:40:10] Processing message: 5
+[2025-12-28 17:40:10] Checking restrictions for: 5
+[2025-12-28 17:40:10] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:10] No restrictions matched
+[2025-12-28 17:40:10] Finding scope for message, logged_in: no
+[2025-12-28 17:40:10] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:10] Menu selection handled: 5
+[2025-12-28 17:40:10] Saved to database, log_id: 91
+[2025-12-28 17:40:10] Returning successful response
+[2025-12-28 17:40:10] Result prepared, sending response
+[2025-12-28 17:40:10] Response sent successfully
+[2025-12-28 10:40:14] === Chatbot API Called ===
+[2025-12-28 10:40:14] Raw input length: 75
+[2025-12-28 10:40:14] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:14] Database connected
+[2025-12-28 17:40:14] Controller initialized
+[2025-12-28 17:40:14] Processing message: 6
+[2025-12-28 17:40:14] Checking restrictions for: 6
+[2025-12-28 17:40:14] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:14] No restrictions matched
+[2025-12-28 17:40:14] Finding scope for message, logged_in: no
+[2025-12-28 17:40:14] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:14] Menu selection handled: 6
+[2025-12-28 17:40:14] Saved to database, log_id: 92
+[2025-12-28 17:40:14] Returning successful response
+[2025-12-28 17:40:14] Result prepared, sending response
+[2025-12-28 17:40:14] Response sent successfully
+[2025-12-28 10:40:16] === Chatbot API Called ===
+[2025-12-28 10:40:16] Raw input length: 75
+[2025-12-28 10:40:16] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:16] Database connected
+[2025-12-28 17:40:16] Controller initialized
+[2025-12-28 17:40:16] Processing message: 7
+[2025-12-28 17:40:16] Checking restrictions for: 7
+[2025-12-28 17:40:16] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:16] No restrictions matched
+[2025-12-28 17:40:16] Finding scope for message, logged_in: no
+[2025-12-28 17:40:16] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:16] Menu selection handled: 7
+[2025-12-28 17:40:16] Saved to database, log_id: 93
+[2025-12-28 17:40:16] Returning successful response
+[2025-12-28 17:40:16] Result prepared, sending response
+[2025-12-28 17:40:16] Response sent successfully
+[2025-12-28 10:40:19] === Chatbot API Called ===
+[2025-12-28 10:40:19] Raw input length: 75
+[2025-12-28 10:40:19] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:19] Database connected
+[2025-12-28 17:40:19] Controller initialized
+[2025-12-28 17:40:19] Processing message: 8
+[2025-12-28 17:40:19] Checking restrictions for: 8
+[2025-12-28 17:40:19] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:19] No restrictions matched
+[2025-12-28 17:40:19] Finding scope for message, logged_in: no
+[2025-12-28 17:40:19] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:19] Menu selection handled: 8
+[2025-12-28 17:40:19] Saved to database, log_id: 94
+[2025-12-28 17:40:19] Returning successful response
+[2025-12-28 17:40:19] Result prepared, sending response
+[2025-12-28 17:40:19] Response sent successfully
+[2025-12-28 10:40:22] === Chatbot API Called ===
+[2025-12-28 10:40:22] Raw input length: 75
+[2025-12-28 10:40:22] Session: 9ichudc1kprnkfq3j7p9oiql5h, Patient: guest
+[2025-12-28 17:40:22] Database connected
+[2025-12-28 17:40:22] Controller initialized
+[2025-12-28 17:40:22] Processing message: 9
+[2025-12-28 17:40:22] Checking restrictions for: 9
+[2025-12-28 17:40:22] Restriction check error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_restricted_topics' doesn't exist
+[2025-12-28 17:40:22] No restrictions matched
+[2025-12-28 17:40:22] Finding scope for message, logged_in: no
+[2025-12-28 17:40:22] Scope matching error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.chatbot_scope' doesn't exist
+[2025-12-28 17:40:22] Menu selection handled: 9
+[2025-12-28 17:40:22] Saved to database, log_id: 95
+[2025-12-28 17:40:22] Returning successful response
+[2025-12-28 17:40:22] Result prepared, sending response
+[2025-12-28 17:40:22] Response sent successfully
+[2025-12-29 05:22:33] === Chatbot API Called ===
+[2025-12-29 05:22:33] Raw input length: 76
+[2025-12-29 05:22:33] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 12:22:33] Database connected
+[2025-12-29 12:22:33] Controller initialized
+[2025-12-29 12:22:33] Processing message: hi
+[2025-12-29 12:22:33] Checking restrictions for: hi
+[2025-12-29 12:22:33] Found 12 restrictions
+[2025-12-29 12:22:33] No restrictions matched
+[2025-12-29 12:22:33] Finding scope for message, logged_in: no
+[2025-12-29 12:22:33] Found 19 scopes
+[2025-12-29 12:22:33] Matched scope: Greetings (matches: 1)
+[2025-12-29 12:22:33] Using database template, length: 374
+[2025-12-29 12:22:33] Saved to database, log_id: 101
+[2025-12-29 12:22:33] Returning successful response
+[2025-12-29 12:22:33] Result prepared, sending response
+[2025-12-29 12:22:33] Response sent successfully
+[2025-12-29 05:22:38] === Chatbot API Called ===
+[2025-12-29 05:22:38] Raw input length: 85
+[2025-12-29 05:22:38] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 12:22:38] Database connected
+[2025-12-29 12:22:38] Controller initialized
+[2025-12-29 12:22:38] Processing message: health tips
+[2025-12-29 12:22:38] Checking restrictions for: health tips
+[2025-12-29 12:22:38] Found 12 restrictions
+[2025-12-29 12:22:38] No restrictions matched
+[2025-12-29 12:22:38] Finding scope for message, logged_in: no
+[2025-12-29 12:22:38] Found 19 scopes
+[2025-12-29 12:22:38] Matched scope: General Health Tips (matches: 1)
+[2025-12-29 12:22:38] Using database template, length: 1543
+[2025-12-29 12:22:38] Saved to database, log_id: 102
+[2025-12-29 12:22:38] Returning successful response
+[2025-12-29 12:22:38] Result prepared, sending response
+[2025-12-29 12:22:38] Response sent successfully
+[2025-12-29 05:22:52] === Chatbot API Called ===
+[2025-12-29 05:22:52] Raw input length: 81
+[2025-12-29 05:22:52] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 12:22:52] Database connected
+[2025-12-29 12:22:52] Controller initialized
+[2025-12-29 12:22:52] Processing message: doctors
+[2025-12-29 12:22:52] Checking restrictions for: doctors
+[2025-12-29 12:22:52] Found 12 restrictions
+[2025-12-29 12:22:52] No restrictions matched
+[2025-12-29 12:22:52] Finding scope for message, logged_in: no
+[2025-12-29 12:22:52] Found 19 scopes
+[2025-12-29 12:22:52] No scope matched
+[2025-12-29 12:22:52] Showing interactive menu
+[2025-12-29 12:22:52] Saved to database, log_id: 103
+[2025-12-29 12:22:52] Returning successful response
+[2025-12-29 12:22:52] Result prepared, sending response
+[2025-12-29 12:22:52] Response sent successfully
+[2025-12-29 11:23:30] === Chatbot API Called ===
+[2025-12-29 11:23:30] Raw input length: 76
+[2025-12-29 11:23:30] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:23:30] Database connected
+[2025-12-29 18:23:30] Controller initialized
+[2025-12-29 18:23:30] Processing message: hi
+[2025-12-29 18:23:30] Checking restrictions for: hi
+[2025-12-29 18:23:30] Found 12 restrictions
+[2025-12-29 18:23:30] No restrictions matched
+[2025-12-29 18:23:30] Finding scope for message, logged_in: no
+[2025-12-29 18:23:30] Found 19 scopes
+[2025-12-29 18:23:30] Matched scope: Greetings (matches: 1)
+[2025-12-29 18:23:30] Using database template, length: 374
+[2025-12-29 18:23:30] Saved to database, log_id: 104
+[2025-12-29 18:23:30] Returning successful response
+[2025-12-29 18:23:30] Result prepared, sending response
+[2025-12-29 18:23:30] Response sent successfully
+[2025-12-29 11:23:34] === Chatbot API Called ===
+[2025-12-29 11:23:34] Raw input length: 85
+[2025-12-29 11:23:34] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:23:34] Database connected
+[2025-12-29 18:23:34] Controller initialized
+[2025-12-29 18:23:34] Processing message: clinic info
+[2025-12-29 18:23:34] Checking restrictions for: clinic info
+[2025-12-29 18:23:34] Found 12 restrictions
+[2025-12-29 18:23:34] No restrictions matched
+[2025-12-29 18:23:34] Finding scope for message, logged_in: no
+[2025-12-29 18:23:34] Found 19 scopes
+[2025-12-29 18:23:34] No scope matched
+[2025-12-29 18:23:34] Showing interactive menu
+[2025-12-29 18:23:34] Saved to database, log_id: 105
+[2025-12-29 18:23:34] Returning successful response
+[2025-12-29 18:23:34] Result prepared, sending response
+[2025-12-29 18:23:34] Response sent successfully
+[2025-12-29 11:23:48] === Chatbot API Called ===
+[2025-12-29 11:23:48] Raw input length: 80
+[2025-12-29 11:23:48] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:23:48] Database connected
+[2025-12-29 18:23:48] Controller initialized
+[2025-12-29 18:23:48] Processing message: health
+[2025-12-29 18:23:48] Checking restrictions for: health
+[2025-12-29 18:23:48] Found 12 restrictions
+[2025-12-29 18:23:48] No restrictions matched
+[2025-12-29 18:23:48] Finding scope for message, logged_in: no
+[2025-12-29 18:23:48] Found 19 scopes
+[2025-12-29 18:23:48] No scope matched
+[2025-12-29 18:23:48] Showing interactive menu
+[2025-12-29 18:23:48] Saved to database, log_id: 106
+[2025-12-29 18:23:48] Returning successful response
+[2025-12-29 18:23:48] Result prepared, sending response
+[2025-12-29 18:23:48] Response sent successfully
+[2025-12-29 11:23:56] === Chatbot API Called ===
+[2025-12-29 11:23:56] Raw input length: 85
+[2025-12-29 11:23:56] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:23:56] Database connected
+[2025-12-29 18:23:56] Controller initialized
+[2025-12-29 18:23:56] Processing message: health info
+[2025-12-29 18:23:56] Checking restrictions for: health info
+[2025-12-29 18:23:56] Found 12 restrictions
+[2025-12-29 18:23:56] No restrictions matched
+[2025-12-29 18:23:56] Finding scope for message, logged_in: no
+[2025-12-29 18:23:56] Found 19 scopes
+[2025-12-29 18:23:56] No scope matched
+[2025-12-29 18:23:56] Showing interactive menu
+[2025-12-29 18:23:56] Saved to database, log_id: 107
+[2025-12-29 18:23:56] Returning successful response
+[2025-12-29 18:23:56] Result prepared, sending response
+[2025-12-29 18:23:56] Response sent successfully
+[2025-12-29 11:23:59] === Chatbot API Called ===
+[2025-12-29 11:23:59] Raw input length: 75
+[2025-12-29 11:23:59] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:23:59] Database connected
+[2025-12-29 18:23:59] Controller initialized
+[2025-12-29 18:23:59] Processing message: 7
+[2025-12-29 18:23:59] Checking restrictions for: 7
+[2025-12-29 18:23:59] Found 12 restrictions
+[2025-12-29 18:23:59] No restrictions matched
+[2025-12-29 18:23:59] Finding scope for message, logged_in: no
+[2025-12-29 18:23:59] Found 19 scopes
+[2025-12-29 18:23:59] No scope matched
+[2025-12-29 18:23:59] Menu selection handled: 7
+[2025-12-29 18:23:59] Saved to database, log_id: 108
+[2025-12-29 18:23:59] Returning successful response
+[2025-12-29 18:23:59] Result prepared, sending response
+[2025-12-29 18:23:59] Response sent successfully
+[2025-12-29 11:24:23] === Chatbot API Called ===
+[2025-12-29 11:24:23] Raw input length: 76
+[2025-12-29 11:24:23] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:24:23] Database connected
+[2025-12-29 18:24:23] Controller initialized
+[2025-12-29 18:24:23] Processing message: hi
+[2025-12-29 18:24:23] Checking restrictions for: hi
+[2025-12-29 18:24:23] Found 12 restrictions
+[2025-12-29 18:24:23] No restrictions matched
+[2025-12-29 18:24:23] Finding scope for message, logged_in: no
+[2025-12-29 18:24:23] Found 19 scopes
+[2025-12-29 18:24:23] Matched scope: Greetings (matches: 1)
+[2025-12-29 18:24:23] Using database template, length: 374
+[2025-12-29 18:24:23] Saved to database, log_id: 109
+[2025-12-29 18:24:23] Returning successful response
+[2025-12-29 18:24:23] Result prepared, sending response
+[2025-12-29 18:24:23] Response sent successfully
+[2025-12-29 11:24:29] === Chatbot API Called ===
+[2025-12-29 11:24:29] Raw input length: 80
+[2025-12-29 11:24:29] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:24:29] Database connected
+[2025-12-29 18:24:29] Controller initialized
+[2025-12-29 18:24:29] Processing message: health
+[2025-12-29 18:24:29] Checking restrictions for: health
+[2025-12-29 18:24:29] Found 12 restrictions
+[2025-12-29 18:24:29] No restrictions matched
+[2025-12-29 18:24:29] Finding scope for message, logged_in: no
+[2025-12-29 18:24:30] Found 19 scopes
+[2025-12-29 18:24:30] No scope matched
+[2025-12-29 18:24:30] Showing interactive menu
+[2025-12-29 18:24:30] Saved to database, log_id: 110
+[2025-12-29 18:24:30] Returning successful response
+[2025-12-29 18:24:30] Result prepared, sending response
+[2025-12-29 18:24:30] Response sent successfully
+[2025-12-29 11:24:41] === Chatbot API Called ===
+[2025-12-29 11:24:41] Raw input length: 78
+[2025-12-29 11:24:41] Session: 2hqis6ajjk1b75l4pi9g1v0r4p, Patient: guest
+[2025-12-29 18:24:41] Database connected
+[2025-12-29 18:24:41] Controller initialized
+[2025-12-29 18:24:41] Processing message: tips
+[2025-12-29 18:24:41] Checking restrictions for: tips
+[2025-12-29 18:24:41] Found 12 restrictions
+[2025-12-29 18:24:41] No restrictions matched
+[2025-12-29 18:24:41] Finding scope for message, logged_in: no
+[2025-12-29 18:24:41] Found 19 scopes
+[2025-12-29 18:24:41] No scope matched
+[2025-12-29 18:24:41] Showing interactive menu
+[2025-12-29 18:24:41] Saved to database, log_id: 111
+[2025-12-29 18:24:41] Returning successful response
+[2025-12-29 18:24:41] Result prepared, sending response
+[2025-12-29 18:24:41] Response sent successfully
+[2025-12-29 11:25:06] === Chatbot API Called ===
+[2025-12-29 11:25:06] Raw input length: 78
+[2025-12-29 11:25:06] Session: 7e00shh7di82tfj96tehjl833f, Patient: guest
+[2025-12-29 18:25:06] Database connected
+[2025-12-29 18:25:06] Controller initialized
+[2025-12-29 18:25:06] Processing message: hiii
+[2025-12-29 18:25:06] Checking restrictions for: hiii
+[2025-12-29 18:25:06] Found 12 restrictions
+[2025-12-29 18:25:06] No restrictions matched
+[2025-12-29 18:25:06] Finding scope for message, logged_in: no
+[2025-12-29 18:25:06] Found 19 scopes
+[2025-12-29 18:25:06] Matched scope: Greetings (matches: 1)
+[2025-12-29 18:25:06] Using database template, length: 374
+[2025-12-29 18:25:06] Saved to database, log_id: 112
+[2025-12-29 18:25:06] Returning successful response
+[2025-12-29 18:25:06] Result prepared, sending response
+[2025-12-29 18:25:06] Response sent successfully
+[2025-12-29 11:25:11] === Chatbot API Called ===
+[2025-12-29 11:25:11] Raw input length: 81
+[2025-12-29 11:25:11] Session: 7e00shh7di82tfj96tehjl833f, Patient: guest
+[2025-12-29 18:25:11] Database connected
+[2025-12-29 18:25:11] Controller initialized
+[2025-12-29 18:25:11] Processing message: doctors
+[2025-12-29 18:25:11] Checking restrictions for: doctors
+[2025-12-29 18:25:11] Found 12 restrictions
+[2025-12-29 18:25:11] No restrictions matched
+[2025-12-29 18:25:11] Finding scope for message, logged_in: no
+[2025-12-29 18:25:11] Found 19 scopes
+[2025-12-29 18:25:11] No scope matched
+[2025-12-29 18:25:11] Showing interactive menu
+[2025-12-29 18:25:11] Saved to database, log_id: 113
+[2025-12-29 18:25:11] Returning successful response
+[2025-12-29 18:25:11] Result prepared, sending response
+[2025-12-29 18:25:11] Response sent successfully
+[2025-12-29 11:25:15] === Chatbot API Called ===
+[2025-12-29 11:25:15] Raw input length: 75
+[2025-12-29 11:25:15] Session: 7e00shh7di82tfj96tehjl833f, Patient: guest
+[2025-12-29 18:25:15] Database connected
+[2025-12-29 18:25:15] Controller initialized
+[2025-12-29 18:25:15] Processing message: 1
+[2025-12-29 18:25:15] Checking restrictions for: 1
+[2025-12-29 18:25:15] Found 12 restrictions
+[2025-12-29 18:25:15] No restrictions matched
+[2025-12-29 18:25:15] Finding scope for message, logged_in: no
+[2025-12-29 18:25:15] Found 19 scopes
+[2025-12-29 18:25:15] No scope matched
+[2025-12-29 18:25:15] Menu selection handled: 1
+[2025-12-29 18:25:15] Saved to database, log_id: 114
+[2025-12-29 18:25:15] Returning successful response
+[2025-12-29 18:25:15] Result prepared, sending response
+[2025-12-29 18:25:15] Response sent successfully
+[2025-12-29 11:25:25] === Chatbot API Called ===
+[2025-12-29 11:25:25] Raw input length: 86
+[2025-12-29 11:25:25] Session: 7e00shh7di82tfj96tehjl833f, Patient: guest
+[2025-12-29 18:25:25] Database connected
+[2025-12-29 18:25:25] Controller initialized
+[2025-12-29 18:25:25] Processing message: appointments
+[2025-12-29 18:25:25] Checking restrictions for: appointments
+[2025-12-29 18:25:25] Found 12 restrictions
+[2025-12-29 18:25:25] No restrictions matched
+[2025-12-29 18:25:25] Finding scope for message, logged_in: no
+[2025-12-29 18:25:25] Found 19 scopes
+[2025-12-29 18:25:25] No scope matched
+[2025-12-29 18:25:25] Showing interactive menu
+[2025-12-29 18:25:25] Saved to database, log_id: 115
+[2025-12-29 18:25:25] Returning successful response
+[2025-12-29 18:25:25] Result prepared, sending response
+[2025-12-29 18:25:25] Response sent successfully
+[2025-12-29 11:25:29] === Chatbot API Called ===
+[2025-12-29 11:25:29] Raw input length: 75
+[2025-12-29 11:25:29] Session: 7e00shh7di82tfj96tehjl833f, Patient: guest
+[2025-12-29 18:25:29] Database connected
+[2025-12-29 18:25:29] Controller initialized
+[2025-12-29 18:25:29] Processing message: 6
+[2025-12-29 18:25:29] Checking restrictions for: 6
+[2025-12-29 18:25:29] Found 12 restrictions
+[2025-12-29 18:25:29] No restrictions matched
+[2025-12-29 18:25:29] Finding scope for message, logged_in: no
+[2025-12-29 18:25:29] Found 19 scopes
+[2025-12-29 18:25:29] No scope matched
+[2025-12-29 18:25:29] Menu selection handled: 6
+[2025-12-29 18:25:29] Saved to database, log_id: 116
+[2025-12-29 18:25:29] Returning successful response
+[2025-12-29 18:25:29] Result prepared, sending response
+[2025-12-29 18:25:29] Response sent successfully
+[2025-12-29 11:25:47] === Chatbot API Called ===
+[2025-12-29 11:25:47] Raw input length: 75
+[2025-12-29 11:25:47] Session: 7e00shh7di82tfj96tehjl833f, Patient: guest
+[2025-12-29 18:25:47] Database connected
+[2025-12-29 18:25:47] Controller initialized
+[2025-12-29 18:25:47] Processing message: 9
+[2025-12-29 18:25:47] Checking restrictions for: 9
+[2025-12-29 18:25:47] Found 12 restrictions
+[2025-12-29 18:25:47] No restrictions matched
+[2025-12-29 18:25:47] Finding scope for message, logged_in: no
+[2025-12-29 18:25:47] Found 19 scopes
+[2025-12-29 18:25:47] No scope matched
+[2025-12-29 18:25:47] Menu selection handled: 9
+[2025-12-29 18:25:47] Saved to database, log_id: 117
+[2025-12-29 18:25:47] Returning successful response
+[2025-12-29 18:25:47] Result prepared, sending response
+[2025-12-29 18:25:47] Response sent successfully
+[2026-01-01 16:46:57] === Chatbot API Called ===
+[2026-01-01 16:46:57] Raw input length: 76
+[2026-01-01 16:46:57] Session: f6atun42gj2nphpftif36emq6p, Patient: guest
+[2026-01-01 23:46:57] Database connected
+[2026-01-01 23:46:57] Controller initialized
+[2026-01-01 23:46:57] Processing message: hi
+[2026-01-01 23:46:57] Checking restrictions for: hi
+[2026-01-01 23:46:57] Found 12 restrictions
+[2026-01-01 23:46:57] No restrictions matched
+[2026-01-01 23:46:57] Finding scope for message, logged_in: no
+[2026-01-01 23:46:57] Found 19 scopes
+[2026-01-01 23:46:57] Matched scope: Greetings (matches: 1)
+[2026-01-01 23:46:57] Using database template, length: 374
+[2026-01-01 23:46:57] Saved to database, log_id: 118
+[2026-01-01 23:46:57] Returning successful response
+[2026-01-01 23:46:57] Result prepared, sending response
+[2026-01-01 23:46:57] Response sent successfully
+[2026-01-01 16:47:00] === Chatbot API Called ===
+[2026-01-01 16:47:00] Raw input length: 86
+[2026-01-01 16:47:00] Session: f6atun42gj2nphpftif36emq6p, Patient: guest
+[2026-01-01 23:47:00] Database connected
+[2026-01-01 23:47:00] Controller initialized
+[2026-01-01 23:47:00] Processing message: appointments
+[2026-01-01 23:47:00] Checking restrictions for: appointments
+[2026-01-01 23:47:00] Found 12 restrictions
+[2026-01-01 23:47:00] No restrictions matched
+[2026-01-01 23:47:00] Finding scope for message, logged_in: no
+[2026-01-01 23:47:00] Found 19 scopes
+[2026-01-01 23:47:00] No scope matched
+[2026-01-01 23:47:00] Showing interactive menu
+[2026-01-01 23:47:00] Saved to database, log_id: 119
+[2026-01-01 23:47:00] Returning successful response
+[2026-01-01 23:47:00] Result prepared, sending response
+[2026-01-01 23:47:00] Response sent successfully
+[2026-01-01 17:41:29] === Chatbot API Called ===
+[2026-01-01 17:41:29] Raw input length: 75
+[2026-01-01 17:41:29] Session: f6atun42gj2nphpftif36emq6p, Patient: guest
+[2026-01-02 00:41:29] Database connected
+[2026-01-02 00:41:29] Controller initialized
+[2026-01-02 00:41:29] Processing message: 9
+[2026-01-02 00:41:29] Checking restrictions for: 9
+[2026-01-02 00:41:29] Found 12 restrictions
+[2026-01-02 00:41:29] No restrictions matched
+[2026-01-02 00:41:29] Finding scope for message, logged_in: no
+[2026-01-02 00:41:29] Found 19 scopes
+[2026-01-02 00:41:29] No scope matched
+[2026-01-02 00:41:29] Menu selection handled: 9
+[2026-01-02 00:41:29] Saved to database, log_id: 120
+[2026-01-02 00:41:29] Returning successful response
+[2026-01-02 00:41:29] Result prepared, sending response
+[2026-01-02 00:41:29] Response sent successfully
+[2026-01-05 08:38:27] === Chatbot API Called ===
+[2026-01-05 08:38:27] Raw input length: 76
+[2026-01-05 08:38:27] Session: tapuo6rmong8n3v3ujhne73d79, Patient: guest
+[2026-01-05 15:38:27] Database connected
+[2026-01-05 15:38:27] Controller initialized
+[2026-01-05 15:38:27] Processing message: hi
+[2026-01-05 15:38:27] Checking restrictions for: hi
+[2026-01-05 15:38:27] Found 12 restrictions
+[2026-01-05 15:38:27] No restrictions matched
+[2026-01-05 15:38:27] Finding scope for message, logged_in: no
+[2026-01-05 15:38:27] Found 19 scopes
+[2026-01-05 15:38:27] Matched scope: Greetings (matches: 1)
+[2026-01-05 15:38:27] Using database template, length: 374
+[2026-01-05 15:38:27] Saved to database, log_id: 121
+[2026-01-05 15:38:27] Returning successful response
+[2026-01-05 15:38:27] Result prepared, sending response
+[2026-01-05 15:38:27] Response sent successfully
+[2026-01-05 08:38:41] === Chatbot API Called ===
+[2026-01-05 08:38:41] Raw input length: 52
+[2026-01-05 08:38:41] Session: , Patient: guest
+[2026-01-05 15:38:41] Database connected
+[2026-01-05 15:38:41] Controller initialized
+[2026-01-05 15:38:41] Processing message: halo
+[2026-01-05 15:38:41] Checking restrictions for: halo
+[2026-01-05 15:38:41] Found 12 restrictions
+[2026-01-05 15:38:41] No restrictions matched
+[2026-01-05 15:38:41] Finding scope for message, logged_in: no
+[2026-01-05 15:38:41] Found 19 scopes
+[2026-01-05 15:38:41] Matched scope: Greetings (matches: 1)
+[2026-01-05 15:38:41] Using database template, length: 374
+[2026-01-05 15:38:41] Saved to database, log_id: 122
+[2026-01-05 15:38:41] Returning successful response
+[2026-01-05 15:38:41] Result prepared, sending response
+[2026-01-05 15:38:41] Response sent successfully
+[2026-01-05 08:38:51] === Chatbot API Called ===
+[2026-01-05 08:38:51] Raw input length: 77
+[2026-01-05 08:38:51] Session: tapuo6rmong8n3v3ujhne73d79, Patient: guest
+[2026-01-05 15:38:51] Database connected
+[2026-01-05 15:38:51] Controller initialized
+[2026-01-05 15:38:51] Processing message: yes
+[2026-01-05 15:38:51] Checking restrictions for: yes
+[2026-01-05 15:38:51] Found 12 restrictions
+[2026-01-05 15:38:51] No restrictions matched
+[2026-01-05 15:38:51] Finding scope for message, logged_in: no
+[2026-01-05 15:38:51] Found 19 scopes
+[2026-01-05 15:38:51] No scope matched
+[2026-01-05 15:38:51] Showing interactive menu
+[2026-01-05 15:38:51] Saved to database, log_id: 123
+[2026-01-05 15:38:51] Returning successful response
+[2026-01-05 15:38:51] Result prepared, sending response
+[2026-01-05 15:38:51] Response sent successfully
+[2026-01-05 08:38:56] === Chatbot API Called ===
+[2026-01-05 08:38:56] Raw input length: 78
+[2026-01-05 08:38:56] Session: tapuo6rmong8n3v3ujhne73d79, Patient: guest
+[2026-01-05 15:38:56] Database connected
+[2026-01-05 15:38:56] Controller initialized
+[2026-01-05 15:38:56] Processing message: hiii
+[2026-01-05 15:38:56] Checking restrictions for: hiii
+[2026-01-05 15:38:56] Found 12 restrictions
+[2026-01-05 15:38:56] No restrictions matched
+[2026-01-05 15:38:56] Finding scope for message, logged_in: no
+[2026-01-05 15:38:56] Found 19 scopes
+[2026-01-05 15:38:56] Matched scope: Greetings (matches: 1)
+[2026-01-05 15:38:56] Using database template, length: 374
+[2026-01-05 15:38:56] Saved to database, log_id: 124
+[2026-01-05 15:38:56] Returning successful response
+[2026-01-05 15:38:56] Result prepared, sending response
+[2026-01-05 15:38:56] Response sent successfully
+[2026-01-05 10:26:04] === Chatbot API Called ===
+[2026-01-05 10:26:04] Raw input length: 52
+[2026-01-05 10:26:04] Session: , Patient: guest
+[2026-01-05 17:26:04] Database connected
+[2026-01-05 17:26:04] Controller initialized
+[2026-01-05 17:26:04] Processing message: sick
+[2026-01-05 17:26:04] Checking restrictions for: sick
+[2026-01-05 17:26:04] Found 12 restrictions
+[2026-01-05 17:26:04] No restrictions matched
+[2026-01-05 17:26:04] Finding scope for message, logged_in: no
+[2026-01-05 17:26:04] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-05 17:26:04] Showing interactive menu
+[2026-01-05 17:26:04] Saved to database, log_id: 1
+[2026-01-05 17:26:04] Returning successful response
+[2026-01-05 17:26:04] Result prepared, sending response
+[2026-01-05 17:26:04] Response sent successfully
+[2026-01-06 10:36:42] === Chatbot API Called ===
+[2026-01-06 10:36:42] Raw input length: 50
+[2026-01-06 10:36:42] Session: , Patient: guest
+[2026-01-06 17:36:42] Database connected
+[2026-01-06 17:36:42] Controller initialized
+[2026-01-06 17:36:42] Processing message: hi
+[2026-01-06 17:36:42] Checking restrictions for: hi
+[2026-01-06 17:36:42] Found 12 restrictions
+[2026-01-06 17:36:42] No restrictions matched
+[2026-01-06 17:36:42] Finding scope for message, logged_in: no
+[2026-01-06 17:36:42] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-06 17:36:42] Showing interactive menu
+[2026-01-06 17:36:42] Saved to database, log_id: 2
+[2026-01-06 17:36:42] Returning successful response
+[2026-01-06 17:36:42] Result prepared, sending response
+[2026-01-06 17:36:42] Response sent successfully
+[2026-01-06 10:36:48] === Chatbot API Called ===
+[2026-01-06 10:36:48] Raw input length: 49
+[2026-01-06 10:36:48] Session: , Patient: guest
+[2026-01-06 17:36:48] Database connected
+[2026-01-06 17:36:48] Controller initialized
+[2026-01-06 17:36:48] Processing message: 3
+[2026-01-06 17:36:48] Checking restrictions for: 3
+[2026-01-06 17:36:48] Found 12 restrictions
+[2026-01-06 17:36:48] No restrictions matched
+[2026-01-06 17:36:48] Finding scope for message, logged_in: no
+[2026-01-06 17:36:48] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-06 17:36:48] Menu selection handled: 3
+[2026-01-06 17:36:48] Saved to database, log_id: 3
+[2026-01-06 17:36:48] Returning successful response
+[2026-01-06 17:36:48] Result prepared, sending response
+[2026-01-06 17:36:48] Response sent successfully
+[2026-01-06 10:36:51] === Chatbot API Called ===
+[2026-01-06 10:36:51] Raw input length: 49
+[2026-01-06 10:36:51] Session: , Patient: guest
+[2026-01-06 17:36:51] Database connected
+[2026-01-06 17:36:51] Controller initialized
+[2026-01-06 17:36:51] Processing message: 1
+[2026-01-06 17:36:51] Checking restrictions for: 1
+[2026-01-06 17:36:51] Found 12 restrictions
+[2026-01-06 17:36:51] No restrictions matched
+[2026-01-06 17:36:51] Finding scope for message, logged_in: no
+[2026-01-06 17:36:51] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-06 17:36:51] Menu selection handled: 1
+[2026-01-06 17:36:51] Saved to database, log_id: 4
+[2026-01-06 17:36:51] Returning successful response
+[2026-01-06 17:36:51] Result prepared, sending response
+[2026-01-06 17:36:51] Response sent successfully
+[2026-01-06 10:36:56] === Chatbot API Called ===
+[2026-01-06 10:36:56] Raw input length: 54
+[2026-01-06 10:36:56] Session: , Patient: guest
+[2026-01-06 17:36:56] Database connected
+[2026-01-06 17:36:56] Controller initialized
+[2026-01-06 17:36:56] Processing message: choose
+[2026-01-06 17:36:56] Checking restrictions for: choose
+[2026-01-06 17:36:56] Found 12 restrictions
+[2026-01-06 17:36:56] No restrictions matched
+[2026-01-06 17:36:56] Finding scope for message, logged_in: no
+[2026-01-06 17:36:56] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-06 17:36:56] Showing interactive menu
+[2026-01-06 17:36:56] Saved to database, log_id: 5
+[2026-01-06 17:36:56] Returning successful response
+[2026-01-06 17:36:56] Result prepared, sending response
+[2026-01-06 17:36:56] Response sent successfully
+[2026-01-06 10:37:03] === Chatbot API Called ===
+[2026-01-06 10:37:03] Raw input length: 49
+[2026-01-06 10:37:03] Session: , Patient: guest
+[2026-01-06 17:37:03] Database connected
+[2026-01-06 17:37:03] Controller initialized
+[2026-01-06 17:37:03] Processing message: 9
+[2026-01-06 17:37:03] Checking restrictions for: 9
+[2026-01-06 17:37:03] Found 12 restrictions
+[2026-01-06 17:37:03] No restrictions matched
+[2026-01-06 17:37:03] Finding scope for message, logged_in: no
+[2026-01-06 17:37:03] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-06 17:37:03] Menu selection handled: 9
+[2026-01-06 17:37:03] Saved to database, log_id: 6
+[2026-01-06 17:37:03] Returning successful response
+[2026-01-06 17:37:03] Result prepared, sending response
+[2026-01-06 17:37:03] Response sent successfully
+[2026-01-08 10:07:46] === Chatbot API Called ===
+[2026-01-08 10:07:46] Raw input length: 76
+[2026-01-08 10:07:46] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 17:07:46] Database connected
+[2026-01-08 17:07:46] Controller initialized
+[2026-01-08 17:07:46] Processing message: HI
+[2026-01-08 17:07:46] Checking restrictions for: HI
+[2026-01-08 17:07:46] Found 12 restrictions
+[2026-01-08 17:07:46] No restrictions matched
+[2026-01-08 17:07:46] Finding scope for message, logged_in: no
+[2026-01-08 17:07:46] Found 19 scopes
+[2026-01-08 17:07:46] Matched scope: Greetings (matches: 1)
+[2026-01-08 17:07:46] Using database template, Scope ID: 1, length: 374
+[2026-01-08 17:07:46] Saving to DB - Scope ID: 1, Restricted: 0, Reason: NULL
+[2026-01-08 17:07:46] ✅ Saved to database, log_id: 7
+[2026-01-08 17:07:46] Returning successful response, log_id: 7, scope_id: 1
+[2026-01-08 17:07:46] Result prepared, sending response
+[2026-01-08 17:07:46] Response sent successfully
+[2026-01-08 10:08:05] === Chatbot API Called ===
+[2026-01-08 10:08:05] Raw input length: 85
+[2026-01-08 10:08:05] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 17:08:05] Database connected
+[2026-01-08 17:08:05] Controller initialized
+[2026-01-08 17:08:05] Processing message: appointment
+[2026-01-08 17:08:05] Checking restrictions for: appointment
+[2026-01-08 17:08:05] Found 12 restrictions
+[2026-01-08 17:08:05] No restrictions matched
+[2026-01-08 17:08:05] Finding scope for message, logged_in: no
+[2026-01-08 17:08:05] Found 19 scopes
+[2026-01-08 17:08:05] No scope matched
+[2026-01-08 17:08:05] Showing interactive menu (no scope matched)
+[2026-01-08 17:08:05] Saving to DB - Scope ID: NULL, Restricted: 0, Reason: NULL
+[2026-01-08 17:08:05] ✅ Saved to database, log_id: 8
+[2026-01-08 17:08:05] Returning successful response, log_id: 8, scope_id: NULL
+[2026-01-08 17:08:05] Result prepared, sending response
+[2026-01-08 17:08:05] Response sent successfully
+[2026-01-08 10:08:08] === Chatbot API Called ===
+[2026-01-08 10:08:08] Raw input length: 75
+[2026-01-08 10:08:08] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 17:08:08] Database connected
+[2026-01-08 17:08:08] Controller initialized
+[2026-01-08 17:08:08] Processing message: 1
+[2026-01-08 17:08:08] Checking restrictions for: 1
+[2026-01-08 17:08:08] Found 12 restrictions
+[2026-01-08 17:08:08] No restrictions matched
+[2026-01-08 17:08:08] Menu selection: 1 -> Scope ID: 3
+[2026-01-08 17:08:08] Menu selection handled: 1 -> Scope ID: 3
+[2026-01-08 17:08:08] Saving to DB - Scope ID: 3, Restricted: 0, Reason: NULL
+[2026-01-08 17:08:08] ✅ Saved to database, log_id: 9
+[2026-01-08 17:08:08] Returning successful response, log_id: 9, scope_id: 3
+[2026-01-08 17:08:08] Result prepared, sending response
+[2026-01-08 17:08:08] Response sent successfully
+[2026-01-08 10:08:09] === Chatbot API Called ===
+[2026-01-08 10:08:09] Raw input length: 75
+[2026-01-08 10:08:09] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 17:08:09] Database connected
+[2026-01-08 17:08:09] Controller initialized
+[2026-01-08 17:08:09] Processing message: 2
+[2026-01-08 17:08:09] Checking restrictions for: 2
+[2026-01-08 17:08:09] Found 12 restrictions
+[2026-01-08 17:08:09] No restrictions matched
+[2026-01-08 17:08:09] Menu selection: 2 -> Scope ID: 6
+[2026-01-08 17:08:09] Menu selection handled: 2 -> Scope ID: 6
+[2026-01-08 17:08:09] Saving to DB - Scope ID: 6, Restricted: 0, Reason: NULL
+[2026-01-08 17:08:09] ✅ Saved to database, log_id: 10
+[2026-01-08 17:08:09] Returning successful response, log_id: 10, scope_id: 6
+[2026-01-08 17:08:09] Result prepared, sending response
+[2026-01-08 17:08:09] Response sent successfully
+[2026-01-08 10:18:00] === Chatbot API Called ===
+[2026-01-08 10:18:00] Raw input length: 79
+[2026-01-08 10:18:00] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 10:18:00] Message: hello
+[2026-01-08 17:18:00] Database connected
+[2026-01-08 17:18:00] Controller initialized
+[2026-01-08 17:18:00] Processing message: hello
+[2026-01-08 17:18:00] Checking restrictions for: hello
+[2026-01-08 17:18:00] Found 12 restrictions
+[2026-01-08 17:18:00] No restrictions matched
+[2026-01-08 17:18:00] Finding scope for message, logged_in: no
+[2026-01-08 17:18:00] Found 19 scopes
+[2026-01-08 17:18:00] Matched scope: Greetings (matches: 1)
+[2026-01-08 17:18:00] Using database template, Scope ID: 1, length: 374
+[2026-01-08 17:18:00] Saving to DB - Scope ID: 1, Restricted: 0, Reason: NULL
+[2026-01-08 17:18:00] ✅ Saved to database, log_id: 11
+[2026-01-08 17:18:00] Returning successful response, log_id: 11, scope_id: 1
+[2026-01-08 17:18:00] Controller returned - Log ID: 11, Scope ID: 1
+[2026-01-08 17:18:00] ✅ Sending response with log_id: 11
+[2026-01-08 17:18:00] Response sent successfully
+[2026-01-08 10:18:08] === Chatbot API Called ===
+[2026-01-08 10:18:08] Raw input length: 80
+[2026-01-08 10:18:08] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 10:18:08] Message: health
+[2026-01-08 17:18:08] Database connected
+[2026-01-08 17:18:08] Controller initialized
+[2026-01-08 17:18:08] Processing message: health
+[2026-01-08 17:18:08] Checking restrictions for: health
+[2026-01-08 17:18:08] Found 12 restrictions
+[2026-01-08 17:18:08] No restrictions matched
+[2026-01-08 17:18:08] Finding scope for message, logged_in: no
+[2026-01-08 17:18:08] Found 19 scopes
+[2026-01-08 17:18:08] No scope matched
+[2026-01-08 17:18:08] Showing interactive menu (no scope matched)
+[2026-01-08 17:18:08] Saving to DB - Scope ID: NULL, Restricted: 0, Reason: NULL
+[2026-01-08 17:18:08] ✅ Saved to database, log_id: 12
+[2026-01-08 17:18:08] Returning successful response, log_id: 12, scope_id: NULL
+[2026-01-08 17:18:08] Controller returned - Log ID: 12, Scope ID: NULL
+[2026-01-08 17:18:08] ✅ Sending response with log_id: 12
+[2026-01-08 17:18:08] Response sent successfully
+[2026-01-08 10:18:13] === Chatbot API Called ===
+[2026-01-08 10:18:13] Raw input length: 75
+[2026-01-08 10:18:13] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 10:18:13] Message: 5
+[2026-01-08 17:18:13] Database connected
+[2026-01-08 17:18:13] Controller initialized
+[2026-01-08 17:18:13] Processing message: 5
+[2026-01-08 17:18:13] Checking restrictions for: 5
+[2026-01-08 17:18:13] Found 12 restrictions
+[2026-01-08 17:18:13] No restrictions matched
+[2026-01-08 17:18:13] Menu selection: 5 -> Scope ID: 17
+[2026-01-08 17:18:13] Menu selection handled: 5 -> Scope ID: 17
+[2026-01-08 17:18:13] Saving to DB - Scope ID: 17, Restricted: 0, Reason: NULL
+[2026-01-08 17:18:13] ✅ Saved to database, log_id: 13
+[2026-01-08 17:18:13] Returning successful response, log_id: 13, scope_id: 17
+[2026-01-08 17:18:13] Controller returned - Log ID: 13, Scope ID: 17
+[2026-01-08 17:18:13] ✅ Sending response with log_id: 13
+[2026-01-08 17:18:13] Response sent successfully
+[2026-01-08 10:27:29] === Chatbot API Called ===
+[2026-01-08 10:27:29] Raw input length: 76
+[2026-01-08 10:27:29] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 10:27:29] Message: hi
+[2026-01-08 17:27:30] Database connected
+[2026-01-08 17:27:30] Controller initialized
+[2026-01-08 17:27:30] Processing message: hi
+[2026-01-08 17:27:30] Checking restrictions for: hi
+[2026-01-08 17:27:30] Found 12 restrictions
+[2026-01-08 17:27:30] No restrictions matched
+[2026-01-08 17:27:30] Finding scope for message, logged_in: no
+[2026-01-08 17:27:30] Found 19 scopes
+[2026-01-08 17:27:30] ✅ Matched scope ID 1: Greetings
+[2026-01-08 17:27:30] ✅ Using database template, Scope ID: 1
+[2026-01-08 17:27:30] 💾 Saving to DB - Scope ID: 1, Restricted: 0, Reason: NULL
+[2026-01-08 17:27:30] ✅ Saved to database, log_id: 14, scope_id: 1
+[2026-01-08 17:27:30] ✅ Returning successful response, log_id: 14, scope_id: 1
+[2026-01-08 17:27:30] Controller returned - Log ID: 14, Scope ID: 1
+[2026-01-08 17:27:30] ✅ Sending response with log_id: 14
+[2026-01-08 17:27:30] Response sent successfully
+[2026-01-08 13:07:09] === Chatbot API Called ===
+[2026-01-08 13:07:09] Raw input length: 77
+[2026-01-08 13:07:09] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:07:09] Message: hi]
+[2026-01-08 20:07:09] Database connected
+[2026-01-08 20:07:09] Controller initialized
+[2026-01-08 20:07:09] Processing message: hi]
+[2026-01-08 20:07:09] Checking restrictions for: hi]
+[2026-01-08 20:07:09] Found 12 restrictions
+[2026-01-08 20:07:09] No restrictions matched
+[2026-01-08 20:07:09] Finding scope for message, logged_in: no
+[2026-01-08 20:07:09] Found 19 scopes
+[2026-01-08 20:07:09] ✅ Matched scope ID 1: Greetings
+[2026-01-08 20:07:09] ✅ Using database template, Scope ID: 1
+[2026-01-08 20:07:09] 💾 Saving to DB - Scope ID: 1, Restricted: 0
+[2026-01-08 20:07:09] ✅ Saved to database, log_id: 15, scope_id: 1
+[2026-01-08 20:07:09] ✅ Returning successful response, log_id: 15, scope_id: 1
+[2026-01-08 20:07:09] Controller returned - Log ID: 15, Scope ID: 1
+[2026-01-08 20:07:09] ✅ Sending response with log_id: 15
+[2026-01-08 20:07:09] Response sent successfully
+[2026-01-08 13:07:15] === Chatbot API Called ===
+[2026-01-08 13:07:15] Raw input length: 80
+[2026-01-08 13:07:15] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:07:15] Message: docyor
+[2026-01-08 20:07:15] Database connected
+[2026-01-08 20:07:15] Controller initialized
+[2026-01-08 20:07:15] Processing message: docyor
+[2026-01-08 20:07:15] Checking restrictions for: docyor
+[2026-01-08 20:07:15] Found 12 restrictions
+[2026-01-08 20:07:15] No restrictions matched
+[2026-01-08 20:07:15] Finding scope for message, logged_in: no
+[2026-01-08 20:07:15] Found 19 scopes
+[2026-01-08 20:07:15] No scope matched
+[2026-01-08 20:07:15] Showing interactive menu (no scope matched)
+[2026-01-08 20:07:15] 💾 Saving to DB - Scope ID: NULL, Restricted: 0
+[2026-01-08 20:07:15] ✅ Saved to database, log_id: 16, scope_id: NULL
+[2026-01-08 20:07:15] ✅ Returning successful response, log_id: 16, scope_id: NULL
+[2026-01-08 20:07:15] Controller returned - Log ID: 16, Scope ID: NULL
+[2026-01-08 20:07:15] ✅ Sending response with log_id: 16
+[2026-01-08 20:07:15] Response sent successfully
+[2026-01-08 13:09:50] === Chatbot API Called ===
+[2026-01-08 13:09:50] Raw input length: 77
+[2026-01-08 13:09:50] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 20:09:50] Database connected
+[2026-01-08 20:09:50] Controller initialized
+[2026-01-08 20:09:50] Processing message: yes
+[2026-01-08 20:09:50] Checking restrictions for: yes
+[2026-01-08 20:09:50] Found 12 restrictions
+[2026-01-08 20:09:50] No restrictions matched
+[2026-01-08 20:09:50] Finding scope for message, logged_in: no
+[2026-01-08 20:09:50] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-08 20:09:50] Showing interactive menu
+[2026-01-08 20:09:50] Saved to database, log_id: 17
+[2026-01-08 20:09:50] Returning successful response
+[2026-01-08 20:09:50] Result prepared, sending response
+[2026-01-08 20:09:50] Response sent successfully
+[2026-01-08 13:10:01] === Chatbot API Called ===
+[2026-01-08 13:10:01] Raw input length: 86
+[2026-01-08 13:10:01] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 20:10:01] Database connected
+[2026-01-08 20:10:01] Controller initialized
+[2026-01-08 20:10:01] Processing message: contact info
+[2026-01-08 20:10:01] Checking restrictions for: contact info
+[2026-01-08 20:10:01] Found 12 restrictions
+[2026-01-08 20:10:01] No restrictions matched
+[2026-01-08 20:10:01] Finding scope for message, logged_in: no
+[2026-01-08 20:10:01] Scope matching error: Unknown column 'should_escalate' in 'field list'
+[2026-01-08 20:10:01] Showing interactive menu
+[2026-01-08 20:10:01] Saved to database, log_id: 18
+[2026-01-08 20:10:01] Returning successful response
+[2026-01-08 20:10:01] Result prepared, sending response
+[2026-01-08 20:10:01] Response sent successfully
+[2026-01-08 13:12:44] === Chatbot API Called ===
+[2026-01-08 13:12:44] Raw input length: 76
+[2026-01-08 13:12:44] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:12:44] Message: hi
+[2026-01-08 20:12:44] Database connected
+[2026-01-08 20:12:44] Controller initialized
+[2026-01-08 20:12:44] Processing message: hi
+[2026-01-08 20:12:44] Checking restrictions for: hi
+[2026-01-08 20:12:44] Found 12 restrictions
+[2026-01-08 20:12:44] No restrictions matched
+[2026-01-08 20:12:44] Finding scope for message, logged_in: no
+[2026-01-08 20:12:44] Found 19 scopes
+[2026-01-08 20:12:44] ✅ Matched scope ID 1: Greetings
+[2026-01-08 20:12:44] ✅ Using database template, Scope ID: 1
+[2026-01-08 20:12:44] 💾 Saving to DB - Scope ID: 1, Restricted: 0
+[2026-01-08 20:12:44] ✅ Saved to database, log_id: 19, scope_id: 1
+[2026-01-08 20:12:44] ✅ Returning successful response, log_id: 19, scope_id: 1
+[2026-01-08 20:12:44] Controller returned - Log ID: 19, Scope ID: 1
+[2026-01-08 20:12:44] ✅ Sending response with log_id: 19
+[2026-01-08 20:12:44] Response sent successfully
+[2026-01-08 13:13:10] === Chatbot API Called ===
+[2026-01-08 13:13:10] Raw input length: 80
+[2026-01-08 13:13:10] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:13:10] Message: health
+[2026-01-08 20:13:10] Database connected
+[2026-01-08 20:13:10] Controller initialized
+[2026-01-08 20:13:10] Processing message: health
+[2026-01-08 20:13:10] Checking restrictions for: health
+[2026-01-08 20:13:10] Found 12 restrictions
+[2026-01-08 20:13:10] No restrictions matched
+[2026-01-08 20:13:10] Finding scope for message, logged_in: no
+[2026-01-08 20:13:10] Found 19 scopes
+[2026-01-08 20:13:10] No scope matched
+[2026-01-08 20:13:10] Showing interactive menu (no scope matched)
+[2026-01-08 20:13:10] 💾 Saving to DB - Scope ID: NULL, Restricted: 0
+[2026-01-08 20:13:10] ✅ Saved to database, log_id: 20, scope_id: NULL
+[2026-01-08 20:13:10] ✅ Returning successful response, log_id: 20, scope_id: NULL
+[2026-01-08 20:13:10] Controller returned - Log ID: 20, Scope ID: NULL
+[2026-01-08 20:13:10] ✅ Sending response with log_id: 20
+[2026-01-08 20:13:10] Response sent successfully
+[2026-01-08 13:13:16] === Chatbot API Called ===
+[2026-01-08 13:13:16] Raw input length: 75
+[2026-01-08 13:13:16] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:13:16] Message: 6
+[2026-01-08 20:13:16] Database connected
+[2026-01-08 20:13:16] Controller initialized
+[2026-01-08 20:13:16] Processing message: 6
+[2026-01-08 20:13:16] Checking restrictions for: 6
+[2026-01-08 20:13:16] Found 12 restrictions
+[2026-01-08 20:13:16] No restrictions matched
+[2026-01-08 20:13:16] ✅ Menu selection: 6 -> Scope ID: 9
+[2026-01-08 20:13:16] ✅ Menu handled: 6 -> Scope ID: 9
+[2026-01-08 20:13:16] 💾 Saving to DB - Scope ID: 9, Restricted: 0
+[2026-01-08 20:13:16] ✅ Saved to database, log_id: 21, scope_id: 9
+[2026-01-08 20:13:16] ✅ Returning successful response, log_id: 21, scope_id: 9
+[2026-01-08 20:13:16] Controller returned - Log ID: 21, Scope ID: 9
+[2026-01-08 20:13:16] ✅ Sending response with log_id: 21
+[2026-01-08 20:13:16] Response sent successfully
+[2026-01-08 13:15:51] === Chatbot API Called ===
+[2026-01-08 13:15:51] Raw input length: 78
+[2026-01-08 13:15:51] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:15:51] Message: halo
+[2026-01-08 20:15:51] Database connected
+[2026-01-08 20:15:51] Controller initialized
+[2026-01-08 20:15:51] Processing message: halo
+[2026-01-08 20:15:51] Checking restrictions for: halo
+[2026-01-08 20:15:51] Found 12 restrictions
+[2026-01-08 20:15:51] No restrictions matched
+[2026-01-08 20:15:51] Finding scope for message, logged_in: no
+[2026-01-08 20:15:51] Found 19 scopes
+[2026-01-08 20:15:51] Matched scope: Greetings (matches: 1)
+[2026-01-08 20:15:51] Using database template, Scope ID: 1, length: 374
+[2026-01-08 20:15:51] Saving to DB - Scope ID: 1, Restricted: 0, Reason: NULL
+[2026-01-08 20:15:51] ✅ Saved to database, log_id: 22
+[2026-01-08 20:15:51] Returning successful response, log_id: 22, scope_id: 1
+[2026-01-08 20:15:51] Controller returned - Log ID: 22, Scope ID: 1
+[2026-01-08 20:15:51] ✅ Sending response with log_id: 22
+[2026-01-08 20:15:51] Response sent successfully
+[2026-01-08 13:15:55] === Chatbot API Called ===
+[2026-01-08 13:15:55] Raw input length: 80
+[2026-01-08 13:15:55] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:15:55] Message: helath
+[2026-01-08 20:15:55] Database connected
+[2026-01-08 20:15:55] Controller initialized
+[2026-01-08 20:15:55] Processing message: helath
+[2026-01-08 20:15:55] Checking restrictions for: helath
+[2026-01-08 20:15:55] Found 12 restrictions
+[2026-01-08 20:15:55] No restrictions matched
+[2026-01-08 20:15:55] Finding scope for message, logged_in: no
+[2026-01-08 20:15:55] Found 19 scopes
+[2026-01-08 20:15:55] No scope matched
+[2026-01-08 20:15:55] Showing interactive menu (no scope matched)
+[2026-01-08 20:15:55] Saving to DB - Scope ID: NULL, Restricted: 0, Reason: NULL
+[2026-01-08 20:15:55] ✅ Saved to database, log_id: 23
+[2026-01-08 20:15:55] Returning successful response, log_id: 23, scope_id: NULL
+[2026-01-08 20:15:55] Controller returned - Log ID: 23, Scope ID: NULL
+[2026-01-08 20:15:55] ✅ Sending response with log_id: 23
+[2026-01-08 20:15:55] Response sent successfully
+[2026-01-08 13:16:11] === Chatbot API Called ===
+[2026-01-08 13:16:11] Raw input length: 75
+[2026-01-08 13:16:11] Session: sm009n81pjo05vnn5in1b552ko, Patient: guest
+[2026-01-08 13:16:11] Message: 9
+[2026-01-08 20:16:11] Database connected
+[2026-01-08 20:16:11] Controller initialized
+[2026-01-08 20:16:11] Processing message: 9
+[2026-01-08 20:16:11] Checking restrictions for: 9
+[2026-01-08 20:16:11] Found 12 restrictions
+[2026-01-08 20:16:11] No restrictions matched
+[2026-01-08 20:16:11] Menu selection: 9 -> Scope ID: 2
+[2026-01-08 20:16:11] Menu selection handled: 9 -> Scope ID: 2
+[2026-01-08 20:16:11] Saving to DB - Scope ID: 2, Restricted: 0, Reason: NULL
+[2026-01-08 20:16:11] ✅ Saved to database, log_id: 24
+[2026-01-08 20:16:11] Returning successful response, log_id: 24, scope_id: 2
+[2026-01-08 20:16:11] Controller returned - Log ID: 24, Scope ID: 2
+[2026-01-08 20:16:11] ✅ Sending response with log_id: 24
+[2026-01-08 20:16:11] Response sent successfully
+[2026-01-09 13:02:50] === Chatbot API Called ===
+[2026-01-09 13:02:50] Raw input length: 76
+[2026-01-09 13:02:50] Session: c5l2p3v9e39bhg545snebposf1, Patient: guest
+[2026-01-09 13:02:50] Message: hi
+[2026-01-09 20:02:50] Database connected
+[2026-01-09 20:02:50] Controller initialized
+[2026-01-09 20:02:50] Processing message: hi
+[2026-01-09 20:02:50] Checking restrictions for: hi
+[2026-01-09 20:02:50] Found 12 restrictions
+[2026-01-09 20:02:50] No restrictions matched
+[2026-01-09 20:02:50] Finding scope for message, logged_in: no
+[2026-01-09 20:02:50] Found 19 scopes
+[2026-01-09 20:02:50] Matched scope: Greetings (matches: 1)
+[2026-01-09 20:02:50] Using database template, Scope ID: 1, length: 371
+[2026-01-09 20:02:50] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-09 20:02:50] Returning successful response, log_id: , scope_id: 1
+[2026-01-09 20:02:50] Controller returned - Log ID: NULL, Scope ID: 1
+[2026-01-09 20:02:50] ✅ Sending response with log_id: 
+[2026-01-09 20:02:50] Response sent successfully
+[2026-01-09 13:03:02] === Chatbot API Called ===
+[2026-01-09 13:03:02] Raw input length: 86
+[2026-01-09 13:03:02] Session: c5l2p3v9e39bhg545snebposf1, Patient: guest
+[2026-01-09 13:03:02] Message: appointments
+[2026-01-09 20:03:02] Database connected
+[2026-01-09 20:03:02] Controller initialized
+[2026-01-09 20:03:02] Processing message: appointments
+[2026-01-09 20:03:02] Checking restrictions for: appointments
+[2026-01-09 20:03:02] Found 12 restrictions
+[2026-01-09 20:03:02] No restrictions matched
+[2026-01-09 20:03:02] Finding scope for message, logged_in: no
+[2026-01-09 20:03:02] Found 19 scopes
+[2026-01-09 20:03:02] No scope matched
+[2026-01-09 20:03:02] Showing interactive menu (no scope matched)
+[2026-01-09 20:03:02] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-09 20:03:02] Returning successful response, log_id: , scope_id: NULL
+[2026-01-09 20:03:02] Controller returned - Log ID: NULL, Scope ID: NULL
+[2026-01-09 20:03:02] ✅ Sending response with log_id: 
+[2026-01-09 20:03:02] Response sent successfully
+[2026-01-09 13:03:04] === Chatbot API Called ===
+[2026-01-09 13:03:04] Raw input length: 75
+[2026-01-09 13:03:04] Session: c5l2p3v9e39bhg545snebposf1, Patient: guest
+[2026-01-09 13:03:04] Message: 7
+[2026-01-09 20:03:04] Database connected
+[2026-01-09 20:03:04] Controller initialized
+[2026-01-09 20:03:04] Processing message: 7
+[2026-01-09 20:03:04] Checking restrictions for: 7
+[2026-01-09 20:03:04] Found 12 restrictions
+[2026-01-09 20:03:04] No restrictions matched
+[2026-01-09 20:03:04] Menu selection: 7 -> Scope ID: 12
+[2026-01-09 20:03:04] Menu selection handled: 7 -> Scope ID: 12
+[2026-01-09 20:03:04] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-09 20:03:04] Returning successful response, log_id: , scope_id: 12
+[2026-01-09 20:03:04] Controller returned - Log ID: NULL, Scope ID: 12
+[2026-01-09 20:03:04] ✅ Sending response with log_id: 
+[2026-01-09 20:03:04] Response sent successfully
+[2026-01-10 19:21:18] === Chatbot API Called ===
+[2026-01-10 19:21:18] Raw input length: 125
+[2026-01-10 19:21:18] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:21:18] Message: How can I contact the clinic?
+[2026-01-11 02:21:18] ✅ Database connected
+[2026-01-11 02:21:18] Controller initialized
+[2026-01-11 02:21:18] Processing message: How can I contact the clinic?
+[2026-01-11 02:21:18] Checking restrictions for: How can I contact the clinic?
+[2026-01-11 02:21:18] Found 12 restrictions
+[2026-01-11 02:21:18] No restrictions matched
+[2026-01-11 02:21:18] Finding scope for message, logged_in: no
+[2026-01-11 02:21:18] Found 19 scopes
+[2026-01-11 02:21:18] Matched scope: Contact Information (matches: 1)
+[2026-01-11 02:21:18] Using database template, Scope ID: 9, length: 518
+[2026-01-11 02:21:18] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:21:18] Returning successful response, log_id: , scope_id: 9
+[2026-01-11 02:21:18] ✅ Controller returned:
+[2026-01-11 02:21:18]    - Reply length: 518
+[2026-01-11 02:21:18]    - Log ID: NULL
+[2026-01-11 02:21:18]    - Scope ID: 9
+[2026-01-11 02:21:18]    - Is Restricted: NO
+[2026-01-11 02:21:18] ✅ Sending response:
+[2026-01-11 02:21:18]    - Reply: --- 📞 CONTACT CAREPLUS ---
+You can contact us through:
+
+--- ☎️ PHONE ---
++60 12-345 6789
+
+�
+[2026-01-11 02:21:18]    - Log ID: 
+[2026-01-11 02:21:18]    - Scope ID: 9
+[2026-01-11 02:21:18]    - Matched Scope: Contact Information
+[2026-01-11 02:21:18] ✅ Response sent successfully
+[2026-01-10 19:29:01] === Chatbot API Called ===
+[2026-01-10 19:29:01] Raw input length: 125
+[2026-01-10 19:29:01] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:29:01] Message: How can I contact the clinic?
+[2026-01-11 02:29:01] ✅ Database connected
+[2026-01-11 02:29:01] Controller initialized
+[2026-01-11 02:29:01] Processing message: How can I contact the clinic?
+[2026-01-11 02:29:01] Checking restrictions for: How can I contact the clinic?
+[2026-01-11 02:29:01] Found 12 restrictions
+[2026-01-11 02:29:01] No restrictions matched
+[2026-01-11 02:29:01] Finding scope for message, logged_in: no
+[2026-01-11 02:29:01] Found 19 scopes
+[2026-01-11 02:29:01] Matched scope: Contact Information (matches: 1)
+[2026-01-11 02:29:01] Using database template, Scope ID: 9, length: 518
+[2026-01-11 02:29:01] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:29:01] Returning successful response, log_id: , scope_id: 9
+[2026-01-11 02:29:01] ✅ Controller returned:
+[2026-01-11 02:29:01]    - Reply length: 518
+[2026-01-11 02:29:01]    - Log ID: NULL
+[2026-01-11 02:29:01]    - Scope ID: 9
+[2026-01-11 02:29:01]    - Is Restricted: NO
+[2026-01-11 02:29:01] ✅ Sending response:
+[2026-01-11 02:29:01]    - Reply: --- 📞 CONTACT CAREPLUS ---
+You can contact us through:
+
+--- ☎️ PHONE ---
++60 12-345 6789
+
+�
+[2026-01-11 02:29:01]    - Log ID: 
+[2026-01-11 02:29:01]    - Scope ID: 9
+[2026-01-11 02:29:01]    - Matched Scope: Contact Information
+[2026-01-11 02:29:01] ✅ Response sent successfully
+[2026-01-10 19:30:42] === Chatbot API Called ===
+[2026-01-10 19:30:42] Raw input length: 120
+[2026-01-10 19:30:42] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:30:42] Message: How can I find a doctor?
+[2026-01-11 02:30:42] ✅ Database connected
+[2026-01-11 02:30:42] Controller initialized
+[2026-01-11 02:30:42] Processing message: How can I find a doctor?
+[2026-01-11 02:30:42] Checking restrictions for: How can I find a doctor?
+[2026-01-11 02:30:42] Found 12 restrictions
+[2026-01-11 02:30:42] No restrictions matched
+[2026-01-11 02:30:42] Finding scope for message, logged_in: no
+[2026-01-11 02:30:42] Found 19 scopes
+[2026-01-11 02:30:42] No scope matched
+[2026-01-11 02:30:42] Showing interactive menu (no scope matched)
+[2026-01-11 02:30:42] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:30:42] Returning successful response, log_id: , scope_id: NULL
+[2026-01-11 02:30:42] ✅ Controller returned:
+[2026-01-11 02:30:42]    - Reply length: 375
+[2026-01-11 02:30:42]    - Log ID: NULL
+[2026-01-11 02:30:42]    - Scope ID: NULL
+[2026-01-11 02:30:42]    - Is Restricted: NO
+[2026-01-11 02:30:42] ✅ Sending response:
+[2026-01-11 02:30:42]    - Reply: I'm here to help! Please choose from the following options:
+
+1️⃣ Book an Appointment
+2️⃣ Cli
+[2026-01-11 02:30:42]    - Log ID: 
+[2026-01-11 02:30:42]    - Scope ID: 
+[2026-01-11 02:30:42]    - Matched Scope: General
+[2026-01-11 02:30:42] ✅ Response sent successfully
+[2026-01-10 19:35:38] === Chatbot API Called ===
+[2026-01-10 19:35:38] Raw input length: 125
+[2026-01-10 19:35:38] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:35:38] Message: How do I book an appointment?
+[2026-01-11 02:35:38] ✅ Database connected
+[2026-01-11 02:35:38] Controller initialized
+[2026-01-11 02:35:38] Processing message: How do I book an appointment?
+[2026-01-11 02:35:38] Checking restrictions for: How do I book an appointment?
+[2026-01-11 02:35:38] Found 12 restrictions
+[2026-01-11 02:35:38] No restrictions matched
+[2026-01-11 02:35:38] Finding scope for message, logged_in: no
+[2026-01-11 02:35:38] Found 19 scopes
+[2026-01-11 02:35:38] No scope matched
+[2026-01-11 02:35:38] Showing interactive menu (no scope matched)
+[2026-01-11 02:35:38] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:35:38] Returning successful response, log_id: , scope_id: NULL
+[2026-01-11 02:35:38] ✅ Controller returned:
+[2026-01-11 02:35:38]    - Reply length: 375
+[2026-01-11 02:35:38]    - Log ID: NULL
+[2026-01-11 02:35:38]    - Scope ID: NULL
+[2026-01-11 02:35:38]    - Is Restricted: NO
+[2026-01-11 02:35:38] ✅ Sending response:
+[2026-01-11 02:35:38]    - Reply: I'm here to help! Please choose from the following options:
+
+1️⃣ Book an Appointment
+2️⃣ Cli
+[2026-01-11 02:35:38]    - Log ID: 
+[2026-01-11 02:35:38]    - Scope ID: 
+[2026-01-11 02:35:38]    - Matched Scope: General
+[2026-01-11 02:35:38] ✅ Response sent successfully
+[2026-01-10 19:39:12] === Chatbot API Called ===
+[2026-01-10 19:39:12] Raw input length: 125
+[2026-01-10 19:39:12] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:39:12] Message: How do I book an appointment?
+[2026-01-11 02:39:12] ✅ Database connected
+[2026-01-11 02:39:12] Controller initialized
+[2026-01-11 02:39:12] Processing message: How do I book an appointment?
+[2026-01-11 02:39:12] Checking restrictions for: How do I book an appointment?
+[2026-01-11 02:39:12] Found 12 restrictions
+[2026-01-11 02:39:12] No restrictions matched
+[2026-01-11 02:39:12] Finding scope for message, logged_in: no
+[2026-01-11 02:39:12] Found 19 scopes
+[2026-01-11 02:39:12] No scope matched
+[2026-01-11 02:39:12] Showing interactive menu (no scope matched)
+[2026-01-11 02:39:12] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:39:12] Returning successful response, log_id: , scope_id: NULL
+[2026-01-11 02:39:12] ✅ Controller returned:
+[2026-01-11 02:39:12]    - Reply length: 375
+[2026-01-11 02:39:12]    - Log ID: NULL
+[2026-01-11 02:39:12]    - Scope ID: NULL
+[2026-01-11 02:39:12]    - Is Restricted: NO
+[2026-01-11 02:39:12] ✅ Sending response:
+[2026-01-11 02:39:12]    - Reply: I'm here to help! Please choose from the following options:
+
+1️⃣ Book an Appointment
+2️⃣ Cli
+[2026-01-11 02:39:12]    - Log ID: 
+[2026-01-11 02:39:12]    - Scope ID: 
+[2026-01-11 02:39:12]    - Matched Scope: General
+[2026-01-11 02:39:12] ✅ Response sent successfully
+[2026-01-10 19:46:02] === Chatbot API Called ===
+[2026-01-10 19:46:02] Raw input length: 125
+[2026-01-10 19:46:02] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:46:03] Message: How can I contact the clinic?
+[2026-01-11 02:46:03] ✅ Database connected
+[2026-01-11 02:46:03] Controller initialized
+[2026-01-11 02:46:03] Processing message: How can I contact the clinic?
+[2026-01-11 02:46:03] Checking restrictions for: How can I contact the clinic?
+[2026-01-11 02:46:03] Found 12 restrictions
+[2026-01-11 02:46:03] No restrictions matched
+[2026-01-11 02:46:03] Finding scope for message, logged_in: no
+[2026-01-11 02:46:03] Found 19 scopes
+[2026-01-11 02:46:03] Matched scope: Contact Information (matches: 1)
+[2026-01-11 02:46:03] Using database template, Scope ID: 9, length: 518
+[2026-01-11 02:46:03] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:46:03] Returning successful response, log_id: , scope_id: 9
+[2026-01-11 02:46:03] ✅ Controller returned:
+[2026-01-11 02:46:03]    - Reply length: 518
+[2026-01-11 02:46:03]    - Log ID: NULL
+[2026-01-11 02:46:03]    - Scope ID: 9
+[2026-01-11 02:46:03]    - Is Restricted: NO
+[2026-01-11 02:46:03] ✅ Sending response:
+[2026-01-11 02:46:03]    - Reply: --- 📞 CONTACT CAREPLUS ---
+You can contact us through:
+
+--- ☎️ PHONE ---
++60 12-345 6789
+
+�
+[2026-01-11 02:46:03]    - Log ID: 
+[2026-01-11 02:46:03]    - Scope ID: 9
+[2026-01-11 02:46:03]    - Matched Scope: Contact Information
+[2026-01-11 02:46:03] ✅ Response sent successfully
+[2026-01-10 19:46:08] === Chatbot API Called ===
+[2026-01-10 19:46:08] Raw input length: 98
+[2026-01-10 19:46:08] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: patient
+[2026-01-10 19:46:08] Message: hi
+[2026-01-11 02:46:08] ✅ Database connected
+[2026-01-11 02:46:08] Controller initialized
+[2026-01-11 02:46:08] Processing message: hi
+[2026-01-11 02:46:08] Checking restrictions for: hi
+[2026-01-11 02:46:08] Found 12 restrictions
+[2026-01-11 02:46:08] No restrictions matched
+[2026-01-11 02:46:08] Finding scope for message, logged_in: no
+[2026-01-11 02:46:08] Found 19 scopes
+[2026-01-11 02:46:08] Matched scope: Greetings (matches: 1)
+[2026-01-11 02:46:08] Using database template, Scope ID: 1, length: 371
+[2026-01-11 02:46:08] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:46:08] Returning successful response, log_id: , scope_id: 1
+[2026-01-11 02:46:08] ✅ Controller returned:
+[2026-01-11 02:46:08]    - Reply length: 371
+[2026-01-11 02:46:08]    - Log ID: NULL
+[2026-01-11 02:46:08]    - Scope ID: 1
+[2026-01-11 02:46:08]    - Is Restricted: NO
+[2026-01-11 02:46:08] ✅ Sending response:
+[2026-01-11 02:46:08]    - Reply: 👋 Hello! Welcome to CarePlus Smart Clinic Management Portal!
+
+I'm your friendly CarePlus assistan
+[2026-01-11 02:46:08]    - Log ID: 
+[2026-01-11 02:46:08]    - Scope ID: 1
+[2026-01-11 02:46:08]    - Matched Scope: Greetings
+[2026-01-11 02:46:08] ✅ Response sent successfully
+[2026-01-10 19:57:26] === Chatbot API Called ===
+[2026-01-10 19:57:26] Raw input length: 133
+[2026-01-10 19:57:26] Session: 0suolnpklfhvt094n2icanbi8m, Patient: guest, Type: guest
+[2026-01-10 19:57:26] Message: I forgot my password, what should I do?
+[2026-01-11 02:57:26] ✅ Database connected
+[2026-01-11 02:57:26] Controller initialized
+[2026-01-11 02:57:26] Processing message: I forgot my password, what should I do?
+[2026-01-11 02:57:26] Checking restrictions for: I forgot my password, what should I do?
+[2026-01-11 02:57:26] Found 12 restrictions
+[2026-01-11 02:57:26] No restrictions matched
+[2026-01-11 02:57:26] Finding scope for message, logged_in: no
+[2026-01-11 02:57:26] Found 19 scopes
+[2026-01-11 02:57:26] No scope matched
+[2026-01-11 02:57:26] Showing interactive menu (no scope matched)
+[2026-01-11 02:57:26] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:57:26] Returning successful response, log_id: , scope_id: NULL
+[2026-01-11 02:57:26] ✅ Controller returned:
+[2026-01-11 02:57:26]    - Reply length: 375
+[2026-01-11 02:57:26]    - Log ID: NULL
+[2026-01-11 02:57:26]    - Scope ID: NULL
+[2026-01-11 02:57:26]    - Is Restricted: NO
+[2026-01-11 02:57:26] ✅ Sending response:
+[2026-01-11 02:57:26]    - Reply: I'm here to help! Please choose from the following options:
+
+1️⃣ Book an Appointment
+2️⃣ Cli
+[2026-01-11 02:57:26]    - Log ID: 
+[2026-01-11 02:57:26]    - Scope ID: 
+[2026-01-11 02:57:26]    - Matched Scope: General
+[2026-01-11 02:57:26] ✅ Response sent successfully
+[2026-01-10 20:06:48] === Chatbot API Called ===
+[2026-01-10 20:06:48] Raw input length: 133
+[2026-01-10 20:06:48] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: guest
+[2026-01-10 20:06:48] Message: What information do I need to register?
+[2026-01-11 03:06:48] ✅ Database connected
+[2026-01-11 03:06:48] Controller initialized
+[2026-01-11 03:06:48] Processing message: What information do I need to register?
+[2026-01-11 03:06:48] Checking restrictions for: What information do I need to register?
+[2026-01-11 03:06:48] Found 12 restrictions
+[2026-01-11 03:06:48] No restrictions matched
+[2026-01-11 03:06:48] Finding scope for message, logged_in: no
+[2026-01-11 03:06:48] Found 19 scopes
+[2026-01-11 03:06:48] Matched scope: Registration (matches: 1)
+[2026-01-11 03:06:48] Using database template, Scope ID: 16, length: 803
+[2026-01-11 03:06:48] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:06:48] Returning successful response, log_id: , scope_id: 16
+[2026-01-11 03:06:48] ✅ Controller returned:
+[2026-01-11 03:06:48]    - Reply length: 803
+[2026-01-11 03:06:48]    - Log ID: NULL
+[2026-01-11 03:06:48]    - Scope ID: 16
+[2026-01-11 03:06:48]    - Is Restricted: NO
+[2026-01-11 03:06:48] ✅ Sending response:
+[2026-01-11 03:06:48]    - Reply: --- ✨ JOIN CAREPLUS FAMILY ---
+
+🎉 GETTING STARTED IS EASY!
+
+1️⃣ REGISTER (2 minutes)
+
+• C
+[2026-01-11 03:06:48]    - Log ID: 
+[2026-01-11 03:06:48]    - Scope ID: 16
+[2026-01-11 03:06:48]    - Matched Scope: Registration
+[2026-01-11 03:06:48] ✅ Response sent successfully
+[2026-01-10 20:07:28] === Chatbot API Called ===
+[2026-01-10 20:07:28] Raw input length: 109
+[2026-01-10 20:07:28] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: guest
+[2026-01-10 20:07:28] Message: Contact support
+[2026-01-11 03:07:28] ✅ Database connected
+[2026-01-11 03:07:28] Controller initialized
+[2026-01-11 03:07:28] Processing message: Contact support
+[2026-01-11 03:07:28] Checking restrictions for: Contact support
+[2026-01-11 03:07:28] Found 12 restrictions
+[2026-01-11 03:07:28] No restrictions matched
+[2026-01-11 03:07:28] Finding scope for message, logged_in: no
+[2026-01-11 03:07:28] Found 19 scopes
+[2026-01-11 03:07:28] Matched scope: Help & Capabilities (matches: 1)
+[2026-01-11 03:07:28] Using database template, Scope ID: 2, length: 695
+[2026-01-11 03:07:28] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:07:28] Returning successful response, log_id: , scope_id: 2
+[2026-01-11 03:07:28] ✅ Controller returned:
+[2026-01-11 03:07:28]    - Reply length: 695
+[2026-01-11 03:07:28]    - Log ID: NULL
+[2026-01-11 03:07:28]    - Scope ID: 2
+[2026-01-11 03:07:28]    - Is Restricted: NO
+[2026-01-11 03:07:28] ✅ Sending response:
+[2026-01-11 03:07:28]    - Reply: 💬 Here's what I can help you with:
+--- 📋 APPOINTMENTS ---
+
+   • Book new appointments
+   •
+[2026-01-11 03:07:28]    - Log ID: 
+[2026-01-11 03:07:28]    - Scope ID: 2
+[2026-01-11 03:07:28]    - Matched Scope: Help & Capabilities
+[2026-01-11 03:07:28] ✅ Response sent successfully
+[2026-01-10 20:08:49] === Chatbot API Called ===
+[2026-01-10 20:08:49] Raw input length: 109
+[2026-01-10 20:08:49] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: guest
+[2026-01-10 20:08:49] Message: Contact support
+[2026-01-11 03:08:49] ✅ Database connected
+[2026-01-11 03:08:49] Controller initialized
+[2026-01-11 03:08:49] Processing message: Contact support
+[2026-01-11 03:08:49] Checking restrictions for: Contact support
+[2026-01-11 03:08:49] Found 12 restrictions
+[2026-01-11 03:08:49] No restrictions matched
+[2026-01-11 03:08:49] Finding scope for message, logged_in: no
+[2026-01-11 03:08:49] Found 19 scopes
+[2026-01-11 03:08:49] Matched scope: Help & Capabilities (matches: 1)
+[2026-01-11 03:08:49] Using database template, Scope ID: 2, length: 695
+[2026-01-11 03:08:49] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:08:49] Returning successful response, log_id: , scope_id: 2
+[2026-01-11 03:08:49] ✅ Controller returned:
+[2026-01-11 03:08:49]    - Reply length: 695
+[2026-01-11 03:08:49]    - Log ID: NULL
+[2026-01-11 03:08:49]    - Scope ID: 2
+[2026-01-11 03:08:49]    - Is Restricted: NO
+[2026-01-11 03:08:49] ✅ Sending response:
+[2026-01-11 03:08:49]    - Reply: 💬 Here's what I can help you with:
+--- 📋 APPOINTMENTS ---
+
+   • Book new appointments
+   •
+[2026-01-11 03:08:49]    - Log ID: 
+[2026-01-11 03:08:49]    - Scope ID: 2
+[2026-01-11 03:08:49]    - Matched Scope: Help & Capabilities
+[2026-01-11 03:08:49] ✅ Response sent successfully
+[2026-01-10 20:09:19] === Chatbot API Called ===
+[2026-01-10 20:09:19] Raw input length: 109
+[2026-01-10 20:09:19] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: guest
+[2026-01-10 20:09:19] Message: Contact support
+[2026-01-11 03:09:19] ✅ Database connected
+[2026-01-11 03:09:19] Controller initialized
+[2026-01-11 03:09:19] Processing message: Contact support
+[2026-01-11 03:09:19] Checking restrictions for: Contact support
+[2026-01-11 03:09:19] Found 12 restrictions
+[2026-01-11 03:09:19] No restrictions matched
+[2026-01-11 03:09:19] Finding scope for message, logged_in: no
+[2026-01-11 03:09:19] Found 19 scopes
+[2026-01-11 03:09:19] Matched scope: Help & Capabilities (matches: 1)
+[2026-01-11 03:09:19] Using database template, Scope ID: 2, length: 695
+[2026-01-11 03:09:19] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:09:19] Returning successful response, log_id: , scope_id: 2
+[2026-01-11 03:09:19] ✅ Controller returned:
+[2026-01-11 03:09:19]    - Reply length: 695
+[2026-01-11 03:09:19]    - Log ID: NULL
+[2026-01-11 03:09:19]    - Scope ID: 2
+[2026-01-11 03:09:19]    - Is Restricted: NO
+[2026-01-11 03:09:19] ✅ Sending response:
+[2026-01-11 03:09:19]    - Reply: 💬 Here's what I can help you with:
+--- 📋 APPOINTMENTS ---
+
+   • Book new appointments
+   •
+[2026-01-11 03:09:19]    - Log ID: 
+[2026-01-11 03:09:19]    - Scope ID: 2
+[2026-01-11 03:09:19]    - Matched Scope: Help & Capabilities
+[2026-01-11 03:09:19] ✅ Response sent successfully
+[2026-01-10 20:12:46] === Chatbot API Called ===
+[2026-01-10 20:12:46] Raw input length: 133
+[2026-01-10 20:12:46] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: guest
+[2026-01-10 20:12:46] Message: What information do I need to register?
+[2026-01-11 03:12:46] ✅ Database connected
+[2026-01-11 03:12:46] Controller initialized
+[2026-01-11 03:12:46] Processing message: What information do I need to register?
+[2026-01-11 03:12:46] Checking restrictions for: What information do I need to register?
+[2026-01-11 03:12:46] Found 12 restrictions
+[2026-01-11 03:12:46] No restrictions matched
+[2026-01-11 03:12:46] Finding scope for message, logged_in: no
+[2026-01-11 03:12:46] Found 19 scopes
+[2026-01-11 03:12:46] Matched scope: Registration (matches: 1)
+[2026-01-11 03:12:46] Using database template, Scope ID: 16, length: 803
+[2026-01-11 03:12:46] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:12:46] Returning successful response, log_id: , scope_id: 16
+[2026-01-11 03:12:46] ✅ Controller returned:
+[2026-01-11 03:12:46]    - Reply length: 803
+[2026-01-11 03:12:46]    - Log ID: NULL
+[2026-01-11 03:12:46]    - Scope ID: 16
+[2026-01-11 03:12:46]    - Is Restricted: NO
+[2026-01-11 03:12:46] ✅ Sending response:
+[2026-01-11 03:12:46]    - Reply: --- ✨ JOIN CAREPLUS FAMILY ---
+
+🎉 GETTING STARTED IS EASY!
+
+1️⃣ REGISTER (2 minutes)
+
+• C
+[2026-01-11 03:12:46]    - Log ID: 
+[2026-01-11 03:12:46]    - Scope ID: 16
+[2026-01-11 03:12:46]    - Matched Scope: Registration
+[2026-01-11 03:12:46] ✅ Response sent successfully
+[2026-01-10 20:13:29] === Chatbot API Called ===
+[2026-01-10 20:13:29] Raw input length: 110
+[2026-01-10 20:13:29] Session: guest_session_1768072407130, Patient: guest, Type: guest
+[2026-01-10 20:13:29] Message: Contact support
+[2026-01-11 03:13:29] ✅ Database connected
+[2026-01-11 03:13:29] Controller initialized
+[2026-01-11 03:13:29] Processing message: Contact support
+[2026-01-11 03:13:29] Checking restrictions for: Contact support
+[2026-01-11 03:13:29] Found 12 restrictions
+[2026-01-11 03:13:29] No restrictions matched
+[2026-01-11 03:13:29] Finding scope for message, logged_in: no
+[2026-01-11 03:13:29] Found 19 scopes
+[2026-01-11 03:13:29] Matched scope: Help & Capabilities (matches: 1)
+[2026-01-11 03:13:29] Using database template, Scope ID: 2, length: 695
+[2026-01-11 03:13:29] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:13:29] Returning successful response, log_id: , scope_id: 2
+[2026-01-11 03:13:29] ✅ Controller returned:
+[2026-01-11 03:13:29]    - Reply length: 695
+[2026-01-11 03:13:29]    - Log ID: NULL
+[2026-01-11 03:13:29]    - Scope ID: 2
+[2026-01-11 03:13:29]    - Is Restricted: NO
+[2026-01-11 03:13:29] ✅ Sending response:
+[2026-01-11 03:13:29]    - Reply: 💬 Here's what I can help you with:
+--- 📋 APPOINTMENTS ---
+
+   • Book new appointments
+   •
+[2026-01-11 03:13:29]    - Log ID: 
+[2026-01-11 03:13:29]    - Scope ID: 2
+[2026-01-11 03:13:29]    - Matched Scope: Help & Capabilities
+[2026-01-11 03:13:29] ✅ Response sent successfully
+[2026-01-10 20:13:38] === Chatbot API Called ===
+[2026-01-10 20:13:38] Raw input length: 123
+[2026-01-10 20:13:38] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: patient
+[2026-01-10 20:13:38] Message: What are your clinic hours?
+[2026-01-11 03:13:38] ✅ Database connected
+[2026-01-11 03:13:38] Controller initialized
+[2026-01-11 03:13:38] Processing message: What are your clinic hours?
+[2026-01-11 03:13:38] Checking restrictions for: What are your clinic hours?
+[2026-01-11 03:13:38] Found 12 restrictions
+[2026-01-11 03:13:38] No restrictions matched
+[2026-01-11 03:13:38] Finding scope for message, logged_in: no
+[2026-01-11 03:13:38] Found 19 scopes
+[2026-01-11 03:13:38] Matched scope: Operating Hours (matches: 1)
+[2026-01-11 03:13:38] Using database template, Scope ID: 6, length: 318
+[2026-01-11 03:13:38] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:13:38] Returning successful response, log_id: , scope_id: 6
+[2026-01-11 03:13:38] ✅ Controller returned:
+[2026-01-11 03:13:38]    - Reply length: 318
+[2026-01-11 03:13:38]    - Log ID: NULL
+[2026-01-11 03:13:38]    - Scope ID: 6
+[2026-01-11 03:13:38]    - Is Restricted: NO
+[2026-01-11 03:13:38] ✅ Sending response:
+[2026-01-11 03:13:38]    - Reply: --- 🕐 CLINIC OPERATING HOURS ---
+
+📅 WEEKDAYS
+Monday - Saturday
+🕐 9:00 AM - 8:00 PM
+
+🚫 SU
+[2026-01-11 03:13:38]    - Log ID: 
+[2026-01-11 03:13:38]    - Scope ID: 6
+[2026-01-11 03:13:38]    - Matched Scope: Operating Hours
+[2026-01-11 03:13:38] ✅ Response sent successfully
+[2026-01-10 20:18:47] === Chatbot API Called ===
+[2026-01-10 20:18:47] Raw input length: 123
+[2026-01-10 20:18:47] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: guest, Type: patient
+[2026-01-10 20:18:47] Message: What are your clinic hours?
+[2026-01-11 03:18:47] ✅ Database connected
+[2026-01-11 03:18:47] Controller initialized
+[2026-01-11 03:18:47] Processing message: What are your clinic hours?
+[2026-01-11 03:18:47] Checking restrictions for: What are your clinic hours?
+[2026-01-11 03:18:47] Found 12 restrictions
+[2026-01-11 03:18:47] No restrictions matched
+[2026-01-11 03:18:47] Finding scope for message, logged_in: no
+[2026-01-11 03:18:47] Found 19 scopes
+[2026-01-11 03:18:47] Matched scope: Operating Hours (matches: 1)
+[2026-01-11 03:18:47] Using database template, Scope ID: 6, length: 318
+[2026-01-11 03:18:47] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:18:47] Returning successful response, log_id: , scope_id: 6
+[2026-01-11 03:18:47] ✅ Controller returned:
+[2026-01-11 03:18:47]    - Reply length: 318
+[2026-01-11 03:18:47]    - Log ID: NULL
+[2026-01-11 03:18:47]    - Scope ID: 6
+[2026-01-11 03:18:47]    - Is Restricted: NO
+[2026-01-11 03:18:47] ✅ Sending response:
+[2026-01-11 03:18:47]    - Reply: --- 🕐 CLINIC OPERATING HOURS ---
+
+📅 WEEKDAYS
+Monday - Saturday
+🕐 9:00 AM - 8:00 PM
+
+🚫 SU
+[2026-01-11 03:18:47]    - Log ID: 
+[2026-01-11 03:18:47]    - Scope ID: 6
+[2026-01-11 03:18:47]    - Matched Scope: Operating Hours
+[2026-01-11 03:18:47] ✅ Response sent successfully

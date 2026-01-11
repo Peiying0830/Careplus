@@ -1,0 +1,220 @@
+[2026-01-10 18:39:01] === Chatbot API Called ===
+[2026-01-10 18:39:01] Raw input length: 118
+[2026-01-10 18:39:01] Session: session_1768066727240, Patient: guest
+[2026-01-10 18:39:01] Message: How do I book an appointment?
+[2026-01-10 18:39:01] ERROR: Config file not found
+[2026-01-10 18:39:10] === Chatbot API Called ===
+[2026-01-10 18:39:10] Raw input length: 116
+[2026-01-10 18:39:10] Session: session_1768066727240, Patient: guest
+[2026-01-10 18:39:10] Message: What are your clinic hours?
+[2026-01-10 18:39:10] ERROR: Config file not found
+[2026-01-10 18:39:12] === Chatbot API Called ===
+[2026-01-10 18:39:12] Raw input length: 113
+[2026-01-10 18:39:13] Session: session_1768066727240, Patient: guest
+[2026-01-10 18:39:13] Message: How can I find a doctor?
+[2026-01-10 18:39:13] ERROR: Config file not found
+[2026-01-10 18:39:15] === Chatbot API Called ===
+[2026-01-10 18:39:15] Raw input length: 118
+[2026-01-10 18:39:15] Session: session_1768066727240, Patient: guest
+[2026-01-10 18:39:15] Message: How can I contact the clinic?
+[2026-01-10 18:39:15] ERROR: Config file not found
+[2026-01-10 18:41:11] === Chatbot API Called ===
+[2026-01-10 18:41:11] Raw input length: 128
+[2026-01-10 18:41:11] Session: session_1768066868400_eom73tk0h, Patient: guest
+[2026-01-10 18:41:11] Message: How do I book an appointment?
+[2026-01-10 18:41:11] ERROR: Config file not found
+[2026-01-10 18:42:08] === Chatbot API Called ===
+[2026-01-10 18:42:08] Raw input length: 96
+[2026-01-10 18:42:08] Session: test_session_1768066928, Patient: guest
+[2026-01-10 18:42:08] Message: Hello
+[2026-01-10 18:42:08] ERROR: Config file not found
+[2026-01-10 18:43:09] === Chatbot API Called ===
+[2026-01-10 18:43:09] Raw input length: 96
+[2026-01-10 18:43:09] Session: test_session_1768066989, Patient: guest
+[2026-01-10 18:43:09] Message: Hello
+[2026-01-10 18:43:09] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 01:43:09] Database connected
+[2026-01-11 01:43:09] Controller initialized
+[2026-01-11 01:43:09] Processing message: Hello
+[2026-01-11 01:43:10] Checking restrictions for: Hello
+[2026-01-11 01:43:10] Found 12 restrictions
+[2026-01-11 01:43:10] No restrictions matched
+[2026-01-11 01:43:10] Finding scope for message, logged_in: no
+[2026-01-11 01:43:10] Found 19 scopes
+[2026-01-11 01:43:10] Matched scope: Greetings (matches: 1)
+[2026-01-11 01:43:10] Using database template, Scope ID: 1, length: 371
+[2026-01-11 01:43:10] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 01:43:10] Returning successful response, log_id: , scope_id: 1
+[2026-01-11 01:43:10] Controller returned - Log ID: NULL, Scope ID: 1
+[2026-01-11 01:43:10] ✅ Sending response with log_id: 
+[2026-01-11 01:43:10] Response sent successfully
+[2026-01-10 18:43:12] === Chatbot API Called ===
+[2026-01-10 18:43:12] Raw input length: 96
+[2026-01-10 18:43:12] Session: test_session_1768066992, Patient: guest
+[2026-01-10 18:43:12] Message: Hello
+[2026-01-10 18:43:12] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 01:43:12] Database connected
+[2026-01-11 01:43:12] Controller initialized
+[2026-01-11 01:43:12] Processing message: Hello
+[2026-01-11 01:43:12] Checking restrictions for: Hello
+[2026-01-11 01:43:12] Found 12 restrictions
+[2026-01-11 01:43:12] No restrictions matched
+[2026-01-11 01:43:12] Finding scope for message, logged_in: no
+[2026-01-11 01:43:12] Found 19 scopes
+[2026-01-11 01:43:12] Matched scope: Greetings (matches: 1)
+[2026-01-11 01:43:12] Using database template, Scope ID: 1, length: 371
+[2026-01-11 01:43:12] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 01:43:12] Returning successful response, log_id: , scope_id: 1
+[2026-01-11 01:43:12] Controller returned - Log ID: NULL, Scope ID: 1
+[2026-01-11 01:43:12] ✅ Sending response with log_id: 
+[2026-01-11 01:43:12] Response sent successfully
+[2026-01-10 18:44:05] === Chatbot API Called ===
+[2026-01-10 18:44:05] Raw input length: 96
+[2026-01-10 18:44:05] Session: test_session_1768067045, Patient: guest
+[2026-01-10 18:44:05] Message: Hello
+[2026-01-10 18:44:05] ERROR: Config file not found
+[2026-01-10 18:44:09] === Chatbot API Called ===
+[2026-01-10 18:44:09] Raw input length: 96
+[2026-01-10 18:44:09] Session: test_session_1768067049, Patient: guest
+[2026-01-10 18:44:09] Message: Hello
+[2026-01-10 18:44:09] ERROR: Config file not found
+[2026-01-10 18:44:09] === Chatbot API Called ===
+[2026-01-10 18:44:09] Raw input length: 96
+[2026-01-10 18:44:09] Session: test_session_1768067049, Patient: guest
+[2026-01-10 18:44:09] Message: Hello
+[2026-01-10 18:44:09] ERROR: Config file not found
+[2026-01-10 18:44:09] === Chatbot API Called ===
+[2026-01-10 18:44:09] Raw input length: 96
+[2026-01-10 18:44:09] Session: test_session_1768067049, Patient: guest
+[2026-01-10 18:44:09] Message: Hello
+[2026-01-10 18:44:09] ERROR: Config file not found
+[2026-01-10 18:44:10] === Chatbot API Called ===
+[2026-01-10 18:44:10] Raw input length: 96
+[2026-01-10 18:44:10] Session: test_session_1768067050, Patient: guest
+[2026-01-10 18:44:10] Message: Hello
+[2026-01-10 18:44:10] ERROR: Config file not found
+[2026-01-10 18:44:15] === Chatbot API Called ===
+[2026-01-10 18:44:15] Raw input length: 96
+[2026-01-10 18:44:15] Session: test_session_1768067055, Patient: guest
+[2026-01-10 18:44:15] Message: Hello
+[2026-01-10 18:44:15] ERROR: Config file not found
+[2026-01-10 18:44:19] === Chatbot API Called ===
+[2026-01-10 18:44:19] Raw input length: 96
+[2026-01-10 18:44:19] Session: test_session_1768067059, Patient: guest
+[2026-01-10 18:44:19] Message: Hello
+[2026-01-10 18:44:19] ERROR: Config file not found
+[2026-01-10 18:44:20] === Chatbot API Called ===
+[2026-01-10 18:44:20] Raw input length: 96
+[2026-01-10 18:44:20] Session: test_session_1768067060, Patient: guest
+[2026-01-10 18:44:20] Message: Hello
+[2026-01-10 18:44:20] ERROR: Config file not found
+[2026-01-10 18:44:21] === Chatbot API Called ===
+[2026-01-10 18:44:21] Raw input length: 96
+[2026-01-10 18:44:21] Session: test_session_1768067061, Patient: guest
+[2026-01-10 18:44:21] Message: Hello
+[2026-01-10 18:44:21] ERROR: Config file not found
+[2026-01-10 18:44:35] === Chatbot API Called ===
+[2026-01-10 18:44:35] Raw input length: 128
+[2026-01-10 18:44:35] Session: session_1768066868400_eom73tk0h, Patient: guest
+[2026-01-10 18:44:35] Message: How can I contact the clinic?
+[2026-01-10 18:44:35] ERROR: Config file not found
+[2026-01-10 18:45:42] === Chatbot API Called ===
+[2026-01-10 18:45:42] Raw input length: 96
+[2026-01-10 18:45:42] Session: test_session_1768067142, Patient: guest
+[2026-01-10 18:45:42] Message: Hello
+[2026-01-10 18:45:42] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 01:45:42] Database connected
+[2026-01-11 01:45:42] Controller initialized
+[2026-01-11 01:45:42] Processing message: Hello
+[2026-01-11 01:45:42] Checking restrictions for: Hello
+[2026-01-11 01:45:42] Found 12 restrictions
+[2026-01-11 01:45:42] No restrictions matched
+[2026-01-11 01:45:42] Finding scope for message, logged_in: no
+[2026-01-11 01:45:42] Found 19 scopes
+[2026-01-11 01:45:42] Matched scope: Greetings (matches: 1)
+[2026-01-11 01:45:42] Using database template, Scope ID: 1, length: 371
+[2026-01-11 01:45:42] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 01:45:42] Returning successful response, log_id: , scope_id: 1
+[2026-01-11 01:45:42] Controller returned - Log ID: NULL, Scope ID: 1
+[2026-01-11 01:45:42] ✅ Sending response with log_id: 
+[2026-01-11 01:45:42] Response sent successfully
+[2026-01-10 18:51:11] === Chatbot API Called ===
+[2026-01-10 18:51:11] Raw input length: 122
+[2026-01-10 18:51:11] Session: h8usqq834f2n94f3df2jtseou1, Patient: 1
+[2026-01-10 18:51:11] Message: How do I book an appointment?
+[2026-01-10 18:51:11] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 01:51:11] Database connected
+[2026-01-11 01:51:11] Controller initialized
+[2026-01-11 01:51:11] Processing message: How do I book an appointment?
+[2026-01-11 01:51:11] Checking restrictions for: How do I book an appointment?
+[2026-01-11 01:51:11] Found 12 restrictions
+[2026-01-11 01:51:11] No restrictions matched
+[2026-01-11 01:51:11] Finding scope for message, logged_in: yes
+[2026-01-11 01:51:11] Found 19 scopes
+[2026-01-11 01:51:11] No scope matched
+[2026-01-11 01:51:11] Showing interactive menu (no scope matched)
+[2026-01-11 01:51:11] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 01:51:11] Returning successful response, log_id: , scope_id: NULL
+[2026-01-11 01:51:11] Controller returned - Log ID: NULL, Scope ID: NULL
+[2026-01-11 01:51:11] ✅ Sending response with log_id: 
+[2026-01-11 01:51:11] Response sent successfully
+[2026-01-10 18:56:39] === Chatbot API Called ===
+[2026-01-10 18:56:39] Raw input length: 122
+[2026-01-10 18:56:39] Session: h8usqq834f2n94f3df2jtseou1, Patient: 1
+[2026-01-10 18:56:39] Message: How do I book an appointment?
+[2026-01-10 18:56:39] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 01:56:39] Database connected
+[2026-01-11 01:56:39] Controller initialized
+[2026-01-11 01:56:39] Processing message: How do I book an appointment?
+[2026-01-11 01:56:39] Checking restrictions for: How do I book an appointment?
+[2026-01-11 01:56:39] Found 12 restrictions
+[2026-01-11 01:56:39] No restrictions matched
+[2026-01-11 01:56:39] Finding scope for message, logged_in: yes
+[2026-01-11 01:56:39] Found 19 scopes
+[2026-01-11 01:56:39] No scope matched
+[2026-01-11 01:56:39] Showing interactive menu (no scope matched)
+[2026-01-11 01:56:39] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 01:56:39] Returning successful response, log_id: , scope_id: NULL
+[2026-01-11 01:56:39] Controller returned - Log ID: NULL, Scope ID: NULL
+[2026-01-11 01:56:39] ✅ Sending response with log_id: 
+[2026-01-11 01:56:39] Response sent successfully
+[2026-01-10 19:05:24] === Chatbot API Called ===
+[2026-01-10 19:05:24] Raw input length: 120
+[2026-01-10 19:05:24] Session: h8usqq834f2n94f3df2jtseou1, Patient: 1
+[2026-01-10 19:05:24] Message: What are your clinic hours?
+[2026-01-10 19:05:24] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 02:05:24] Database connected
+[2026-01-11 02:05:24] Controller initialized
+[2026-01-11 02:05:24] Processing message: What are your clinic hours?
+[2026-01-11 02:05:24] Checking restrictions for: What are your clinic hours?
+[2026-01-11 02:05:24] Found 12 restrictions
+[2026-01-11 02:05:24] No restrictions matched
+[2026-01-11 02:05:24] Finding scope for message, logged_in: yes
+[2026-01-11 02:05:24] Found 19 scopes
+[2026-01-11 02:05:24] Matched scope: Operating Hours (matches: 1)
+[2026-01-11 02:05:24] Using database template, Scope ID: 6, length: 318
+[2026-01-11 02:05:24] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 02:05:24] Returning successful response, log_id: , scope_id: 6
+[2026-01-11 02:05:24] Controller returned - Log ID: NULL, Scope ID: 6
+[2026-01-11 02:05:24] ✅ Sending response with log_id: 
+[2026-01-11 02:05:24] Response sent successfully
+[2026-01-10 20:22:27] === Chatbot API Called ===
+[2026-01-10 20:22:27] Raw input length: 122
+[2026-01-10 20:22:27] Session: sv0uppu7h7ju2pr1n7j1ei3saq, Patient: 1
+[2026-01-10 20:22:27] Message: How can I contact the clinic?
+[2026-01-10 20:22:27] Found config.php at: C:\xampp\htdocs\CarePlus\patient/../config.php
+[2026-01-11 03:22:27] Database connected
+[2026-01-11 03:22:27] Controller initialized
+[2026-01-11 03:22:27] Processing message: How can I contact the clinic?
+[2026-01-11 03:22:27] Checking restrictions for: How can I contact the clinic?
+[2026-01-11 03:22:27] Found 12 restrictions
+[2026-01-11 03:22:27] No restrictions matched
+[2026-01-11 03:22:27] Finding scope for message, logged_in: yes
+[2026-01-11 03:22:27] Found 19 scopes
+[2026-01-11 03:22:27] Matched scope: Contact Information (matches: 1)
+[2026-01-11 03:22:27] Using database template, Scope ID: 9, length: 518
+[2026-01-11 03:22:27] ❌ DB save failed: Unknown column 'matched_scope_id' in 'field list'
+[2026-01-11 03:22:27] Returning successful response, log_id: , scope_id: 9
+[2026-01-11 03:22:27] Controller returned - Log ID: NULL, Scope ID: 9
+[2026-01-11 03:22:27] ✅ Sending response with log_id: 
+[2026-01-11 03:22:27] Response sent successfully

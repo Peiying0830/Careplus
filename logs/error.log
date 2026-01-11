@@ -1,0 +1,130 @@
+[2025-12-11 02:10:17] Registration database error: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[2025-12-11 15:20:10] Registration database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ic_number' in 'where clause'
+[2025-12-12 01:18:02] Registration database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ic_number' in 'where clause'
+[2025-12-17 11:54:17] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:50:51] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:51:11] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:51:57] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:53:51] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:53:53] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:54:16] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:54:19] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:54:26] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:54:48] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 00:54:53] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 01:01:04] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 01:01:06] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 01:24:03] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 09:20:32] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 09:42:41] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'clinic_management.password_resets' doesn't exist
+[2025-12-19 23:50:00] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-19 23:50:22] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-19 23:52:13] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-19 23:52:19] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-19 23:53:51] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-19 23:53:55] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-19 23:54:04] Failed to send OTP to: peiying.len@qiu.edu.my
+[2025-12-20 12:22:24] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.security_answer' in 'field list'
+[2025-12-20 13:20:04] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.security_answer' in 'field list'
+[2025-12-20 13:24:27] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.security_answer' in 'field list'
+[2025-12-20 13:24:51] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.security_answer' in 'field list'
+[2025-12-20 13:30:23] Registration error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'security_answer' in 'field list'
+[2025-12-20 14:57:04] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.ic_number' in 'where clause'
+[2025-12-20 14:57:25] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.ic_number' in 'where clause'
+[2025-12-20 14:57:59] Identity verification error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.ic_number' in 'where clause'
+[2025-12-21 13:30:06] Symptom Checker Error: API request failed with code: 404
+[2025-12-21 13:40:02] Symptom Checker Error: API request failed with code: 404
+[2025-12-21 14:07:34] Symptom Checker Error: API request failed with code: 404
+[2025-12-22 00:10:12] Registration error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_of_birth' in 'field list'
+[2026-01-02 00:42:23] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-02 00:52:29] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-02 00:55:04] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-02 02:17:02] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-02 02:59:12] Logout: User ID 4 (admin) from IP ::1
+[2026-01-02 03:01:03] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-02 12:28:58] Logout: User ID 4 (admin) from IP ::1
+[2026-01-02 12:38:10] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-02 18:08:36] Logout: User ID 4 (admin) from IP ::1
+[2026-01-03 02:19:46] Logout: User ID 4 (admin) from IP ::1
+[2026-01-03 18:27:30] Logout: User ID 1 (patient) from IP ::1
+[2026-01-03 22:01:16] Logout: User ID 1 (patient) from IP ::1
+[2026-01-04 02:42:12] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-04 02:56:27] Logout: User ID 4 (admin) from IP ::1
+[2026-01-04 02:57:42] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-04 03:07:12] Logout: User ID 1 (patient) from IP ::1
+[2026-01-04 03:16:45] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-04 04:31:02] Logout: User ID 4 (admin) from IP ::1
+[2026-01-04 04:34:40] Logout: User ID 3 (doctor) from IP ::1
+[2026-01-04 04:53:19] Logout: User ID 1 (patient) from IP ::1
+[2026-01-04 22:12:52] Logout: User ID 4 (admin) from IP ::1
+[2026-01-05 17:20:45] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-05 17:21:52] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-05 17:30:16] Logout: User ID 1 (patient) from IP ::1
+[2026-01-05 17:51:47] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-05 19:10:58] Logout: User ID 1 (patient) from IP ::1
+[2026-01-05 19:25:36] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-05 20:15:29] Logout: User ID 1 (patient) from IP ::1
+[2026-01-05 20:16:40] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-05 23:02:44] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 00:33:55] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 00:49:24] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-06 00:52:42] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 01:34:38] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 02:42:54] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 03:37:59] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 03:38:28] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 03:39:55] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 04:39:06] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 05:29:40] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:29:40] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:38:12] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:38:12] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:38:26] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:38:26] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:38:26] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:39:40] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:39:42] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:40:33] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:40:34] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:41:03] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:41:47] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 05:41:48] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 10:02:41] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 10:03:15] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 10:03:47] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-06 10:05:09] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 10:09:26] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 10:24:23] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 10:33:54] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-06 10:34:59] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 10:41:03] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 10:41:52] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-06 10:46:17] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 10:47:19] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 10:48:29] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 11:09:28] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 11:12:35] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 15:58:59] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 16:02:37] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-06 17:25:18] Logout: User ID 1 (patient) from IP ::1
+[2026-01-06 17:27:46] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-06 17:29:28] Logout: User ID 4 (admin) from IP ::1
+[2026-01-06 17:35:38] Logout: User ID 4 (admin) from IP ::1
+[2026-01-07 12:08:09] Logout: User ID 1 (patient) from IP ::1
+[2026-01-08 23:01:50] Logout: User ID 4 (admin) from IP ::1
+[2026-01-08 23:37:39] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-09 00:21:18] Logout: User ID 1 (patient) from IP ::1
+[2026-01-09 01:04:33] Logout: User ID 5 (doctor) from IP ::1
+[2026-01-09 01:18:44] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-09 02:04:26] Logout: User ID 4 (admin) from IP ::1
+[2026-01-09 02:05:48] Logout: User ID 1 (patient) from IP ::1
+[2026-01-09 02:06:37] Logout: User ID 2 (doctor) from IP ::1
+[2026-01-09 12:47:12] Logout: User ID 6 (patient) from IP ::1
+[2026-01-09 12:49:09] Logout: User ID 5 (doctor) from IP ::1
+[2026-01-09 12:53:01] Logout: User ID 6 (patient) from IP ::1
+[2026-01-09 12:53:34] Logout: User ID 7 (admin) from IP ::1
+[2026-01-09 12:55:24] Logout: User ID 7 (admin) from IP ::1
+[2026-01-11 02:06:22] Logout: User ID 1 (patient) from IP ::1
+[2026-01-11 02:45:32] Privacy page viewed - User ID: guest - IP: ::1
+[2026-01-11 02:57:41] Logout: User ID 1 (patient) from IP ::1
+[2026-01-11 02:57:57] Logout: User ID 1 (patient) from IP ::1
